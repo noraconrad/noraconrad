@@ -8,24 +8,35 @@ tags:
 
 Welcome to my projects page! Here you can find information about my work, GitHub contributions, and detailed project information.
 
-## Portfolio Site
-
-Visit my portfolio site: [stephconrad.vercel.app](https://stephconrad.vercel.app)
-
-You can also view the source code on GitHub: [github.com/noraconrad/stephconrad](https://github.com/noraconrad/stephconrad)
-
 ## GitHub Contributions
 
-<iframe src="https://github.com/users/noraconrad/contributions" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
+<figure>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noraconrad&theme=github-compact" alt="GitHub Activity Graph" style="width: 100%; max-width: 800px;" />
+</figure>
 
-## Featured Projects
+## Active Projects
 
-### Knowledge Garden
-This site itself is a project - a digital garden built with Quartz, showcasing my notes, thoughts, and learning journey.
+### [[Ardor Dashboard]]
+Custom data-driven dashboard for sales, ROS and SPINs data. Real-time retail analytics aggregating weekly sales data from multiple retail channels.
 
-### Portfolio
-A showcase of my work, skills, and experience. Built with modern web technologies.
+### [[Nora Conrad]]
+A decade-long digital brand and content platform with 100K+ monthly blog views, 8K-subscriber YouTube channel, and multiple revenue streams.
+
+### [[YouTube Analytics]]
+Personal business metrics tracking for @NoraConrad YouTube channel with custom dashboards and revenue tracking.
+
+## Projects in Development
+
+### [[Warehouse Management System]]
+Multi-client inventory and warehouse management system built to streamline CPG fulfillment operations.
+
+### [[Creator Budget]]
+Full financial management tool for solo creators to track income, expenses, and profitability across multiple revenue streams.
 
 ---
 
-*More projects coming soon!*
+## About This Site
+
+This digital garden is built with [Quartz](https://quartz.jzhao.xyz/), a static site generator that transforms your markdown files into a beautiful, fast website.
+
+You can view the source code on GitHub: [github.com/noraconrad/noraconrad](https://github.com/noraconrad/noraconrad)
