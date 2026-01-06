@@ -3,11 +3,6 @@ title: "5 Simple Ways to Streamline Your Business"
 date: 2017-09-13
 tags: 
   - posts
-  - "automation-tools"
-  - "business-tools"
-  - "business-workflow"
-  - "streamline-your-business"
-  - "workflow-automation"
 lastmod: 2026-01-06
 description: 
 publish: true

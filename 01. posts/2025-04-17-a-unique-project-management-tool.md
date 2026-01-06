@@ -1,17 +1,14 @@
 ---
 title: "A Unique Project Management Tool"
 date: 2025-04-17
-  - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
   - posts
 description: 
 publish: true
-  - productivity
 categories:
   - "productivity"
-  - operations
 ---
 
 ![](images/Walter-Randlehoff-Lifestyle-Photo-scaled.jpg)

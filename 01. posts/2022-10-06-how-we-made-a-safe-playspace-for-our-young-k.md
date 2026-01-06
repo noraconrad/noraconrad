@@ -3,11 +3,6 @@ title: "How we made a safe playspace for our young kids"
 date: 2022-10-06
 tags: 
   - posts
-  - "infant-playard"
-  - "playroom"
-  - "toddler-play-zone"
-  - "toy-room"
-  - "young-kids"
 lastmod: 2026-01-06
 description: 
 publish: true

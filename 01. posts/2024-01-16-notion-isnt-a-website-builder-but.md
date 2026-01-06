@@ -1,7 +1,6 @@
 ---
 title: "Notion isn’t a website builder, but…"
 date: 2024-01-16
-  - "business"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
@@ -10,7 +9,6 @@ description:
 publish: true
 categories:
   - "business"
-  - productivity
 ---
 
 ![](images/Work-from-Anywhere-Photo-scaled.jpg)

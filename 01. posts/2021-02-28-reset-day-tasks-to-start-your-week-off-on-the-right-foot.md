@@ -3,11 +3,6 @@ title: "“Reset Day” tasks to start your week off on the right foot"
 date: 2021-02-28
 tags: 
   - posts
-  - "reset-day"
-  - "reset-routine"
-  - "sunday-reset"
-  - "sunday-scaries"
-  - "weekly-routine"
 lastmod: 2026-01-06
 description: 
 publish: true

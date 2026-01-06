@@ -1,7 +1,6 @@
 ---
 title: "10 Unspoken Rules of Adulting You Can Not Afford to Ignore"
 date: 2024-01-02
-  - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:

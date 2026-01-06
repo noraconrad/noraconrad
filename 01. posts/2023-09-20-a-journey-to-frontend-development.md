@@ -1,14 +1,8 @@
 ---
 title: "A journey to frontend development"
 date: 2023-09-20
-  - "business"
 tags: 
   - posts
-  - "break-into-tech"
-  - "frontend-development"
-  - "full-stack-developer"
-  - "learn-javascript"
-  - "learn-to-code"
 lastmod: 2026-01-06
 description: 
 publish: true

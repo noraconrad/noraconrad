@@ -3,11 +3,6 @@ title: "Tools & Apps to help you read your bible more intentionally"
 date: 2022-03-07
 tags: 
   - posts
-  - "bible-reading-plans"
-  - "bible-study"
-  - "bible-study-app"
-  - "bible-study-tools"
-  - "christian-resources"
 lastmod: 2026-01-06
 description: 
 publish: true

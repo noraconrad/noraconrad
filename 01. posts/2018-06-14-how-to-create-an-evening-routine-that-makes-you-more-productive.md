@@ -3,11 +3,6 @@ title: "How to Create an Evening Routine that Makes you More Productive"
 date: 2018-06-14
 tags: 
   - posts
-  - "evening-routine"
-  - "nighttime-routine"
-  - "productive-routine"
-  - "routines"
-  - "sleep-routines"
 lastmod: 2026-01-06
 description: 
 publish: true

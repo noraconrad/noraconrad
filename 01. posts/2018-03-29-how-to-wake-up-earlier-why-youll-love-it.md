@@ -3,11 +3,6 @@ title: "How to Wake Up Earlier & Why You’ll Love It"
 date: 2018-03-29
 tags: 
   - posts
-  - "early-bird"
-  - "morning-routine"
-  - "wake-up"
-  - "wake-up-earlier"
-  - "wake-up-early"
 lastmod: 2026-01-06
 description: 
 publish: true

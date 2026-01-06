@@ -3,11 +3,6 @@ title: "How to Meal Plan for an Entire Month & Save Money on Groceries"
 date: 2018-03-01
 tags: 
   - posts
-  - "grocery-shopping"
-  - "meal-plan"
-  - "meal-prep"
-  - "notion"
-  - "save-money"
 lastmod: 2026-01-06
 description: 
 publish: true

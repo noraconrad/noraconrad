@@ -3,11 +3,6 @@ title: "SetApp — Is it worth a subscription?"
 date: 2023-11-09
 tags: 
   - posts
-  - "app-stack"
-  - "productivity"
-  - "productivity-apps"
-  - "productivity-stack"
-  - "setapp"
 lastmod: 2026-01-06
 description: 
 publish: true

@@ -3,11 +3,6 @@ title: "My Planning System; an in-depth look at how I plan everything"
 date: 2022-01-31
 tags: 
   - posts
-  - "notion"
-  - "planning"
-  - "sunsama"
-  - "system"
-  - "todoist"
 lastmod: 2026-01-06
 description: 
 publish: true

@@ -3,11 +3,6 @@ title: "Mastering Productivity with Time Blocking"
 date: 2023-09-22
 tags: 
   - posts
-  - "planning"
-  - "productivity-apps"
-  - "sunsama"
-  - "time-blocking"
-  - "time-blocking-method"
 lastmod: 2026-01-06
 description: 
 publish: true

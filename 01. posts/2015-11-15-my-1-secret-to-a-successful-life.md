@@ -3,11 +3,6 @@ title: "My #1 Secret to a Successful Life"
 date: 2015-11-15
 tags: 
   - posts
-  - "learning"
-  - "self-improvement"
-  - "self-improvement-tips"
-  - "success"
-  - "successful"
 lastmod: 2026-01-06
 description: 
 publish: true

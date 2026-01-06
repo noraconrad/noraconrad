@@ -3,11 +3,6 @@ title: "Journaling Toward a Better You"
 date: 2023-10-30
 tags: 
   - posts
-  - "journaling"
-  - "journaling-benefits"
-  - "journaling-habits"
-  - "second-brain"
-  - "thoughts-and-feelings"
 lastmod: 2026-01-06
 description: 
 publish: true

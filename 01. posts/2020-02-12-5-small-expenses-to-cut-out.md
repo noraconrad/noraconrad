@@ -3,10 +3,6 @@ title: "5 Small Expenses to cut out"
 date: 2020-02-12
 tags: 
   - posts
-  - "cut-expenses"
-  - "expenses-to-cut"
-  - "save-money"
-  - "save-money-tips"
 lastmod: 2026-01-06
 description: 
 publish: true

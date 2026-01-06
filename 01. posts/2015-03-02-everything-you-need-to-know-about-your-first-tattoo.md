@@ -3,11 +3,6 @@ title: "Everything You Need to Know About Your First Tattoo"
 date: 2015-03-02
 tags: 
   - posts
-  - "first-tattoo"
-  - "tattoo"
-  - "tattoo-tips"
-  - "tattooing"
-  - "what-to-expect"
 lastmod: 2026-01-06
 description: 
 publish: true

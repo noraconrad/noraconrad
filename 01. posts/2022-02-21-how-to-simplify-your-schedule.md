@@ -3,9 +3,6 @@ title: "How to simplify your schedule"
 date: 2022-02-21
 tags: 
   - posts
-  - "calendar-apps"
-  - "schedule"
-  - "simplify"
 lastmod: 2026-01-06
 description: 
 publish: true

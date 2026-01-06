@@ -3,11 +3,6 @@ title: "5 Lessons learned by getting debt free in 2023"
 date: 2023-09-21
 tags: 
   - posts
-  - "debt"
-  - "debt-free"
-  - "debt-free-journey"
-  - "paying-off-debt"
-  - "personal-finance"
 lastmod: 2026-01-06
 description: 
 publish: true

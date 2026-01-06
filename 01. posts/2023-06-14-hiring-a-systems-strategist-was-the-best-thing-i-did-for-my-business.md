@@ -3,16 +3,9 @@ title: "Hiring a Systems Strategist was the best thing I did for my business"
 date: 2023-06-14
 tags: 
   - posts
-  - "business-organization"
-  - "digital-organization"
-  - "small-business-hires"
-  - "small-business-tips"
-  - "systems-strategist"
 lastmod: 2026-01-06
 description: 
 publish: true
-  - productivity
-  - small-business
 categories:
   - operations
 ---

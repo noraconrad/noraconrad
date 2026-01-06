@@ -3,11 +3,6 @@ title: "Apps I don’t use, but still, love"
 date: 2022-04-27
 tags: 
   - posts
-  - "app-recommendation"
-  - "apps"
-  - "free-notion-alternative"
-  - "productivity"
-  - "todoist"
 lastmod: 2026-01-06
 description: 
 publish: true

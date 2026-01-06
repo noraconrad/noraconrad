@@ -3,11 +3,6 @@ title: "I finally found my perfect “Notes” app"
 date: 2023-02-08
 tags: 
   - posts
-  - "knowledge-management"
-  - "note-app"
-  - "pkm"
-  - "productivity-stack"
-  - "remnote"
 lastmod: 2026-01-06
 description: 
 publish: true

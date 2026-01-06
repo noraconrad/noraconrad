@@ -3,11 +3,6 @@ title: "10 Ways to Simplify Your day-to-day Life"
 date: 2018-03-15
 tags: 
   - posts
-  - "daily-life"
-  - "daily-routine"
-  - "simple-living"
-  - "simplify"
-  - "simplify-your-life"
 lastmod: 2026-01-06
 description: 
 publish: true

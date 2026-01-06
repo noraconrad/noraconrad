@@ -1,7 +1,6 @@
 ---
 title: "Mastering Monthly Goals"
 date: 2024-05-30
-  - "productivity"
 coverImage: "img.png"
 lastmod: 2026-01-06
 tags:
@@ -10,7 +9,6 @@ description:
 publish: true
 categories:
   - "productivity"
-  - goals-growth
 ---
 
 ![](images/1_VQmgwEoPt03jdgbPktPBmA.png)

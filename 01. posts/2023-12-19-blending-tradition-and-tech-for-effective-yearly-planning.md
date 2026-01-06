@@ -1,7 +1,6 @@
 ---
 title: "Blending Tradition and Tech for Effective Yearly Planning"
 date: 2023-12-19
-  - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
@@ -10,7 +9,6 @@ description:
 publish: true
 categories:
   - "productivity"
-  - goals-growth
 ---
 
 ![](images/Productivity-Desk-Photo-5-scaled.jpg)

@@ -3,11 +3,6 @@ title: "Using Sunsama to consolidate my tasks"
 date: 2023-11-27
 tags: 
   - posts
-  - "productivity"
-  - "sunsama"
-  - "sunsama-app-review"
-  - "task-dashboard"
-  - "task-management"
 lastmod: 2026-01-06
 description: 
 publish: true

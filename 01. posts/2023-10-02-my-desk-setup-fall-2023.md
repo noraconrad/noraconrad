@@ -3,10 +3,6 @@ title: "My Desk Setup — Fall 2023"
 date: 2023-10-02
 tags: 
   - posts
-  - "desk-setup"
-  - "desk-tour"
-  - "office-tour"
-  - "wfh-setup"
 lastmod: 2026-01-06
 description: 
 publish: true

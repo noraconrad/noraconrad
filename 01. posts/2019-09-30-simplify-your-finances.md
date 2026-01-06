@@ -3,11 +3,6 @@ title: "Simplify your Finances"
 date: 2019-09-30
 tags: 
   - posts
-  - "debt-free-tips"
-  - "debt-payoff"
-  - "finance"
-  - "personal-finance-tips"
-  - "simplifying-your-finances"
 lastmod: 2026-01-06
 description: 
 publish: true

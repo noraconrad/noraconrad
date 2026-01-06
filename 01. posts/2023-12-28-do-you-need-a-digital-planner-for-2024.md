@@ -1,7 +1,6 @@
 ---
 title: "Do you need a digital planner for 2024"
 date: 2023-12-28
-  - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
@@ -10,7 +9,6 @@ description:
 publish: true
 categories:
   - "productivity"
-  - goals-growth
 ---
 
 ![](images/Productivity-Desk-Photo-2-scaled.jpg)

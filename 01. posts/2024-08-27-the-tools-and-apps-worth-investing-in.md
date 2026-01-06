@@ -1,7 +1,6 @@
 ---
 title: "The Tools and Apps Worth Investing In"
 date: 2024-08-27
-  - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
@@ -10,7 +9,6 @@ description:
 publish: true
 categories:
   - "productivity"
-  - productivity
 ---
 
 #### What I’ll be paying for in 2025

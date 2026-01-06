@@ -3,11 +3,6 @@ title: "How Proverbs 31 Fits into my Business Plan"
 date: 2015-11-22
 tags: 
   - posts
-  - "business-bible-study"
-  - "proverbs-31"
-  - "proverbs-31-business"
-  - "proverbs-31-woman"
-  - "verse-by-verse"
 lastmod: 2026-01-06
 description: 
 publish: true

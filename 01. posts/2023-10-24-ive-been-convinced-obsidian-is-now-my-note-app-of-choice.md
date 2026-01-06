@@ -3,11 +3,6 @@ title: "I’ve been convinced. Obsidian is now my note app of choice"
 date: 2023-10-24
 tags: 
   - posts
-  - "building-a-second-brain"
-  - "coding"
-  - "notes-app"
-  - "obsidian"
-  - "second-brain"
 lastmod: 2026-01-06
 description: 
 publish: true

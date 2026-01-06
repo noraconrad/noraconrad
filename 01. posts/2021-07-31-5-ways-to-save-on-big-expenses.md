@@ -3,11 +3,6 @@ title: "5 Ways to Save on Big Expenses"
 date: 2021-07-31
 tags: 
   - posts
-  - "big-expenses"
-  - "debt"
-  - "how-to"
-  - "save-money"
-  - "save-money-tips"
 lastmod: 2026-01-06
 description: 
 publish: true

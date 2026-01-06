@@ -1,19 +1,14 @@
 ---
 title: "Every Content Creator Needs an Email System"
 date: 2025-04-08
-  - "business"
-  - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
   - posts
 description: 
 publish: true
-  - productivity
-  - small-business
 categories:
   - "business"
-  - operations
 ---
 
 ![](images/Computer-Image-from-Unsplash-scaled.jpg)

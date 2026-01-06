@@ -1,7 +1,6 @@
 ---
 title: "Sustainable Work Habits for Remote Work"
 date: 2024-01-09
-  - "mental-health"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
@@ -10,7 +9,6 @@ description:
 publish: true
 categories:
   - "mental-health"
-  - goals-growth
 ---
 
 ![](images/Work-from-Anywhere-Photo-3-scaled.jpg)

@@ -1,7 +1,6 @@
 ---
 title: "Strategies for Managing Daily Tasks"
 date: 2025-06-10
-  - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
@@ -10,7 +9,6 @@ description:
 publish: true
 categories:
   - "productivity"
-  - productivity
 ---
 
 ## _No, it’s not another task manager_

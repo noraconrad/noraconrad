@@ -3,17 +3,11 @@ title: "Create a mini business plan"
 date: 2022-02-01
 tags: 
   - posts
-  - "business-strategy"
-  - "entrepreneur"
-  - "side-hustle"
-  - "small-business"
-  - "wfh"
 lastmod: 2026-01-06
 description: 
 publish: true
 categories:
   - goals-growth
-  - small-business
 ---
 
 YouTube channel, Etsy shop, course — it doesn't matter what you sell, you need a plan

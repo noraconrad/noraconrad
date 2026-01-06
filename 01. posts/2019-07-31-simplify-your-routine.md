@@ -3,10 +3,6 @@ title: "Simplify your Routine"
 date: 2019-07-31
 tags: 
   - posts
-  - "habit-building"
-  - "habits"
-  - "routines"
-  - "simplify-your-routine"
 lastmod: 2026-01-06
 description: 
 publish: true

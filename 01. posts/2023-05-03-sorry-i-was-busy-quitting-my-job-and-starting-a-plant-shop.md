@@ -3,15 +3,9 @@ title: "Sorry, I was busy quitting my job and starting a plant shop"
 date: 2023-05-03
 tags: 
   - posts
-  - "leap-of-faith"
-  - "online-business"
-  - "online-plant-shop"
-  - "plant-shop"
-  - "quitting-a-job"
 lastmod: 2026-01-06
 description: 
 publish: true
-  - small-business
 categories:
   - goals-growth
 ---

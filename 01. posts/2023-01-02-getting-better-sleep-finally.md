@@ -3,11 +3,6 @@ title: "Getting better sleep… finally"
 date: 2023-01-02
 tags: 
   - posts
-  - "better-sleep-habits"
-  - "daily-routine-for-sleep"
-  - "evening-routine"
-  - "morning-routine-ideas"
-  - "sleep-tips"
 lastmod: 2026-01-06
 description: 
 publish: true

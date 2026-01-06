@@ -1,19 +1,14 @@
 ---
 title: "The Client Problem That Sunsama Solved"
 date: 2025-06-16
-  - "business"
-  - "operations"
-  - "productivity"
 coverImage: "img.png"
 lastmod: 2026-01-06
 tags:
   - posts
 description: 
 publish: true
-  - small-business
 categories:
   - "business"
-  - productivity
 ---
 
 ## _How I stopped drowning in other people’s systems_

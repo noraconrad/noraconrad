@@ -3,15 +3,9 @@ title: "Mac apps that drive my workflow"
 date: 2023-09-01
 tags: 
   - posts
-  - "app-stack"
-  - "current-app"
-  - "mac-apps"
-  - "mac-productivity"
-  - "productivity-apps"
 lastmod: 2026-01-06
 description: 
 publish: true
-  - productivity
 categories:
   - operations
 ---

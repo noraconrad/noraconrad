@@ -3,11 +3,6 @@ title: "Stop trying to be productive, do this instead (Second Brain Setup)"
 date: 2022-09-01
 tags: 
   - posts
-  - "building-a-second-brain"
-  - "knowledge-management"
-  - "notion-template"
-  - "productivity"
-  - "second-brain"
 lastmod: 2026-01-06
 description: 
 publish: true

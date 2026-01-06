@@ -1,14 +1,8 @@
 ---
 title: "The single best solution to beautiful screen recordings"
 date: 2023-08-16
-  - "business"
 tags: 
   - posts
-  - "loom-alternative"
-  - "screen-recording"
-  - "screen-recording-tool"
-  - "tella"
-  - "video-content-creation"
 lastmod: 2026-01-06
 description: 
 publish: true

@@ -3,11 +3,6 @@ title: "How to set Goals you will Actually Reach"
 date: 2018-01-04
 tags: 
   - posts
-  - "goal-setting"
-  - "goals"
-  - "how-to-set-goals"
-  - "setting-goals-for-2022"
-  - "setting-goals-for-2023"
 lastmod: 2026-01-06
 description: 
 publish: true

@@ -3,11 +3,6 @@ title: "I know I said I found my perfect notes app, but…"
 date: 2023-09-08
 tags: 
   - posts
-  - "app-stack"
-  - "notes-app"
-  - "productivity-stack"
-  - "reflect-app"
-  - "second-brain"
 lastmod: 2026-01-06
 description: 
 publish: true

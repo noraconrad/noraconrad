@@ -3,11 +3,6 @@ title: "Simplify your Space"
 date: 2019-08-31
 tags: 
   - posts
-  - "how-to-simplify-your-life"
-  - "minimal"
-  - "minimalism-tips"
-  - "organization-tips"
-  - "simplify-your-space"
 lastmod: 2026-01-06
 description: 
 publish: true

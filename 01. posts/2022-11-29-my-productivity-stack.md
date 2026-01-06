@@ -3,11 +3,6 @@ title: "My Productivity Stack"
 date: 2022-11-29
 tags: 
   - posts
-  - "app-stack"
-  - "apps-for-business"
-  - "mac-apps"
-  - "productivity"
-  - "productivity-stack"
 lastmod: 2026-01-06
 description: 
 publish: true

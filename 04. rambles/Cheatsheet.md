@@ -5,7 +5,7 @@ lastmod: 2026-01-06
 tags:
   - updates
 description: References to operate the website
-publish: true
+publish: false
 ---
 This page operates as a reference for myself while making updates to the site. For example, my tag list includes:
 - posts:

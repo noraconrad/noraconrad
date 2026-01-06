@@ -3,11 +3,6 @@ title: "Why Podia is my favorite host for courses"
 date: 2020-06-13
 tags: 
   - posts
-  - "course-building"
-  - "course-hosting"
-  - "ecourse-platform"
-  - "online-course"
-  - "podia"
 lastmod: 2026-01-06
 description: 
 publish: true

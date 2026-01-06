@@ -3,11 +3,6 @@ title: "Before you watch my Bible Study videos, read this."
 date: 2020-01-01
 tags: 
   - posts
-  - "bible-commentary"
-  - "bible-study"
-  - "bible-study-reference"
-  - "bible-study-tools"
-  - "verse-by-verse"
 lastmod: 2026-01-06
 description: 
 publish: true

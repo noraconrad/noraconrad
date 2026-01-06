@@ -1,20 +1,13 @@
 ---
 title: "Apps and Tools I’m Paying for in 2024"
 date: 2023-11-23
-  - "business"
 tags: 
   - posts
-  - "app-recommendation"
-  - "apps"
-  - "productivity"
-  - "productivity-stack"
-  - "subscription"
 lastmod: 2026-01-06
 description: 
 publish: true
 categories:
   - "business"
-  - productivity
 ---
 
 #### A list of the subscriptions that are worth the price.

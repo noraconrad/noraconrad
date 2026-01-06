@@ -3,11 +3,6 @@ title: "Routine.co — a promising planner app"
 date: 2022-10-20
 tags: 
   - posts
-  - "app-review"
-  - "planner-app"
-  - "planning-app"
-  - "routine-app"
-  - "todoist-alternative"
 lastmod: 2026-01-06
 description: 
 publish: true

@@ -3,17 +3,11 @@ title: "How I use Notion for my Bible Studies"
 date: 2021-08-31
 tags: 
   - posts
-  - "bible-journaling"
-  - "bible-study-tools"
-  - "digital-bible-study"
-  - "digital-journal"
-  - "notion"
 lastmod: 2026-01-06
 description: 
 publish: true
 categories:
   - productivity
-  - faith
 ---
 
 I’ve been using journals and writing in my bible for over a decade, but recently I started using Notion to take digital bible study notes and track prayers. I’ve had a ton of fun and seen a lot of growth in my faith life since starting this process, and I want to share my template and tips with you today.

@@ -3,11 +3,6 @@ title: "10 Self Improvement Habits to Start this year"
 date: 2018-02-01
 tags: 
   - posts
-  - "habits"
-  - "habits-for-success"
-  - "improvement"
-  - "self-care"
-  - "self-improvement"
 lastmod: 2026-01-06
 description: 
 publish: true

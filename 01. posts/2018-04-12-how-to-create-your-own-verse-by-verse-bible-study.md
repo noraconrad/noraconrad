@@ -3,11 +3,6 @@ title: "How to Create Your Own Verse-by-Verse Bible Study"
 date: 2018-04-12
 tags: 
   - posts
-  - "bible-study"
-  - "bible-study-resources"
-  - "christian-living"
-  - "how-to-do-a-bible-study"
-  - "how-to-study-the-bible"
 lastmod: 2026-01-06
 description: 
 publish: true

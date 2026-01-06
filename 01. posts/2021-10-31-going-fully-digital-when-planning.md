@@ -3,11 +3,6 @@ title: "Going Fully Digital when Planning"
 date: 2021-10-31
 tags: 
   - posts
-  - "digital-planning"
-  - "google-calendar"
-  - "notion"
-  - "planning"
-  - "sunsama"
 lastmod: 2026-01-06
 description: 
 publish: true

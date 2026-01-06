@@ -22,7 +22,3 @@ I've been creating content since high school (middle school if you count Neopet 
 
 [[projects]] — things I'm building, apps and other sites
 *current work and portfolio*
-
-## Connect
-
-[YouTube](https://youtube.com/@NoraConrad) | [LinkedIn](https://linkedin.com) | [Pinterest](https://pinterest.com) | [Email Signup](#)
