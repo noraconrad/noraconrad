@@ -1,8 +1,6 @@
 ---
 title: "Mac apps that drive my workflow"
 date: 2023-09-01
-categories: 
-  - "business"
 tags: 
   - posts
   - "app-stack"
