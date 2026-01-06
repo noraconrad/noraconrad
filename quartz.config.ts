@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null, // Using Datafast instead (added in Head component)
     locale: "en-US",
-    baseUrl: "datafa.st", // Your domain
+    baseUrl: "stephconrad.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
