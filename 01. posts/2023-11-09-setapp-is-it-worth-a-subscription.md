@@ -1,8 +1,6 @@
 ---
 title: "SetApp — Is it worth a subscription?"
 date: 2023-11-09
-categories: 
-  - "business"
 tags: 
   - posts
   - "app-stack"
