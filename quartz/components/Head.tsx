@@ -86,6 +86,14 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
+        {/* Datafast Analytics */}
+        <script
+          defer
+          data-website-id="dfid_HNyYxBGbqM2JgAKIL2EQe"
+          data-domain="noraconrad.com"
+          src="https://datafa.st/js/script.js"
+        ></script>
+
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")

@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null, // Using Datafast instead (added in Head component)
     locale: "en-US",
     baseUrl: "datafa.st", // Your domain
     ignorePatterns: ["private", "templates", ".obsidian"],
