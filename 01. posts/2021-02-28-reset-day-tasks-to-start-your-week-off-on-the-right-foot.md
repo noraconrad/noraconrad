@@ -2,6 +2,7 @@
 title: "“Reset Day” tasks to start your week off on the right foot"
 date: 2021-02-28
 tags: 
+  - posts
   - "reset-day"
   - "reset-routine"
   - "sunday-reset"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 Every Sunday, I run through a few simple tasks that help me and my family start the week off on the right foot. Whether you do this routine before the start of the week or in the middle of the week is completely up to you. I hope some of these ideas can help you build a weekly routine that saves you a little time and stress.

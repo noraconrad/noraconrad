@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 ![](images/Business-Work-Image-1-scaled.jpg)

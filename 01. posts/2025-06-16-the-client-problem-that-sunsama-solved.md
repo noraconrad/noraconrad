@@ -11,6 +11,9 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - productivity
+  - small-business
 ---
 
 ## _How I stopped drowning in other people’s systems_

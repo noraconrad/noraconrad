@@ -4,6 +4,7 @@ date: 2023-11-09
 categories: 
   - "business"
 tags: 
+  - posts
   - "app-stack"
   - "productivity"
   - "productivity-apps"
@@ -12,6 +13,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 #### Setapp gives you access to hundreds of other apps for one low subscription price, but is it actually worth subscribing to?

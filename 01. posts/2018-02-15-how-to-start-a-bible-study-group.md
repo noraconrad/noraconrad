@@ -2,6 +2,7 @@
 title: "How to Start a Bible Study Group"
 date: 2018-02-15
 tags: 
+  - posts
   - "bible-study"
   - "bible-study-group"
   - "christian-living"

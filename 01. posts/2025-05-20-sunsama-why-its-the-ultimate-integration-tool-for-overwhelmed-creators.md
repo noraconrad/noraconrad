@@ -10,6 +10,9 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - productivity
+  - small-business
 ---
 
 ![](images/IMG-2861-from-Adobe-Lightroom-scaled.jpg)

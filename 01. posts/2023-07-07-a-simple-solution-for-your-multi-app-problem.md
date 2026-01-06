@@ -2,6 +2,7 @@
 title: "A simple solution for your multi-app problem"
 date: 2023-07-07
 tags: 
+  - posts
   - "pleexy"
   - "project-management-tool"
   - "task-management"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 #### How Plexxy connects all your tasks

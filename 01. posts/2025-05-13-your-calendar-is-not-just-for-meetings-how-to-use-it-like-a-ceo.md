@@ -10,6 +10,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 ![](images/Calendar-Picture-Unsplash-scaled.jpg)

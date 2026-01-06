@@ -2,6 +2,7 @@
 title: "5 Small Expenses to cut out"
 date: 2020-02-12
 tags: 
+  - posts
   - "cut-expenses"
   - "expenses-to-cut"
   - "save-money"
@@ -9,6 +10,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - data-analysis
 ---
 
 If you’re looking for quick ideas to save some cash; cancel your cable, stop buying going out for coffee, stop eating out for lunch, give up clothes shopping for a year, and get rid of your fancy cell for a cheap phone you can buy in full. If you need some ideas that you don’t see on every Pinterest post, keep reading.

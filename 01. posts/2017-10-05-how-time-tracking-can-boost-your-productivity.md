@@ -2,6 +2,7 @@
 title: "How Time Tracking Can Boost Your Productivity"
 date: 2017-10-05
 tags: 
+  - posts
   - "productivity"
   - "time-management-tips"
   - "time-management-tools"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 Time tracking isn’t a new idea, but it’s a great productivity trick that many people haven’t tried yet. I decided to try time tracking for one month and see if it helped me be more productive. These are my results and some tips to help you get started and try this experiment for yourself.

@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - goals-growth
 ---
 
 ![](images/Productivity-Desk-Photo-2-scaled.jpg)

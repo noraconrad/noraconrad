@@ -2,6 +2,7 @@
 title: "10 Self Improvement Habits to Start this year"
 date: 2018-02-01
 tags: 
+  - posts
   - "habits"
   - "habits-for-success"
   - "improvement"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - goals-growth
 ---
 
 Most of us start the new year off with all kinds of goals and resolutions in our heads but rarely do we actually implement the habits we need to meet those goals. Today we’re going to look at 10 self-improvement habits that you can start this year to help you hit your goals and make more time for your own growth while you do it.

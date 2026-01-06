@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
 ![](images/Navigating-Mental-Health-Edit-Post.jpg)

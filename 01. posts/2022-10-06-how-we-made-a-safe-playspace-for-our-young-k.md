@@ -2,6 +2,7 @@
 title: "How we made a safe playspace for our young k"
 date: 2022-10-06
 tags: 
+  - posts
   - "infant-playard"
   - "playroom"
   - "toddler-play-zone"

@@ -7,6 +7,9 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - data-analysis
+  - productivity
 ---
 
 After completely transforming my business tech stack this year, I realized I was paying for way too many subscriptions that weren’t actually serving me.

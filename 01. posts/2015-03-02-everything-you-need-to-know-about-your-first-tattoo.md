@@ -2,6 +2,7 @@
 title: "Everything You Need to Know About Your First Tattoo"
 date: 2015-03-02
 tags: 
+  - posts
   - "first-tattoo"
   - "tattoo"
   - "tattoo-tips"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
 A tattoo is a huge decision. When I decided to get a tattoo I researched everything I could. I wanted to know exactly what to expect. I watched YouTube videos, read articles, and talked to my tattoo artist but I could never find a full explanation all in one place. I just got my third tattoo so I thought I would write a full explanation and post pictures as my tattoo heals so that you know what to expect.

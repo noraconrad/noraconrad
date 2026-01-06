@@ -10,6 +10,9 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - operations
+  - small-business
 ---
 
 ![](images/Work-Life-Balance-Photo-3-scaled.jpg)

@@ -10,6 +10,9 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - operations
+  - productivity
 ---
 
 ![](images/IMG-2861-from-Adobe-Lightroom-scaled.jpg)

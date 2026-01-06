@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 ![](images/Lifestyle-Furniture-Photo-9-scaled.jpg)

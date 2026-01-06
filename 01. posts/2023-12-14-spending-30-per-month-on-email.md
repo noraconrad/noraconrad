@@ -9,6 +9,9 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - data-analysis
+  - small-business
 ---
 
 ![](images/Productivity-Desk-Photo-3-scaled.jpg)

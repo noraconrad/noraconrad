@@ -2,6 +2,7 @@
 title: "Paying for a Baby Without Insurance — Christian Healthcare Ministries Review"
 date: 2018-10-01
 tags: 
+  - posts
   - "chm"
   - "christianhealthcare"
   - "health-insurance"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
 Health insurance is a hard topic, mostly because it’s so politicized and expensive. But today, I’m going to talk about it anyway, because I’ve been using an alternative to typical health insurance and it’s saving my family thousands of dollars throughout my two pregnancies.

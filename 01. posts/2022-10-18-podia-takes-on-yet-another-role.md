@@ -2,6 +2,7 @@
 title: "Podia takes on yet another role"
 date: 2022-10-18
 tags: 
+  - posts
   - "course-creator"
   - "podia"
   - "webinar-hosting"

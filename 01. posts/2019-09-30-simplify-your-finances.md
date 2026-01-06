@@ -2,6 +2,7 @@
 title: "Simplify your Finances"
 date: 2019-09-30
 tags: 
+  - posts
   - "debt-free-tips"
   - "debt-payoff"
   - "finance"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - data-analysis
 ---
 
 I am so excited about this post today because finances have been a huge focus in our home over the last few years. When we started looking seriously into our finances we were just over $90,000 in debt making less than $40,000 per year. Today we’ve only got half that debt left and we’re making double what we were two years ago. We plan to pay off the last debt in 2020 and it’s such a freeing experience.

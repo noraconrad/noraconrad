@@ -2,6 +2,7 @@
 title: "Using Sunsama to consolidate my tasks"
 date: 2023-11-27
 tags: 
+  - posts
   - "productivity"
   - "sunsama"
   - "sunsama-app-review"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 #### One dashboard to combine 10+ task channels

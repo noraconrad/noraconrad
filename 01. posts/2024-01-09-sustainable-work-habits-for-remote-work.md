@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - goals-growth
 ---
 
 ![](images/Work-from-Anywhere-Photo-3-scaled.jpg)

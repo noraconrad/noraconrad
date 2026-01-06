@@ -2,6 +2,7 @@
 title: "5 Mac Apps that streamline my workflows"
 date: 2022-10-18
 tags: 
+  - posts
   - "best-productivity-apps"
   - "mac-apps"
   - "mac-productivity"
@@ -10,6 +11,9 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - operations
+  - productivity
 ---
 
 For a very long time, I just used my mac as it came. I didn’t bother setting up focus modes, customizing settings, or adding apps beyond what I needed for work, but as I’ve been working on my own personal project more, I found myself wanting keyboard shortcuts and actions to be faster.

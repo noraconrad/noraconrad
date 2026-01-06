@@ -10,6 +10,10 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - operations
+  - productivity
+  - small-business
 ---
 
 ![](images/Computer-Image-from-Unsplash-scaled.jpg)

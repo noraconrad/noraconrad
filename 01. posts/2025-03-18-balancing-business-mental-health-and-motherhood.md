@@ -10,6 +10,9 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - lifestyle
+  - small-business
 ---
 
 ![](images/Work-Image-from-Unsplash-2-scaled.jpg)

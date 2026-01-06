@@ -2,6 +2,7 @@
 title: "Tools &amp; Apps to help you read your bible more intentionally"
 date: 2022-03-07
 tags: 
+  - posts
   - "bible-reading-plans"
   - "bible-study"
   - "bible-study-app"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 The first goal of 2022 I was working toward is reading my bible every day. I’ve done fairly well with this in the past but I really want to make this process more intentional and carve out a full 30 minutes every day to not just read my bible but actually _digest the information_.

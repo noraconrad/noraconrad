@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - goals-growth
 ---
 
 ![](images/1_VQmgwEoPt03jdgbPktPBmA.png)

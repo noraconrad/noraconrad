@@ -2,6 +2,7 @@
 title: "I read a book every day for 30 days — here’s what I learned"
 date: 2020-01-15
 tags: 
+  - posts
   - "book-a-day"
   - "reading-challenge"
   - "readinglist"

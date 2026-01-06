@@ -2,6 +2,7 @@
 title: "Getting better sleep… finally"
 date: 2023-01-02
 tags: 
+  - posts
   - "better-sleep-habits"
   - "daily-routine-for-sleep"
   - "evening-routine"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
 For almost a year after my son was born, I slept like 💩. A toddler and newborn didn’t help, but even when both kids began sleeping through the night, I would wake at irregular hours, take two hours to fall asleep, or sleep hard but wake up feeling groggy.

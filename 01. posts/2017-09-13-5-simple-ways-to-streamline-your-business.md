@@ -2,6 +2,7 @@
 title: "5 Simple Ways to Streamline Your Business"
 date: 2017-09-13
 tags: 
+  - posts
   - "automation-tools"
   - "business-tools"
   - "business-workflow"
@@ -10,6 +11,9 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - operations
+  - small-business
 ---
 
 When you start your own business, you put on a ton of hats — accountant, administrative assistant, office manager, sales team, creative director, designer, social media manager, human resources, and a million more. It can be overwhelming, and while you’re a one-person army trying to do it all, some things can fall through the cracks. Today we’re going to look at 5 ways you can streamline your business to help keep you on track.

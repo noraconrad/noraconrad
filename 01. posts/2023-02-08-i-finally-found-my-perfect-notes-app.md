@@ -2,6 +2,7 @@
 title: "I finally found my perfect “Notes” app"
 date: 2023-02-08
 tags: 
+  - posts
   - "knowledge-management"
   - "note-app"
   - "pkm"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 I’ve tried Notion, Obsidian, Evernote, Reflect, Mem, Apple Notes, Tana, Routine, Note Plan 3, OneNote and even TickTick in the quest to find the perfect notes app for my workflow.

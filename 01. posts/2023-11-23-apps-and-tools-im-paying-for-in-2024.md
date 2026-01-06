@@ -4,6 +4,7 @@ date: 2023-11-23
 categories: 
   - "business"
 tags: 
+  - posts
   - "app-recommendation"
   - "apps"
   - "productivity"
@@ -12,6 +13,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 #### A list of the subscriptions that are worth the price.

@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 ## _No, it’s not another task manager_

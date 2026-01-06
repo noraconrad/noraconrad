@@ -2,6 +2,7 @@
 title: "How to set Goals you will Actually Reach"
 date: 2018-01-04
 tags: 
+  - posts
   - "goal-setting"
   - "goals"
   - "how-to-set-goals"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - goals-growth
 ---
 
 How many times do you set new year resolutions that fall short by February? How many times have you read blog posts about hitting your goals? Ouch. I know. Listen, I was a cereal goal-setter-then-goal-forgetter-or-giver-upper before last year. I had only set a couple of goals because they were super short-term and easy to hit. Never had I actually reached all my new year’s resolutions UNTIL LAST YEAR. So what changed? That’s what we’re going to talk about today.

@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
 #### Navigating Productivity with Bipolar Disorder

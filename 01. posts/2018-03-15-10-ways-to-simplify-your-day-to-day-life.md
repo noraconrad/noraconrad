@@ -2,6 +2,7 @@
 title: "10 Ways to Simplify Your day-to-day Life"
 date: 2018-03-15
 tags: 
+  - posts
   - "daily-life"
   - "daily-routine"
   - "simple-living"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
 Between work, school, kids, friends, hobbies, side hustles, and trying to just enjoy life, there are a lot of not-so-fun activities that pull us away from something more important. These are 10 ways to simplify your daily routine so that cleaning, cooking, and getting ready doesn’t take so much time.

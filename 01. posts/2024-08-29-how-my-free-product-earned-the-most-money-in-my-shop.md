@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - small-business
 ---
 
 #### Lessons in “selling” free products

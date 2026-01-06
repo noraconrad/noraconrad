@@ -2,6 +2,7 @@
 title: "Simplify your Side Hustle"
 date: 2019-06-30
 tags: 
+  - posts
   - "side-hustle"
   - "side-hustle-tips"
 lastmod: 2026-01-06

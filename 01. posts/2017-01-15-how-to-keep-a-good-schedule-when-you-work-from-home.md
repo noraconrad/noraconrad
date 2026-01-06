@@ -2,6 +2,7 @@
 title: "How to keep a good schedule when you work from home"
 date: 2017-01-15
 tags: 
+  - posts
   - "batch-day"
   - "schedule-tips"
   - "wfh"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 Working from home sounds like a dream come true to most people. However, it’s easy to become distracted by laundry, emails, Facebook, lunches, and the thousands of chores to do around the house. Working from home means you are surrounded by temptation and you’re only held accountable by yourself. Today we’re going to stop the distractions and set up a schedule for ourselves.

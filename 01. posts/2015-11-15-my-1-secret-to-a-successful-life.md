@@ -2,6 +2,7 @@
 title: "My #1 Secret to a Successful Life"
 date: 2015-11-15
 tags: 
+  - posts
   - "learning"
   - "self-improvement"
   - "self-improvement-tips"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
 I can’t begin to tell you how many times I’ve been asked this question, “How do you keep up with everything”? For those of you who don’t know me, I’m a mom to a three-year-old, a 3-month-old, I work full time from home, I run my side hustle and I’m taking classes on the side.

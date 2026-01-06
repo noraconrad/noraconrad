@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 ![](images/Work-from-Anywhere-Photo-scaled.jpg)

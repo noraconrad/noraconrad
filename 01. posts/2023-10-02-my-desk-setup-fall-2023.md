@@ -2,6 +2,7 @@
 title: "My Desk Setup — Fall 2023"
 date: 2023-10-02
 tags: 
+  - posts
   - "desk-setup"
   - "desk-tour"
   - "office-tour"

@@ -4,6 +4,7 @@ date: 2023-08-16
 categories: 
   - "business"
 tags: 
+  - posts
   - "loom-alternative"
   - "screen-recording"
   - "screen-recording-tool"

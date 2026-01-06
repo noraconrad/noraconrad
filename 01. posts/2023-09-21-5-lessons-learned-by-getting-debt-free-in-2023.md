@@ -2,6 +2,7 @@
 title: "5 Lessons learned by getting debt free in 2023"
 date: 2023-09-21
 tags: 
+  - posts
   - "debt"
   - "debt-free"
   - "debt-free-journey"

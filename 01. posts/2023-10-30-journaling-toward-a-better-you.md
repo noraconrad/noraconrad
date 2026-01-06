@@ -2,6 +2,7 @@
 title: "Journaling Toward a Better You"
 date: 2023-10-30
 tags: 
+  - posts
   - "journaling"
   - "journaling-benefits"
   - "journaling-habits"

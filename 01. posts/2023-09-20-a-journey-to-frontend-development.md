@@ -4,6 +4,7 @@ date: 2023-09-20
 categories: 
   - "business"
 tags: 
+  - posts
   - "break-into-tech"
   - "frontend-development"
   - "full-stack-developer"

@@ -9,6 +9,9 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - operations
+  - productivity
 ---
 
 ![](images/Stephanie-Berbec-Unsplash-scaled.jpg)

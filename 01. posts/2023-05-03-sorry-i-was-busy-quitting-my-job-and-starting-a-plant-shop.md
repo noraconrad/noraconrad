@@ -2,6 +2,7 @@
 title: "Sorry, I was busy quitting my job and starting a plant shop"
 date: 2023-05-03
 tags: 
+  - posts
   - "leap-of-faith"
   - "online-business"
   - "online-plant-shop"
@@ -10,6 +11,9 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - goals-growth
+  - small-business
 ---
 
 Hi, It’s been awhile since I wrote a post here, 84 days actually, which is the longest I have gone without writing blog content in years. I have a good excuse though. February 17th, we bought my parent’s house (my childhood home), we’ve been renovating the basement, my mom moved in, my sister is living here until the summer, my husband started a new job, my oldest lost her preschool until the fall, I quit the job I’ve been working at for 10 years and 11 months, and I impulsively started an online house plant business.

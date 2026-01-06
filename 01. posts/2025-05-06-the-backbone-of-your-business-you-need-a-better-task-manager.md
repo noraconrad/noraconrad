@@ -11,6 +11,10 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - operations
+  - productivity
+  - small-business
 ---
 
 ![](images/Clean-Desk-Image-scaled.jpg)

@@ -2,6 +2,7 @@
 title: "I know I said I found my perfect notes app, but…"
 date: 2023-09-08
 tags: 
+  - posts
   - "app-stack"
   - "notes-app"
   - "productivity-stack"
@@ -10,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 Just 6 months ago, I shared my process of filtering through, identifying needs, and seeking out my perfect notes application. I ended up with RemNote, a fantastic tool that really did meet all my needs. The problem is, I barely ever used it.

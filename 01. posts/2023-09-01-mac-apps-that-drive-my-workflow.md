@@ -4,6 +4,7 @@ date: 2023-09-01
 categories: 
   - "business"
 tags: 
+  - posts
   - "app-stack"
   - "current-app"
   - "mac-apps"
@@ -12,6 +13,9 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - operations
+  - productivity
 ---
 
 I recently got a new computer and while I was downloading all the apps and getting it set up, I thought it would be a good time to share some of the software that I use every day on my computer.
