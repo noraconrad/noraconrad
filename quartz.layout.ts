@@ -37,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       title: "Map",
       folderDefaultState: "open",
-      folderClickBehavior: "link",
+      folderClickBehavior: "collapse",
       useSavedState: false,
     }),
     Component.Graph(),
@@ -71,7 +71,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       title: "Map",
       folderDefaultState: "open",
-      folderClickBehavior: "link",
+      folderClickBehavior: "collapse",
       useSavedState: false,
     }),
     Component.Graph(),
