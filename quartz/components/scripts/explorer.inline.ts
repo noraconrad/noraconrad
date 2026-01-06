@@ -23,16 +23,41 @@ let currentExplorerState: Array<FolderState>
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
-  const explorerCollapsed = nearestExplorer.classList.toggle("collapsed")
-  nearestExplorer.setAttribute(
-    "aria-expanded",
-    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
-
-  if (!explorerCollapsed) {
+  const isCurrentlyCollapsed = nearestExplorer.classList.contains("collapsed")
+  
+  // Close all other collapsible sections
+  const allCollapsibles = document.querySelectorAll(".explorer, .social-links, .graph, .backlinks, .toc")
+  allCollapsibles.forEach((section) => {
+    if (section !== nearestExplorer) {
+      section.classList.add("collapsed")
+      const sectionToggle = section.querySelector(".explorer-toggle, .social-links-toggle, .graph-toggle, .backlinks-toggle, .toc-header")
+      const sectionContent = section.querySelector(".explorer-content, .social-links-content, .graph-content, .backlinks-content, .toc-content")
+      if (sectionToggle) {
+        sectionToggle.setAttribute("aria-expanded", "false")
+      }
+      if (sectionContent) {
+        sectionContent.setAttribute("aria-expanded", "false")
+      }
+    }
+  })
+  
+  // Toggle current section
+  if (isCurrentlyCollapsed) {
+    nearestExplorer.classList.remove("collapsed")
+    nearestExplorer.setAttribute("aria-expanded", "true")
+    const content = nearestExplorer.querySelector(".explorer-content")
+    if (content) {
+      content.setAttribute("aria-expanded", "true")
+    }
     // Stop <html> from being scrollable when mobile explorer is open
     document.documentElement.classList.add("mobile-no-scroll")
   } else {
+    nearestExplorer.classList.add("collapsed")
+    nearestExplorer.setAttribute("aria-expanded", "false")
+    const content = nearestExplorer.querySelector(".explorer-content")
+    if (content) {
+      content.setAttribute("aria-expanded", "false")
+    }
     document.documentElement.classList.remove("mobile-no-scroll")
   }
 }

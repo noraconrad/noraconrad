@@ -1,0 +1,110 @@
+---
+title: "How Proverbs 31 Fits into my Business Plan"
+date: 2015-11-22
+tags: 
+  - "business-bible-study"
+  - "proverbs-31"
+  - "proverbs-31-business"
+  - "proverbs-31-woman"
+  - "verse-by-verse"
+---
+
+### WHAT IS PROVERBS 31?
+
+Proverbs 31: 10–31 is a passage in the Old Testament written by King Lemuel’s mother around the 10th Century B.C.. The passages were written as poetry to the King as advice on how to find a Godly wife and a “woman of valor”. The whole idea of the passage is to describe “the perfect woman” and someone who would be fit to rule alongside a king as a strong and Godly woman.
+
+![](images/1*9hjHpnZ8hUljhf7H-lS3LA.png)
+
+### WHAT DOES IT MEAN TO BE A PROVERBS 31 WOMAN?
+
+One of the many misconceptions about the Bible is that it tells women to stay home, cook, clean, and take care of the family. Proverbs 31 is a perfect example of what a virtuous and Godly woman should be — and guess what? This woman DOES NOT stay home cleaning.
+
+Proverbs 31: 10–31 describes a strong, noble, hard-working, loving woman who fears the Lord and adores her husband and children. Nowhere in these passages does it say (or imply) that she should stay home cleaning and cooking. It does, however, imply that she should start her own business, love her family and provide for them.
+
+#### Let me break this down verse by verse;
+
+**10 An excellent wife who can find? She is far more precious than jewels.**  
+The Hebrew word _chayil,_ translated here as “excellent” means a wife of valor — This term was used in the military. It describes a person who was capable and held strong convictions. A proverbs 31 woman is not weak or feeble. She is strong, she is virtuous, she is capable. Not only is this woman strong, but she is rare. She is precious in God’s eye and her husband. She is valued.
+
+**11 The heart of her husband trusts in her, and he will have no lack of gain.**  
+“The heart” here is not translated into “love”, but something deeper. The heart is an all-encompassing love and trust, a soulful and eternal love. Her husband deeply cares for her and as a result, he trusts her with their shared resources, with their children, and with their lives. He believes that she can handle responsibilities and be sufficient in her work.
+
+**12 She does him good, and not harm, all the days of her life.**  
+This verse ties in with 11. In return for her husband’s love and trust in her, she respects him and loves him.
+
+**13 She seeks wool and flax, and works with willing hands.**  
+This woman finds resources and uses them to create something. She seeks (hunts) — she finds what she needs. She’s resourceful. She also works with willing hands — she enjoys her work and does it with her own two hands. She takes pride in creating and building things for herself and her family.
+
+**14 She is like the ships of the merchant; she brings her food from afar.**  
+She provides her family with the best — either by hunting for good food or having merchants bring in high-quality food. She cares about what they eat and their health. She enjoys new tastes and cultures and travels to experience them. “Like a merchant ship” comes from a military term showing she is a hunter, she finds food.
+
+**15 She rises while it is yet night and provides food for her household and portions for her maidens.**  
+She’s diligent. She wakes up early enough to make time for herself and provide for the people in her life (including her servants). No one- regardless of their status or position is below her. She cares for the people she has in her life and she makes time to care for them.
+
+**16 She considers a field and buys it; with the fruit of her hands she plants a vineyard.**  
+She’s smart and makes enough money to invest in a business. She puts hard work in and is rewarded with profit. She is wise about how she spends her money and buys a vineyard — a smart, tough, and profitable option. She puts the work in on her own, vineyards are hard to build but she does it because she is successful and intentionally with her decisions.
+
+**17 She dresses herself with strength and makes her arms strong.**  
+She exercises! She cares about her health and wants to be strong both physically and spiritually. She balances her work and caring for others by caring about herself. She dresses well and is a strong woman.
+
+**18 She perceives that her merchandise is profitable. Her lamp does not go out at night.**  
+Perceives — she pays attention to trends, to what God is showing her, to what others might do. She is smart enough to know what is a good business investment and what isn’t/ Her merchandise is profitable because she worked hard and it is well made. She’s business savvy and confident in her work. She works late to complete her projects and values her time. A godly woman trusts in the Lord and that He will reward her diligence.
+
+**19 She puts her hands to the distaff, and her hands hold the spindle.**  
+She’s skilled in her craft and she makes use of it. She’s industrious and diligent.
+
+**20 She opens her hand to the poor and reaches out her hands to the needy.**  
+She tithes, she volunteers and she is hospitable. She herself does things to help others. She doesn’t have her servants help others — she does it. She loves her community and shares her rewards with them.
+
+**21 She is not afraid of snow for her household, for all her household are clothed in scarlet.**  
+She’s confident in her work. She knows her family is strong and she is strong and they can handle the tough times in life. She trusts in God to protect her family and has clothed them in royal colors.
+
+**22 She makes bed coverings for herself; her clothing is fine linen and purple.**  
+She’s skilled at providing for herself. She dresses well and for the occasion. She respects her body and her image and presents herself in a professional and respectful way.
+
+**23 Her husband is known in the gates when he sits among the elders of the land.**  
+Her husband is a respected man. People respect their families because they have strong values and wisdom. He serves to protect their community and is a leader for not only his family but other families as well. While he is away, he can trust his wife to care for the home and make smart decisions.
+
+**24 She makes linen garments and sells them; she delivers sashes to the merchant.**  
+She takes her skills and turns them into a business. She’s providing income for her family and making use of her time and knowledge.
+
+**25 Strength and dignity are her clothing, and she laughs at the time to come.**  
+She is not afraid of the future and mocks it. She knows that God is with her and that the good and bad will not affect her life today. She has a “bring it on” mindset and is ready to take on the challenges of life.
+
+**26 She opens her mouth with wisdom, and the teaching of kindness is on her tongue.**  
+She does not fill the conversation with gossip and wasteful words, she’s smart and when she opens her mouth, people want to hear what she has to say. She’s kind and forgiving and she is loved and respected for it.
+
+**27 She looks well to the ways of her household and does not eat the bread of idleness.**  
+She is not lazy. This girl is energized and organized and knows what she needs to do to keep her household from falling apart. She doesn’t wait for her husband to help her, she just does what needs to be done.
+
+**28 Her children rise up and call her blessed; her husband also, and he praises her:**  
+She is praised and loved by her family. Her husband loves her and respects her and they have raised their children to love and respect their parents.
+
+**29 “Many women have done excellently, but you surpass them all.”**  
+Her husband says this to her because she is a role model and he loves her more than any others. She goes above and beyond in her work and he notices it.
+
+**30 Charm is deceitful, and beauty is vain, but a woman who fears the Lord is to be praised.**  
+Her priorities are determined by God’s will not by her own vanity or ideas. She worries about what God thinks before what anyone else will think. She is not afraid to stand up for her beliefs because she really only fears disappointing God. She recognizes her need for God.
+
+**31 Give her of the fruit of her hands, and let her works praise her in the gates.**  
+She walks the walk. She doesn’t have to brag or boast because her hard work speaks for itself. Her reputation is proud because of how smart she is with her business. She’s proud of what she’s accomplished and isn’t afraid to admit it.
+
+### OW DOES THIS APPLY TO BUSINESS?
+
+That’s a big list of rules. But here’s the thing — they’re not RULES, they’re guidelines. These are things that will make us more like Jesus and better wives, girlfriends, women. These guidelines will make you a better business owner.
+
+Really.
+
+Look at the three themes that are most common in this passage: Trusting God’s Plan, Working Hard, and Caring for Others. Business is tough. There are days when you’re going to want to quit, days when you’re completely overwhelmed and you can’t get it all done.
+
+Those days are where God’s grace comes into play. God’s got a plan for you, and He’s got a plan for your business. Trusting that His way is the best way is a great way to relieve some stress. Praying for your business and letting God guide your business decisions will be the BEST thing you can do to grow.
+
+Since I started tithing 10% of my business profits and sharing God in my business — I’ve seen more growth than over the last year. God rewards us when we are faithful. Let your faith be a part of your business.
+
+* * *
+
+_👏🏼 If you found this article valuable hit those clapping hands once or twice._
+
+_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
+
+_✨ Thank you for reading & for your support!_

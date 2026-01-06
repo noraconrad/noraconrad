@@ -14,14 +14,46 @@ const observer = new IntersectionObserver((entries) => {
 })
 
 function toggleToc(this: HTMLElement) {
-  this.classList.toggle("collapsed")
-  this.setAttribute(
-    "aria-expanded",
-    this.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
-  const content = this.nextElementSibling as HTMLElement | undefined
-  if (!content) return
-  content.classList.toggle("collapsed")
+  const toc = this.closest(".toc") as HTMLElement
+  if (!toc) return
+  const isCurrentlyCollapsed = toc.classList.contains("collapsed") || this.classList.contains("collapsed")
+  
+  // Close all other collapsible sections
+  const allCollapsibles = document.querySelectorAll(".explorer, .social-links, .graph, .backlinks, .toc")
+  allCollapsibles.forEach((section) => {
+    if (section !== toc) {
+      section.classList.add("collapsed")
+      const sectionToggle = section.querySelector(".explorer-toggle, .social-links-toggle, .graph-toggle, .backlinks-toggle, .toc-header")
+      const sectionContent = section.querySelector(".explorer-content, .social-links-content, .graph-content, .backlinks-content, .toc-content")
+      if (sectionToggle) {
+        sectionToggle.setAttribute("aria-expanded", "false")
+        sectionToggle.classList.add("collapsed")
+      }
+      if (sectionContent) {
+        sectionContent.setAttribute("aria-expanded", "false")
+        sectionContent.classList.add("collapsed")
+      }
+    }
+  })
+  
+  // Toggle current section
+  if (isCurrentlyCollapsed) {
+    this.classList.remove("collapsed")
+    this.setAttribute("aria-expanded", "true")
+    const content = this.nextElementSibling as HTMLElement | undefined
+    if (content) {
+      content.classList.remove("collapsed")
+      content.setAttribute("aria-expanded", "true")
+    }
+  } else {
+    this.classList.add("collapsed")
+    this.setAttribute("aria-expanded", "false")
+    const content = this.nextElementSibling as HTMLElement | undefined
+    if (content) {
+      content.classList.add("collapsed")
+      content.setAttribute("aria-expanded", "false")
+    }
+  }
 }
 
 function setupToc() {

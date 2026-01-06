@@ -136,12 +136,39 @@ export default ((opts?: Partial<GraphOptions>) => {
         toggle.addEventListener('click', function() {
           const graph = this.closest('.graph');
           if (graph) {
-            graph.classList.toggle('collapsed');
-            const isExpanded = !graph.classList.contains('collapsed');
-            this.setAttribute('aria-expanded', isExpanded);
-            const content = graph.querySelector('.graph-content');
-            if (content) {
-              content.setAttribute('aria-expanded', isExpanded);
+            const isCurrentlyCollapsed = graph.classList.contains('collapsed');
+            
+            // Close all other collapsible sections
+            const allCollapsibles = document.querySelectorAll('.explorer, .social-links, .graph, .backlinks, .toc');
+            allCollapsibles.forEach(section => {
+              if (section !== graph) {
+                section.classList.add('collapsed');
+                const sectionToggle = section.querySelector('.explorer-toggle, .social-links-toggle, .graph-toggle, .backlinks-toggle, .toc-header');
+                const sectionContent = section.querySelector('.explorer-content, .social-links-content, .graph-content, .backlinks-content, .toc-content');
+                if (sectionToggle) {
+                  sectionToggle.setAttribute('aria-expanded', 'false');
+                }
+                if (sectionContent) {
+                  sectionContent.setAttribute('aria-expanded', 'false');
+                }
+              }
+            });
+            
+            // Toggle current section
+            if (isCurrentlyCollapsed) {
+              graph.classList.remove('collapsed');
+              this.setAttribute('aria-expanded', 'true');
+              const content = graph.querySelector('.graph-content');
+              if (content) {
+                content.setAttribute('aria-expanded', 'true');
+              }
+            } else {
+              graph.classList.add('collapsed');
+              this.setAttribute('aria-expanded', 'false');
+              const content = graph.querySelector('.graph-content');
+              if (content) {
+                content.setAttribute('aria-expanded', 'false');
+              }
             }
           }
         });

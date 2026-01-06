@@ -133,8 +133,7 @@ export default ((opts?: Options) => {
   }
 
   .social-links-content {
-    overflow: hidden;
-    overflow-y: auto;
+    overflow: visible;
     margin-top: 0.5rem;
   }
 
@@ -190,7 +189,7 @@ export default ((opts?: Options) => {
   }
   `
 
-  // Add toggle functionality
+  // Add accordion toggle functionality
   SocialLinks.afterDOMLoaded = `
     document.addEventListener('DOMContentLoaded', function() {
       const socialLinksToggles = document.querySelectorAll('.social-links-toggle');
@@ -198,12 +197,39 @@ export default ((opts?: Options) => {
         toggle.addEventListener('click', function() {
           const socialLinks = this.closest('.social-links');
           if (socialLinks) {
-            socialLinks.classList.toggle('collapsed');
-            const isExpanded = !socialLinks.classList.contains('collapsed');
-            this.setAttribute('aria-expanded', isExpanded);
-            const content = socialLinks.querySelector('.social-links-content');
-            if (content) {
-              content.setAttribute('aria-expanded', isExpanded);
+            const isCurrentlyCollapsed = socialLinks.classList.contains('collapsed');
+            
+            // Close all other collapsible sections
+            const allCollapsibles = document.querySelectorAll('.explorer, .social-links, .graph, .backlinks, .toc');
+            allCollapsibles.forEach(section => {
+              if (section !== socialLinks) {
+                section.classList.add('collapsed');
+                const sectionToggle = section.querySelector('.explorer-toggle, .social-links-toggle, .graph-toggle, .backlinks-toggle, .toc-header');
+                const sectionContent = section.querySelector('.explorer-content, .social-links-content, .graph-content, .backlinks-content, .toc-content');
+                if (sectionToggle) {
+                  sectionToggle.setAttribute('aria-expanded', 'false');
+                }
+                if (sectionContent) {
+                  sectionContent.setAttribute('aria-expanded', 'false');
+                }
+              }
+            });
+            
+            // Toggle current section
+            if (isCurrentlyCollapsed) {
+              socialLinks.classList.remove('collapsed');
+              this.setAttribute('aria-expanded', 'true');
+              const content = socialLinks.querySelector('.social-links-content');
+              if (content) {
+                content.setAttribute('aria-expanded', 'true');
+              }
+            } else {
+              socialLinks.classList.add('collapsed');
+              this.setAttribute('aria-expanded', 'false');
+              const content = socialLinks.querySelector('.social-links-content');
+              if (content) {
+                content.setAttribute('aria-expanded', 'false');
+              }
             }
           }
         });

@@ -82,12 +82,39 @@ export default ((opts?: Partial<BacklinksOptions>) => {
         toggle.addEventListener('click', function() {
           const backlinks = this.closest('.backlinks');
           if (backlinks) {
-            backlinks.classList.toggle('collapsed');
-            const isExpanded = !backlinks.classList.contains('collapsed');
-            this.setAttribute('aria-expanded', isExpanded);
-            const content = backlinks.querySelector('.backlinks-content');
-            if (content) {
-              content.setAttribute('aria-expanded', isExpanded);
+            const isCurrentlyCollapsed = backlinks.classList.contains('collapsed');
+            
+            // Close all other collapsible sections
+            const allCollapsibles = document.querySelectorAll('.explorer, .social-links, .graph, .backlinks, .toc');
+            allCollapsibles.forEach(section => {
+              if (section !== backlinks) {
+                section.classList.add('collapsed');
+                const sectionToggle = section.querySelector('.explorer-toggle, .social-links-toggle, .graph-toggle, .backlinks-toggle, .toc-header');
+                const sectionContent = section.querySelector('.explorer-content, .social-links-content, .graph-content, .backlinks-content, .toc-content');
+                if (sectionToggle) {
+                  sectionToggle.setAttribute('aria-expanded', 'false');
+                }
+                if (sectionContent) {
+                  sectionContent.setAttribute('aria-expanded', 'false');
+                }
+              }
+            });
+            
+            // Toggle current section
+            if (isCurrentlyCollapsed) {
+              backlinks.classList.remove('collapsed');
+              this.setAttribute('aria-expanded', 'true');
+              const content = backlinks.querySelector('.backlinks-content');
+              if (content) {
+                content.setAttribute('aria-expanded', 'true');
+              }
+            } else {
+              backlinks.classList.add('collapsed');
+              this.setAttribute('aria-expanded', 'false');
+              const content = backlinks.querySelector('.backlinks-content');
+              if (content) {
+                content.setAttribute('aria-expanded', 'false');
+              }
             }
           }
         });

@@ -94,6 +94,12 @@ ul.toc-content.overflow {
   overscroll-behavior: auto !important;
 }
 
+// Ensure Connect section has no scrollbar and full height
+.social-links-content {
+  overflow: visible !important;
+  height: auto !important;
+}
+
 // Reduce margins on sidebar components
 .explorer {
   margin-top: 0.5rem !important;
