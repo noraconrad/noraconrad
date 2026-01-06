@@ -6,9 +6,9 @@ publish: true
 
 Browse all my essays and guides by category:
 
-- [productivity](tags/productivity)
-- [data-analysis](tags/data-analysis)
-- [small-business](tags/small-business)
-- [operations](tags/operations)
-- [goals-growth](tags/goals-growth)
-- [lifestyle](tags/lifestyle)
+- [productivity](category/productivity)
+- [data-analysis](category/data-analysis)
+- [small-business](category/small-business)
+- [operations](category/operations)
+- [goals-growth](category/goals-growth)
+- [lifestyle](category/lifestyle)

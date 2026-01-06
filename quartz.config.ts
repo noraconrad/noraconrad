@@ -81,6 +81,7 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),  // Re-enabled to process folder index.md files
       Plugin.TagPage(),
+      Plugin.CategoryPage(),  // Category pages for posts
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
