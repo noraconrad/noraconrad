@@ -44,7 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
       links: {
         YouTube: "https://youtube.com/@NoraConrad",
         LinkedIn: "https://linkedin.com/in/noraconrad",
-        Pinterest: "https://pinterest.com/noraconrad",
+        Pinterest: "https://www.pinterest.com/NoraConradCom/",
         "Newsletter": "https://rooted.noraconrad.com",
       },
     }),
@@ -81,7 +81,7 @@ export const defaultListPageLayout: PageLayout = {
       links: {
         YouTube: "https://youtube.com/@NoraConrad",
         LinkedIn: "https://linkedin.com/in/noraconrad",
-        Pinterest: "https://pinterest.com/noraconrad",
+        Pinterest: "https://www.pinterest.com/NoraConradCom/",
         "Newsletter": "https://rooted.noraconrad.com",
       },
     }),
