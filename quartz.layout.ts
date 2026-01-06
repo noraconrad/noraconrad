@@ -39,6 +39,14 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "link",
       useSavedState: false,
     }),
+    Component.SocialLinks({
+      links: {
+        YouTube: "https://youtube.com/@NoraConrad",
+        LinkedIn: "https://linkedin.com/in/noraconrad",
+        Pinterest: "https://pinterest.com/noraconrad",
+        "Email Signup": "https://noraconrad.com/newsletter",
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -66,6 +74,14 @@ export const defaultListPageLayout: PageLayout = {
       folderDefaultState: "open",
       folderClickBehavior: "link",
       useSavedState: false,
+    }),
+    Component.SocialLinks({
+      links: {
+        YouTube: "https://youtube.com/@NoraConrad",
+        LinkedIn: "https://linkedin.com/in/noraconrad",
+        Pinterest: "https://pinterest.com/noraconrad",
+        "Email Signup": "https://noraconrad.com/newsletter",
+      },
     }),
   ],
   right: [],
