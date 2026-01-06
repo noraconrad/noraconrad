@@ -4,6 +4,11 @@ date: 2024-12-05
 categories: 
   - "productivity"
 coverImage: "img.png"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Tech-Gear-Workflow-Edit-Post.png)

@@ -4,6 +4,11 @@ date: 2024-05-30
 categories: 
   - "productivity"
 coverImage: "img.png"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/1_VQmgwEoPt03jdgbPktPBmA.png)

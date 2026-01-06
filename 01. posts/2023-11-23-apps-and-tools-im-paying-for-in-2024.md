@@ -9,6 +9,9 @@ tags:
   - "productivity"
   - "productivity-stack"
   - "subscription"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 #### A list of the subscriptions that are worth the price.

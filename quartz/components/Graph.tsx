@@ -67,30 +67,8 @@ export default ((opts?: Partial<GraphOptions>) => {
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     const id = `graph-${numGraphs++}`
     return (
-      <div class={classNames(displayClass, "graph", "collapsible")}>
-        <button
-          type="button"
-          class="title-button graph-toggle"
-          aria-expanded={true}
-          aria-controls={id}
-        >
-          <h2>{i18n(cfg.locale).components.graph.title}</h2>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="14"
-            height="14"
-            viewBox="5 8 14 8"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="fold"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div id={id} class="graph-content" aria-expanded={true} role="group">
+      <div class={classNames(displayClass, "graph")}>
+        <div class="graph-content" role="group">
           <div class="graph-outer">
             <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
             <button class="global-graph-icon" aria-label="Global Graph">
@@ -129,53 +107,7 @@ export default ((opts?: Partial<GraphOptions>) => {
   }
 
   Graph.css = style
-  const toggleScript = `
-    document.addEventListener('DOMContentLoaded', function() {
-      const graphToggles = document.querySelectorAll('.graph-toggle');
-      graphToggles.forEach(toggle => {
-        toggle.addEventListener('click', function() {
-          const graph = this.closest('.graph');
-          if (graph) {
-            const isCurrentlyCollapsed = graph.classList.contains('collapsed');
-            
-            // Close all other collapsible sections
-            const allCollapsibles = document.querySelectorAll('.explorer, .social-links, .graph, .backlinks, .toc');
-            allCollapsibles.forEach(section => {
-              if (section !== graph) {
-                section.classList.add('collapsed');
-                const sectionToggle = section.querySelector('.explorer-toggle, .social-links-toggle, .graph-toggle, .backlinks-toggle, .toc-header');
-                const sectionContent = section.querySelector('.explorer-content, .social-links-content, .graph-content, .backlinks-content, .toc-content');
-                if (sectionToggle) {
-                  sectionToggle.setAttribute('aria-expanded', 'false');
-                }
-                if (sectionContent) {
-                  sectionContent.setAttribute('aria-expanded', 'false');
-                }
-              }
-            });
-            
-            // Toggle current section
-            if (isCurrentlyCollapsed) {
-              graph.classList.remove('collapsed');
-              this.setAttribute('aria-expanded', 'true');
-              const content = graph.querySelector('.graph-content');
-              if (content) {
-                content.setAttribute('aria-expanded', 'true');
-              }
-            } else {
-              graph.classList.add('collapsed');
-              this.setAttribute('aria-expanded', 'false');
-              const content = graph.querySelector('.graph-content');
-              if (content) {
-                content.setAttribute('aria-expanded', 'false');
-              }
-            }
-          }
-        });
-      });
-    });
-  `
-  Graph.afterDOMLoaded = concatenateResources(script, toggleScript)
+  Graph.afterDOMLoaded = script
 
   return Graph
 }) satisfies QuartzComponentConstructor

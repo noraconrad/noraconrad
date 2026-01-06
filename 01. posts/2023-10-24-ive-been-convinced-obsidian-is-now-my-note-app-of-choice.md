@@ -7,6 +7,9 @@ tags:
   - "notes-app"
   - "obsidian"
   - "second-brain"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 #### Switching to Obsidian and How I’m Using it Now

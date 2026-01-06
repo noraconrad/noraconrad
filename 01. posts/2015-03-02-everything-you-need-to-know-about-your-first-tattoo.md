@@ -7,6 +7,9 @@ tags:
   - "tattoo-tips"
   - "tattooing"
   - "what-to-expect"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 A tattoo is a huge decision. When I decided to get a tattoo I researched everything I could. I wanted to know exactly what to expect. I watched YouTube videos, read articles, and talked to my tattoo artist but I could never find a full explanation all in one place. I just got my third tattoo so I thought I would write a full explanation and post pictures as my tattoo heals so that you know what to expect.

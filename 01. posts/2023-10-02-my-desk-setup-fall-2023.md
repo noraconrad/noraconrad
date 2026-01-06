@@ -6,6 +6,9 @@ tags:
   - "desk-tour"
   - "office-tour"
   - "wfh-setup"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 I’m a sucker for desk tours. I love seeing how others set up their workspaces and what fun gadgets they invest in to make their space a little more comfortable or productive.

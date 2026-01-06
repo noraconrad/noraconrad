@@ -7,6 +7,9 @@ tags:
   - "christian-living"
   - "how-to-do-a-bible-study"
   - "how-to-study-the-bible"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 Last year I put up my very first bible study video where I took you through my bible verse-by-verse and broke down each sentence on video. Since then I’ve gotten countless emails, comments, and messages asking for me to post more.

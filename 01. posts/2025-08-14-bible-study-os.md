@@ -2,6 +2,11 @@
 title: "Bible Study OS"
 date: 2025-08-14
 coverImage: "bible+study.png"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 What started as a passion project to integrate Bible study with my personal knowledge management system has now grown into a complete **Bible Study Template in Notion**. This template is designed to help you organize your Bible notes, track sermon insights, and keep track of prayer requests—all in one place. Whether you're new to Bible study or looking for a more structured way to deepen your understanding, this template will support your journey.

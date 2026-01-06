@@ -8,6 +8,9 @@ tags:
   - "notion"
   - "resolutions"
 coverImage: "Cozy+Home+Workspace.jpg"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 #### With Notion and Sunsama

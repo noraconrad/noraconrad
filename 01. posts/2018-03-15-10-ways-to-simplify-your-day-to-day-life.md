@@ -7,6 +7,9 @@ tags:
   - "simple-living"
   - "simplify"
   - "simplify-your-life"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 Between work, school, kids, friends, hobbies, side hustles, and trying to just enjoy life, there are a lot of not-so-fun activities that pull us away from something more important. These are 10 ways to simplify your daily routine so that cleaning, cooking, and getting ready doesn’t take so much time.

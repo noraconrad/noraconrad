@@ -7,6 +7,9 @@ tags:
   - "health-insurance"
   - "money-saving-tips"
   - "review"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 Health insurance is a hard topic, mostly because it’s so politicized and expensive. But today, I’m going to talk about it anyway, because I’ve been using an alternative to typical health insurance and it’s saving my family thousands of dollars throughout my two pregnancies.

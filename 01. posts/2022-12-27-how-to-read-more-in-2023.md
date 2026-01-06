@@ -7,6 +7,9 @@ tags:
   - "how-to-read-more"
   - "new-years-resolutions"
   - "read-more"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 ### New Year Goal: 100 Books

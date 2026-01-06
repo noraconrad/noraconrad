@@ -4,6 +4,11 @@ date: 2023-12-28
 categories: 
   - "productivity"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Productivity-Desk-Photo-2-scaled.jpg)

@@ -7,6 +7,9 @@ tags:
   - "journaling-habits"
   - "second-brain"
   - "thoughts-and-feelings"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 #### Take advantage of the benefits of journaling with or without writing

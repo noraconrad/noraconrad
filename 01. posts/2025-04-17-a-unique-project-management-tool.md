@@ -4,6 +4,11 @@ date: 2025-04-17
 categories: 
   - "productivity"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Walter-Randlehoff-Lifestyle-Photo-scaled.jpg)

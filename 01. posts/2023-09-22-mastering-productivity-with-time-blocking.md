@@ -7,6 +7,9 @@ tags:
   - "sunsama"
   - "time-blocking"
   - "time-blocking-method"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 Staying focused and productive can be a real challenge at times. The constant influx of tasks, emails, and distractions can make it difficult to accomplish what truly matters. I’ve seen time blocking recommended before, but I want to share the method (and apps) I use to make this effective.

@@ -4,6 +4,9 @@ date: 2019-06-30
 tags: 
   - "side-hustle"
   - "side-hustle-tips"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 From the first time I saw that positive pregnancy test, I knew my life, and therefore my business would never be the same. As I prepared my business for my daughter’s arrival, I found myself getting rid of a whole lot of clutter that was surrounding my site. I found myself deleting pages I spent hours working on. I deleted videos that were still generating revenue on my channel. I unsubscribed and stopped using tools that I had once sworn by. I found myself simplifying every aspect of my business, and through it, I figured out exactly what I wanted this site to be.

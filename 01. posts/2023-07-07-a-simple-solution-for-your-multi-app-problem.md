@@ -7,6 +7,9 @@ tags:
   - "task-management"
   - "task-manager-app"
   - "zapier-alternatives"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 #### How Plexxy connects all your tasks

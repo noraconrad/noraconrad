@@ -7,6 +7,9 @@ tags:
   - "small-business-tips"
   - "starting-a-new-business"
   - "tips-for-ecommerce"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 There was a time when you could build a website, throw up a couple of ads, and work on improving the SEO for a month, and then you’d have a fully operational, passive income generating, self-sustaining website that was earning you $100-$2000 per month. It was the “build it and they will come” strategy. That time is no more. The internet has evolved, and so have online businesses. In order to build a successful business online in 2023, you need to utilize marketing and know your market.

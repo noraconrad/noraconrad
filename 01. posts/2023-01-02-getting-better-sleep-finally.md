@@ -7,6 +7,9 @@ tags:
   - "evening-routine"
   - "morning-routine-ideas"
   - "sleep-tips"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 For almost a year after my son was born, I slept like 💩. A toddler and newborn didn’t help, but even when both kids began sleeping through the night, I would wake at irregular hours, take two hours to fall asleep, or sleep hard but wake up feeling groggy.

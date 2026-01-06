@@ -6,6 +6,11 @@ categories:
   - "operations"
   - "productivity"
 coverImage: "img.png"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ## _How I stopped drowning in other people’s systems_

@@ -7,6 +7,9 @@ tags:
   - "notion-template"
   - "productivity"
   - "second-brain"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 \[embed\]https://youtu.be/c86FQN9HiF8\[/embed\]

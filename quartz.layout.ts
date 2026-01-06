@@ -40,6 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "link",
       useSavedState: false,
     }),
+    Component.Graph(),
     Component.SocialLinks({
       links: {
         YouTube: "https://youtube.com/@NoraConrad",
@@ -48,8 +49,6 @@ export const defaultContentPageLayout: PageLayout = {
         "Newsletter": "https://rooted.noraconrad.com",
       },
     }),
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [],
 }
@@ -75,6 +74,7 @@ export const defaultListPageLayout: PageLayout = {
       folderClickBehavior: "link",
       useSavedState: false,
     }),
+    Component.Graph(),
     Component.SocialLinks({
       links: {
         YouTube: "https://youtube.com/@NoraConrad",
@@ -83,7 +83,6 @@ export const defaultListPageLayout: PageLayout = {
         "Newsletter": "https://rooted.noraconrad.com",
       },
     }),
-    Component.Graph(),
   ],
   right: [],
 }

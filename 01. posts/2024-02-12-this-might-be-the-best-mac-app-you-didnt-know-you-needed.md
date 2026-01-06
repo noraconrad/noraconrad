@@ -4,6 +4,11 @@ date: 2024-02-12
 categories: 
   - "productivity"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Work-from-Anywhere-Photo-1-scaled.jpg)

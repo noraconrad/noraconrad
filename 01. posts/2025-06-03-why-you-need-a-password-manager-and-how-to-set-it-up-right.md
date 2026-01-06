@@ -4,6 +4,11 @@ date: 2025-06-03
 categories: 
   - "business"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Password-Pictures-HD-scaled.jpg)

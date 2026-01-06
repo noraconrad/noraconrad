@@ -100,11 +100,18 @@ button.desktop-explorer {
   color: var(--dark);
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  width: 100%;
 
   & h2 {
     font-size: 1rem;
     display: inline-block;
     margin: 0;
+  }
+
+  & .fold {
+    margin-left: auto;
+    margin-right: 0;
   }
 }
 

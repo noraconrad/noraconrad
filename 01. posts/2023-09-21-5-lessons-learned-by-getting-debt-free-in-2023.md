@@ -7,6 +7,9 @@ tags:
   - "debt-free-journey"
   - "paying-off-debt"
   - "personal-finance"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 My husband and I paid off our last consumer debt in February of 2023. We have our mortgage still, but otherwise we have no other debt to our names. Together, we paid off almost $128,000 in 5 years, while cash flowing two pregnancies (I didn’t have insurance), a car and two college degrees (one still in progress). We learned a lot through this process and I want to share the 5 things that helped us the most as we worked toward this massive goal.

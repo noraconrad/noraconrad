@@ -9,6 +9,9 @@ tags:
   - "productivity-apps"
   - "productivity-stack"
   - "setapp"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 #### Setapp gives you access to hundreds of other apps for one low subscription price, but is it actually worth subscribing to?

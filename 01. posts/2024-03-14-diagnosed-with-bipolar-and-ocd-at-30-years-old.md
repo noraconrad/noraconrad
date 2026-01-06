@@ -4,6 +4,11 @@ date: 2024-03-14
 categories: 
   - "mental-health"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Burnout-Portrait-scaled.jpg)

@@ -7,6 +7,9 @@ tags:
   - "how-to-set-goals"
   - "setting-goals-for-2022"
   - "setting-goals-for-2023"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 How many times do you set new year resolutions that fall short by February? How many times have you read blog posts about hitting your goals? Ouch. I know. Listen, I was a cereal goal-setter-then-goal-forgetter-or-giver-upper before last year. I had only set a couple of goals because they were super short-term and easy to hit. Never had I actually reached all my new year’s resolutions UNTIL LAST YEAR. So what changed? That’s what we’re going to talk about today.

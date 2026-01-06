@@ -7,6 +7,9 @@ tags:
   - "pkm"
   - "productivity-stack"
   - "remnote"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 I’ve tried Notion, Obsidian, Evernote, Reflect, Mem, Apple Notes, Tana, Routine, Note Plan 3, OneNote and even TickTick in the quest to find the perfect notes app for my workflow.

@@ -6,6 +6,9 @@ tags:
   - "habits"
   - "routines"
   - "simplify-your-routine"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 What time do you wake up in the morning? What do you do as soon as you get home from work? You probably already know these answers, because, intentionally or not, you have routines. How you use those routines to your benefit is the key. Today we’re going to look at how you can alter your routines and your habits to reduce stress, work toward your goals and simplify your day-to-day schedule.

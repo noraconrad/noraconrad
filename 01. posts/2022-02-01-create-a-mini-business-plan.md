@@ -7,6 +7,9 @@ tags:
   - "side-hustle"
   - "small-business"
   - "wfh"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 YouTube channel, Etsy shop, course — it doesn't matter what you sell, you need a plan

@@ -5,6 +5,9 @@ tags:
   - "book-a-day"
   - "reading-challenge"
   - "readinglist"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 ![](images/1*_CFeEefb3AZ_NVqtZdtNNg.png)

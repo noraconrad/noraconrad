@@ -7,6 +7,9 @@ tags:
   - "notion"
   - "planning"
   - "sunsama"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 #### How I use Notion, Sunsama & Google

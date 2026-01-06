@@ -200,7 +200,7 @@ export default ((opts?: Options) => {
             const isCurrentlyCollapsed = socialLinks.classList.contains('collapsed');
             
             // Close all other collapsible sections
-            const allCollapsibles = document.querySelectorAll('.explorer, .social-links, .graph, .backlinks, .toc');
+            const allCollapsibles = document.querySelectorAll('.explorer, .social-links, .backlinks, .toc');
             allCollapsibles.forEach(section => {
               if (section !== socialLinks) {
                 section.classList.add('collapsed');

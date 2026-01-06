@@ -9,6 +9,9 @@ tags:
   - "full-stack-developer"
   - "learn-javascript"
   - "learn-to-code"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 I learned HTML and CSS from Neopets. _Seriously_.

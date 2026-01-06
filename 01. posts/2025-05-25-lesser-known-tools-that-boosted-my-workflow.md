@@ -4,6 +4,11 @@ date: 2025-05-25
 categories: 
   - "productivity"
 coverImage: "Annie+Spratt+Photo+(5).jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Stephanie-Berbec-Unsplash-scaled.jpg)

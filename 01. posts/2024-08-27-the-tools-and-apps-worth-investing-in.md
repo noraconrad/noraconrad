@@ -4,6 +4,11 @@ date: 2024-08-27
 categories: 
   - "productivity"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 #### What I’ll be paying for in 2025

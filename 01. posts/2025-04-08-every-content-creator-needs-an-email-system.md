@@ -5,6 +5,11 @@ categories:
   - "business"
   - "productivity"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Computer-Image-from-Unsplash-scaled.jpg)

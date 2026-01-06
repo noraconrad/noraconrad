@@ -4,6 +4,11 @@ date: 2024-10-05
 categories: 
   - "mental-health"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Navigating-Mental-Health-Edit-Post.jpg)

@@ -7,6 +7,9 @@ tags:
   - "proverbs-31-business"
   - "proverbs-31-woman"
   - "verse-by-verse"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 ### WHAT IS PROVERBS 31?

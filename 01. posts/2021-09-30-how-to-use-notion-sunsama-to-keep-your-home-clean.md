@@ -7,6 +7,9 @@ tags:
   - "notion"
   - "organizing"
   - "sunsama"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 One of the things that surprised me the most when we bought our first home, was just how much cleaning and maintenance we had to do to keep the house looking decent. I was also shocked by how little I actually knew about the basic home maintenance that needed to be done throughout the year. Today I want to share a few templates to help you keep up with it all and give you some ideas for setting up reminders for these tasks. Let’s jump in.

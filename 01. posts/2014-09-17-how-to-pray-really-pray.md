@@ -2,6 +2,11 @@
 title: "How to Pray — Really pray"
 date: 2014-09-17
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Daiga-Ellaby-Photo-2-scaled.jpg)

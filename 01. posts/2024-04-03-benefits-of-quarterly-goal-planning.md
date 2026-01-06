@@ -4,6 +4,11 @@ date: 2024-04-03
 categories: 
   - "productivity"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Warm-and-Muted-Vol-3-12-scaled.jpg)

@@ -4,6 +4,11 @@ date: 2024-01-23
 categories: 
   - "business"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Daiga-Ellaby-Photo-12-scaled.jpg)

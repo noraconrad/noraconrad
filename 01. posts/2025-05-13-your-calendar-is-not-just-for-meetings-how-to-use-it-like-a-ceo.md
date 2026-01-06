@@ -5,6 +5,11 @@ categories:
   - "operations"
   - "productivity"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Calendar-Picture-Unsplash-scaled.jpg)

@@ -2,6 +2,11 @@
 title: "Business Money Tracker"
 date: 2025-08-14
 coverImage: "business+money.png"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 Reports Dashboard for Monthly and Yearly totals

@@ -2,6 +2,11 @@
 title: "Ultimate Content Manager"
 date: 2025-08-07
 coverImage: "content+manager.png"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.tella.tv/video/clqehos6y007u0fl5errz0c1w/embed?b=0&amp;title=0&amp;a=1&amp;loop=0&amp;t=0&amp;muted=0&amp;wt=0" allowfullscreen allowtransparency=""></iframe>

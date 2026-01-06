@@ -19,7 +19,7 @@ function toggleToc(this: HTMLElement) {
   const isCurrentlyCollapsed = toc.classList.contains("collapsed") || this.classList.contains("collapsed")
   
   // Close all other collapsible sections
-  const allCollapsibles = document.querySelectorAll(".explorer, .social-links, .graph, .backlinks, .toc")
+  const allCollapsibles = document.querySelectorAll(".explorer, .social-links, .backlinks, .toc")
   allCollapsibles.forEach((section) => {
     if (section !== toc) {
       section.classList.add("collapsed")

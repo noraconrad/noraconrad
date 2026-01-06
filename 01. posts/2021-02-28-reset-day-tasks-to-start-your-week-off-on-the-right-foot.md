@@ -7,6 +7,9 @@ tags:
   - "sunday-reset"
   - "sunday-scaries"
   - "weekly-routine"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 Every Sunday, I run through a few simple tasks that help me and my family start the week off on the right foot. Whether you do this routine before the start of the week or in the middle of the week is completely up to you. I hope some of these ideas can help you build a weekly routine that saves you a little time and stress.

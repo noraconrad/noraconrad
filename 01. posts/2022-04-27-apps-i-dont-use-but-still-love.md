@@ -7,6 +7,9 @@ tags:
   - "free-notion-alternative"
   - "productivity"
   - "todoist"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 I get the opportunity to test a lot of apps and tools, but they don’t always fit well into my workflow for one reason or another. Today I want to highlight some that I think are really well designed and beautiful apps, that deserve some recognition, even if they’re not my daily drivers.

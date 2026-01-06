@@ -7,6 +7,9 @@ tags:
   - "sunsama"
   - "system"
   - "todoist"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 Over the last few years, my planning process hasn’t changed much. However, when I transitioned to working from home and adding an extra kiddo to the mix, my planning system was really put to the test. The nice thing about a _system_ is that regardless of the changes that happen in my life, my system was able to handle the extra work. Having a planning system is much more flexible than one great app or a really nice planner. If you haven’t thought through your own system, I hope this will help you get the ball rolling.

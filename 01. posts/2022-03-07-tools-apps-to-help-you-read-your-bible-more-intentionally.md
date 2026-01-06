@@ -7,6 +7,9 @@ tags:
   - "bible-study-app"
   - "bible-study-tools"
   - "christian-resources"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 The first goal of 2022 I was working toward is reading my bible every day. I’ve done fairly well with this in the past but I really want to make this process more intentional and carve out a full 30 minutes every day to not just read my bible but actually _digest the information_.

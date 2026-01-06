@@ -4,6 +4,11 @@ date: 2024-01-16
 categories: 
   - "business"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Work-from-Anywhere-Photo-scaled.jpg)

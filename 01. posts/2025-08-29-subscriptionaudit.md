@@ -2,6 +2,11 @@
 title: "I Audited My 15+ App Subscriptions and saved almost $3,000 a year"
 date: 2025-08-29
 coverImage: "Modern+Home+Office+Setup-7xOA3vsYk4.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 After completely transforming my business tech stack this year, I realized I was paying for way too many subscriptions that weren’t actually serving me.

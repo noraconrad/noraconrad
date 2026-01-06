@@ -4,6 +4,11 @@ date: 2024-05-08
 categories: 
   - "business"
 coverImage: "img.jpg"
+lastmod: 2026-01-06
+tags:
+  - posts
+description: 
+publish: true
 ---
 
 ![](images/Lifestyle-Furniture-Photo-9-scaled.jpg)

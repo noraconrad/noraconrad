@@ -7,6 +7,9 @@ tags:
   - "productive-routine"
   - "routines"
   - "sleep-routines"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 There’s a lot of talk about morning routines. Even I’ve shared [how I wake up super early](https://blog.noraconrad.com/how-to-wake-up-earlier-why-youll-love-it-a8c2d73f4c27) and have a structured routine. However, your morning routine really starts the night before and takes some prep so that your mornings run smoothly. Even if you’re not waking up at 4 am like me, having a nighttime routine can make your mornings a little easier and help you have a more productive day.

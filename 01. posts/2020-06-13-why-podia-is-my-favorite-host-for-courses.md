@@ -7,6 +7,9 @@ tags:
   - "ecourse-platform"
   - "online-course"
   - "podia"
+lastmod: 2026-01-06
+description: 
+publish: true
 ---
 
 My business has been mostly on auto-drive during the last few months. I’ve spent a lot of years building up my business and I feel like I have a pretty good grip on what has worked well when it comes to passive income. My biggest sources of passive income have been YouTube Adsense, Affiliate Links, and my Podia courses — today we’re going to focus on Podia.
