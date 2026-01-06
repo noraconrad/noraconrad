@@ -24,11 +24,11 @@ After starting a full-time job, I realized I don't need a content machine, I nee
     - `03. Templates/`
     - `04. Random Rambles/`
     - `Index.md`
-- [ ] Create YAML frontmatter template/boilerplate (default for all pages)
-- [ ] Initialize Git repo and push to GitHub
-- [ ] Clone Quartz, connect to GitHub repo
-- [ ] Deploy to Vercel and verify it works (even with empty vault)
-- [ ] Review [Quartz philosophy](https://quartz.jzhao.xyz/philosophy) and customize homepage layout
+- [x] Create YAML frontmatter template/boilerplate (default for all pages)
+- [x] Initialize Git repo and push to GitHub
+- [x] Clone Quartz, connect to GitHub repo
+- [x] Deploy to Vercel and verify it works (even with empty vault)
+- [x] Review [Quartz philosophy](https://quartz.jzhao.xyz/philosophy) and customize homepage layout
 
 ## Phase 2: Content Migration
 
@@ -44,7 +44,7 @@ After starting a full-time job, I realized I don't need a content machine, I nee
 
 ## Phase 3: Site Architecture & Features
 
-- [ ] Create custom Index.md homepage (directory/hub layout)
+- [x] Create custom Index.md homepage (directory/hub layout)
 - [ ] Create `/About` page (portfolio of projects, origin story, why I shifted)
 - [ ] Create `/Support` page listing:
     - Affiliate links

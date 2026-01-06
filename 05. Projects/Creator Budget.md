@@ -5,13 +5,12 @@ tags:
   - active
 status: building
 externalUrl: https://www.creatorbudget.com
+date: 2026-01-06
+lastmod: 2026-01-06
+publish: true
 ---
-
-# Creator Budget
-
-**Status:** Building  
 **External Site:** [creatorbudget.com](https://www.creatorbudget.com)
-
+![[cb-project.png]]
 ## Description
 
 Full financial management for solo creators

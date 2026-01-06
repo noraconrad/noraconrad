@@ -5,13 +5,12 @@ tags:
   - active
 status: active
 externalUrl: https://ardor.deskdata.co
+date: 2026-01-06
+lastmod: 2026-01-06
+publish: true
 ---
-
-# Ardor Dashboard
-
-**Status:** Active  
 **External Site:** [ardor.deskdata.co](https://ardor.deskdata.co)
-
+![[ae-project.png]]
 ## Description
 
 Custom data-driven dashboard for sales, ROS and SPINs data

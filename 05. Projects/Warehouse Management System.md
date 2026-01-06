@@ -5,13 +5,12 @@ tags:
   - active
 status: building
 externalUrl: https://www.macpac.space
+date: 2026-01-06
+lastmod: 2026-01-06
+publish: true
 ---
-
-# Warehouse Management System
-
-**Status:** Building  
 **External Site:** [macpac.space](https://www.macpac.space)
-
+![[mp-project.png]]
 ## Description
 
 Multi-client inventory and warehouse management system

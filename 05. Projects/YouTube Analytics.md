@@ -5,13 +5,12 @@ tags:
   - active
 status: active
 externalUrl: https://www.youtube.com/@NoraConrad
+date: 2026-01-06
+lastmod: 2026-01-06
+publish: true
 ---
-
-# YouTube Analytics
-
-**Status:** Active  
 **Channel:** [@NoraConrad](https://www.youtube.com/@NoraConrad)
-
+![[yt-project.png]]
 ## Description
 
 Personal business metrics tracking for @NoraConrad YouTube channel

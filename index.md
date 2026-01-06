@@ -20,7 +20,7 @@ I've been creating content since high school (middle school if you count Neopet 
 [[rambles]] — book reviews, personal essays, reflections
 *less polished, more personal*
 
-[[Projects]] — things I'm building, apps and other sites
+[[projects]] — things I'm building, apps and other sites
 *current work and portfolio*
 
 ## Connect

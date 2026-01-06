@@ -1,7 +1,10 @@
 ---
-title: Projects
+title: projects
 tags:
   - projects
+date: 2026-01-06
+lastmod: 2026-01-06
+publish: true
 ---
 
 # Projects
@@ -19,9 +22,6 @@ Welcome to my projects page! Here you can find information about my work, GitHub
 ### [[Ardor Dashboard]]
 Custom data-driven dashboard for sales, ROS and SPINs data. Real-time retail analytics aggregating weekly sales data from multiple retail channels.
 
-### [[Nora Conrad]]
-A decade-long digital brand and content platform with 100K+ monthly blog views, 8K-subscriber YouTube channel, and multiple revenue streams.
-
 ### [[YouTube Analytics]]
 Personal business metrics tracking for @NoraConrad YouTube channel with custom dashboards and revenue tracking.
 
@@ -38,5 +38,3 @@ Full financial management tool for solo creators to track income, expenses, and 
 ## About This Site
 
 This digital garden is built with [Quartz](https://quartz.jzhao.xyz/), a static site generator that transforms your markdown files into a beautiful, fast website.
-
-You can view the source code on GitHub: [github.com/noraconrad/noraconrad](https://github.com/noraconrad/noraconrad)
