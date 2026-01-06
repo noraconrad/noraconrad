@@ -43,7 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.SocialLinks({
       links: {
         YouTube: "https://youtube.com/@NoraConrad",
-        LinkedIn: "https://linkedin.com/in/noraconrad",
+        LinkedIn: "https://www.linkedin.com/in/stephanienoraconrad/",
         Pinterest: "https://www.pinterest.com/NoraConradCom/",
         "Newsletter": "https://rooted.noraconrad.com",
       },
@@ -80,7 +80,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.SocialLinks({
       links: {
         YouTube: "https://youtube.com/@NoraConrad",
-        LinkedIn: "https://linkedin.com/in/noraconrad",
+        LinkedIn: "https://www.linkedin.com/in/stephanienoraconrad/",
         Pinterest: "https://www.pinterest.com/NoraConradCom/",
         "Newsletter": "https://rooted.noraconrad.com",
       },
