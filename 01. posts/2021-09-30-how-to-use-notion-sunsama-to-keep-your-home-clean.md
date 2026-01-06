@@ -1,5 +1,5 @@
 ---
-title: "How to use Notion &amp; Sunsama to keep your home clean"
+title: "How to use Notion & Sunsama to keep your home clean"
 date: 2021-09-30
 tags: 
   - posts

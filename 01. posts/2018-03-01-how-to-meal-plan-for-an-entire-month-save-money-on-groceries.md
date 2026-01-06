@@ -1,5 +1,5 @@
 ---
-title: "How to Meal Plan for an Entire Month &amp; Save Money on Groceries"
+title: "How to Meal Plan for an Entire Month & Save Money on Groceries"
 date: 2018-03-01
 tags: 
   - posts

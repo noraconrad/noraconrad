@@ -1,5 +1,5 @@
 ---
-title: "Mastering Sunsama &amp; Zapier: A Complete Guide to Smarter Task Management"
+title: "Mastering Sunsama & Zapier: A Complete Guide to Smarter Task Management"
 date: 2025-03-01
 
   - "business"

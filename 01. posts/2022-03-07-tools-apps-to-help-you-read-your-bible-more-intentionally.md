@@ -1,5 +1,5 @@
 ---
-title: "Tools &amp; Apps to help you read your bible more intentionally"
+title: "Tools & Apps to help you read your bible more intentionally"
 date: 2022-03-07
 tags: 
   - posts

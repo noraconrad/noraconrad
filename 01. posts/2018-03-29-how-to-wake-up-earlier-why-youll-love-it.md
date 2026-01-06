@@ -1,5 +1,5 @@
 ---
-title: "How to Wake Up Earlier &amp; Why You’ll Love It"
+title: "How to Wake Up Earlier & Why You’ll Love It"
 date: 2018-03-29
 tags: 
   - posts
