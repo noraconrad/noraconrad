@@ -48,10 +48,10 @@ export const defaultContentPageLayout: PageLayout = {
         "Newsletter": "https://rooted.noraconrad.com",
       },
     }),
-  ],
-  right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+  ],
+  right: [
     Component.Backlinks(),
   ],
 }
@@ -85,6 +85,7 @@ export const defaultListPageLayout: PageLayout = {
         "Newsletter": "https://rooted.noraconrad.com",
       },
     }),
+    Component.Graph(),
   ],
   right: [],
 }

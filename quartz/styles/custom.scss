@@ -54,3 +54,20 @@ body {
   scrollbar-width: thin;
   scrollbar-color: #f9f8f8 #f3e7e9;
 }
+
+// Extend main content area to fill right sidebar space
+.page > #quartz-body > .page-body {
+  grid-column: 1 / -1 !important;
+}
+
+.page > #quartz-body > .page-body > .page-header,
+.page > #quartz-body > .page-body > .page-content,
+.page > #quartz-body > .page-body > .page-footer {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+// Make TOC work in sidebar
+.toc {
+  margin-top: 2rem;
+}
