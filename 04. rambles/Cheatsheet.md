@@ -3,7 +3,7 @@ title: Cheatsheet
 date: 2026-01-06
 lastmod: 2026-01-06
 tags:
-  - build-in-public
+  - updates
 description: References to operate the website
 publish: true
 ---
@@ -13,17 +13,17 @@ This page operates as a reference for myself while making updates to the site. F
 	- `data-analysis`
 	- `small-business`
 	- `operations`
-	- `goals-growth
+	- `goals-growth`
 	- `lifestyle`
 - curriculums
-	- `mastering-chaos
+	- `mastering-chaos`
 - templates
 	- `pdf`
 	- `notion`
 	- `obsidian`
 - rambles
 	- `finance`
-	- `faith
+	- `faith`
 	- `hobbies`
 	- `updates`
 	- `book-reviews`

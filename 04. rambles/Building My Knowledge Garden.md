@@ -1,3 +1,12 @@
+---
+title: building my knowledge garden
+date: 2026-01-06
+lastmod: 2026-01-06
+tags:
+  - updates
+description: building this website in public
+publish: true
+---
 I'm migrating my scattered content ecosystem into a single knowledge garden. This is a public roadmap of the work involved.
 
 **Why?** 
