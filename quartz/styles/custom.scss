@@ -11,3 +11,12 @@
 .folder-container {
   padding-left: 0 !important;
 }
+
+// Make footer text smaller (8pt)
+footer {
+  font-size: 8pt !important;
+  
+  p {
+    font-size: 8pt !important;
+  }
+}
