@@ -29,8 +29,8 @@ PageTitle.css = `
 }
 
 .page-logo {
-  height: 40px;
-  width: auto;
+  width: 100%;
+  height: auto;
   display: block;
 }
 `

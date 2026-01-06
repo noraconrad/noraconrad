@@ -35,6 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      title: "Map",
       folderDefaultState: "open",
       folderClickBehavior: "link",
       useSavedState: false,
@@ -71,6 +72,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      title: "Map",
       folderDefaultState: "open",
       folderClickBehavior: "link",
       useSavedState: false,
