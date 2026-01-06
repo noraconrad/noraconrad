@@ -1,8 +1,6 @@
 ---
 title: "Becoming a Proverbs 31 Woman"
 date: 2014-08-06
-
-  - "faith"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
@@ -10,7 +8,7 @@ tags:
 description: 
 publish: true
 categories:
-  - "faith"
+  - faith
 ---
 
 ![](images/Daiga-Ellaby-Photo-5-scaled.jpg)

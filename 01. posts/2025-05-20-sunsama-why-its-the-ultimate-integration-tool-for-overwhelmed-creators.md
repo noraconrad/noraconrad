@@ -1,7 +1,6 @@
 ---
 title: "Sunsama: Why It's The Ultimate Integration Tool for Overwhelmed Creators"
 date: 2025-05-20
-
   - "operations"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,8 +9,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - productivity
   - small-business
 categories:
   - "operations"

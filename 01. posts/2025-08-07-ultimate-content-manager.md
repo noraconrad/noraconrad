@@ -7,8 +7,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - operations
   - productivity
 categories:
   - operations

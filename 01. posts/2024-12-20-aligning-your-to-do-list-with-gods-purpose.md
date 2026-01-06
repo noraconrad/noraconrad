@@ -1,7 +1,6 @@
 ---
 title: "Aligning Your To-Do List with God’s Purpose"
 date: 2024-12-20
-
   - "faith"
   - "productivity"
 coverImage: "img.jpg"

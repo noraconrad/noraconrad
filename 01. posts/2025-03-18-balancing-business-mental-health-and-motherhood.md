@@ -1,7 +1,6 @@
 ---
 title: "Balancing Business, Mental Health, and Motherhood"
 date: 2025-03-18
-
   - "mental-health"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,8 +9,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - lifestyle
   - small-business
 categories:
   - "mental-health"

@@ -11,8 +11,6 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-
-  - productivity
 categories:
   - productivity
 ---
@@ -23,7 +21,7 @@ The first goal of 2022 I was working toward is reading my bible every day. I’v
 
 In the past, I’ve always used the [Bible app by YouVersion](https://www.youversion.com/the-bible-app/), and while I still love that app, I think that the newer system I’m using is a little more focused and easier to keep up with. If you like being able to pick and choose your Bible study plan, or you’re looking for a more community-based app, Bible is a great one. If you’re a newer Christian, or if you just want to work on building up good habits, Glorify is perfect for you;
 
-\[embed\]https://share.glorify-app.com/o2yyypVK2lb\[/embed\]
+![[https://share.glorify-app.com/o2yyypVK2lb]]
 
 The glorify app (above is an affiliate link) is a daily worship and wellbeing app that helps you create space and structure to connect with God every day. Glorify is literally built to help you get into good worship habits using bite-sized content that is quick and easy to complete. Each day there’s a quote, bible reading, and devotional as well as additional guided meditation, prayers, and worship music.
 
@@ -37,10 +35,10 @@ Currently, I’m working through reading my entire Bible in two years and I’m 
 
 As much as I love being able to write in my physical bible, my carpal tunnel has been pretty bad lately, so using a digital journaling bible has been a little more accessible lately. I use the ESV version on Goodnotes to do this. I can either write on my iPad or type notes from my desktop.
 
-\[embed\]https://share.glorify-app.com/o2yyypVK2lb\[/embed\]
+![[https://share.glorify-app.com/o2yyypVK2lb]]
 
 One of the great things about digital bible journaling is that I can easily export the passages I’ve noted into my Notion account as a PDF or image. If you haven’t watched my previous video about creating a bible study hub in notion, check it out below. It’s a free notion template and I’ve loved using it to store my sermon notes, digital bible journal pages, and all my resources.
 
-\[embed\]https://www.youtube.com/watch?v=R4FmVxkY1Eo\[/embed\]\[embed\]https://share.glorify-app.com/o2yyypVK2lb\[/embed\]
+![[https://www.youtube.com/watch?v=R4FmVxkY1Eo]]![[https://share.glorify-app.com/o2yyypVK2lb]]
 
 Obviously, at the time of writing this, we are well into 2022, and I can say that over the last couple of months, this system and these tools have worked really well to help me read my bible every day and intentionally digest that information. I hope these tools can help you in your relationship as well.

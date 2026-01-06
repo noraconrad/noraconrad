@@ -1,7 +1,6 @@
 ---
 title: "Notion isn’t a website builder, but…"
 date: 2024-01-16
-
   - "business"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - productivity
 categories:
   - "business"
   - productivity

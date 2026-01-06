@@ -11,6 +11,7 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories: []
 ---
 
 ### New Year Goal: 100 Books

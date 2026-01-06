@@ -1,6 +1,7 @@
 ---
-title: "Posts"
+title: "categories"
 publish: true
+categories: []
 ---
 # Posts
 

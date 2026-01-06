@@ -1,7 +1,6 @@
 ---
 title: "Streamline Your Creative Workflow"
 date: 2025-03-25
-
   - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - operations
   - productivity
 categories:
   - "productivity"

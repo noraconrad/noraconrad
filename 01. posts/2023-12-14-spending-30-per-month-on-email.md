@@ -1,7 +1,6 @@
 ---
 title: "Spending $30 per month on… email?"
 date: 2023-12-14
-
   - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - data-analysis
   - small-business
 categories:
   - "productivity"

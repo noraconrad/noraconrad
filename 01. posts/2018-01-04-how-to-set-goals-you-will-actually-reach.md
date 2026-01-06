@@ -11,8 +11,6 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-
-  - goals-growth
 categories:
   - goals-growth
 ---
@@ -51,7 +49,7 @@ Milestones and finish lines help to make your goals into real plans and make it 
 
 When you have your goals set, the next step is to plan all the tasks required to make that goal a reality. There are a ton of ways to go about this, you can use a calendar, a to-do app, or sticky notes. I’ll share a few ideas in the video below. Not a video person? The audio version is right below that ;)
 
-\[embed\]https://youtu.be/caA8aYoDV\_M\[/embed\]
+![[https://youtu.be/caA8aYoDV\_M]]
 
 ### 03\. SCHEDULE PROGRESS
 

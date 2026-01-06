@@ -11,10 +11,9 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-
-  - productivity
 categories:
   - productivity
+  - faith
 ---
 
 I’ve been using journals and writing in my bible for over a decade, but recently I started using Notion to take digital bible study notes and track prayers. I’ve had a ton of fun and seen a lot of growth in my faith life since starting this process, and I want to share my template and tips with you today.
@@ -27,7 +26,7 @@ I’ve talked about it a lot on my YouTube channel and blog, but if you still ha
 
 Notion has been a core in my business and personal life over the past year and I am still finding new uses for it all the time. Recently, I wanted to find a way to start building up my bible studies into a searchable and resource-filled database within Notion. After playing around with a few templates and options, I settled on one template that I made some adjustments to. You can watch that video below and [grab the free template](https://shop.noraconrad.com/notion-templates-by-nora).
 
-\[embed\]https://www.youtube.com/watch?v=R4FmVxkY1Eo\[/embed\]
+![[https://www.youtube.com/watch?v=R4FmVxkY1Eo]]
 
 ### HOW I STUDY MY BIBLE DIGITALLY
 

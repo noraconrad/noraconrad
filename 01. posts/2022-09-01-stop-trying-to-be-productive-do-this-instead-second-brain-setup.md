@@ -11,9 +11,11 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
-\[embed\]https://youtu.be/c86FQN9HiF8\[/embed\]
+![[https://youtu.be/c86FQN9HiF8]]
 
 Be more productive, produce more in less time, and become more efficient. While these can all be good things to strive for, the drive for productivity is surrounded by toxic environments, unrealistic goals, and overwhelming systems. What if we set aside productivity and instead tried something simpler? **BUILDING A SECOND BRAIN.**
 

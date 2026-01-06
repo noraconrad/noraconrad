@@ -1,7 +1,6 @@
 ---
 title: "Lesser-Known Tools That Boosted My Workflow"
 date: 2025-05-25
-
   - "productivity"
 coverImage: "Annie+Spratt+Photo+(5).jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - operations
   - productivity
 categories:
   - "productivity"

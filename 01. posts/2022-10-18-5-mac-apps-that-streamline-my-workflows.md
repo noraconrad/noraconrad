@@ -11,9 +11,6 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-
-  - operations
-  - productivity
 categories:
   - operations
 ---
@@ -22,7 +19,6 @@ For a very long time, I just used my mac as it came. I didn’t bother setting u
 
 These are the five apps I’ve added to my mac mini and laptop because I cannot work without them anymore.
 
-![](images/1*I8Ittu9i1ThIQwi6sPAR3Q.png)
 
 ### 01 Alfred 🎩
 

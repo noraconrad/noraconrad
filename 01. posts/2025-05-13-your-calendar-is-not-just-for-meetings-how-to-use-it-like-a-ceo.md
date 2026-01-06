@@ -1,7 +1,6 @@
 ---
 title: "Your Calendar Is Not Just for Meetings: How to Use It Like a CEO"
 date: 2025-05-13
-
   - "operations"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,8 +9,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - productivity
 categories:
   - "operations"
   - productivity

@@ -1,7 +1,6 @@
 ---
 title: "Why Most Business Owners Feel Overwhelmed - And How Better Operations Can Fix It"
 date: 2025-04-01
-
   - "business"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,8 +9,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - operations
   - small-business
 categories:
   - "business"

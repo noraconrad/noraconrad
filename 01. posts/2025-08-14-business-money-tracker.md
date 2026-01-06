@@ -7,8 +7,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - data-analysis
   - small-business
 categories:
   - data-analysis

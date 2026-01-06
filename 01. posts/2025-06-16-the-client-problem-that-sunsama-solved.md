@@ -1,7 +1,6 @@
 ---
 title: "The Client Problem That Sunsama Solved"
 date: 2025-06-16
-
   - "business"
   - "operations"
   - "productivity"
@@ -11,8 +10,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - productivity
   - small-business
 categories:
   - "business"

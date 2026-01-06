@@ -11,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - faith
 ---
 
 Last year my husband and I started a bible study group with absolutely NO experience. I hadn’t ever been part of a group before, but God was tugging on my heart so we jumped in headfirst. We learned so many lessons, what worked and what didn’t work in our first year. Today I’m going to share what we learned during the process and give you some ideas for how you can start your own small group.

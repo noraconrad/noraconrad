@@ -1,7 +1,6 @@
 ---
 title: "Stop Losing Ideas: Why Every Creator Needs a Reliable Note-Taking System"
 date: 2025-05-27
-
   - "operations"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,8 +9,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - operations
   - productivity
   - small-business
 categories:

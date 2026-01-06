@@ -11,11 +11,9 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-
-  - goals-growth
-  - small-business
 categories:
   - goals-growth
+  - small-business
 ---
 
 YouTube channel, Etsy shop, course — it doesn't matter what you sell, you need a plan

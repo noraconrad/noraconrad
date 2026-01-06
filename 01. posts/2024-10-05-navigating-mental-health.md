@@ -1,7 +1,6 @@
 ---
 title: "Navigating Mental Health"
 date: 2024-10-05
-
   - "mental-health"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - lifestyle
 categories:
   - "mental-health"
   - lifestyle

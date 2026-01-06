@@ -11,10 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-
-  - data-analysis
 categories:
-  - data-analysis
+  - productivity
 ---
 
 I am so excited about this post today because finances have been a huge focus in our home over the last few years. When we started looking seriously into our finances we were just over $90,000 in debt making less than $40,000 per year. Today we’ve only got half that debt left and we’re making double what we were two years ago. We plan to pay off the last debt in 2020 and it’s such a freeing experience.
@@ -55,7 +53,7 @@ The first step to budgeting is to realistically look at where your money is goin
 
 Feel free to use something else if you’d prefer, but for the sake of simplicity, this is going to be the app I use during this post. Once you have your app opened, we’re going to create two budgets for the months that have already passed. Follow the video below to make a couple past budgets, then move on to creating a budget for the upcoming month.
 
-\[embed\]https://youtu.be/bGvYSc-nJ94\[/embed\]
+![[https://youtu.be/bGvYSc-nJ94]]
 
 Now that you have two months of budgets under your belt, it’s time to create one for real. Start planning next month’s budget. One of the reasons I love EveryDollar is that you can copy a previous month’s budget so that you’re not starting completely from scratch.
 

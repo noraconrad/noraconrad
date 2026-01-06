@@ -1,7 +1,6 @@
 ---
 title: "Every Content Creator Needs an Email System"
 date: 2025-04-08
-
   - "business"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,8 +9,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - operations
   - productivity
   - small-business
 categories:

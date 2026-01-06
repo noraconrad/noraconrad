@@ -10,10 +10,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-
-  - data-analysis
 categories:
-  - data-analysis
+  - small-business
 ---
 
 If you’re looking for quick ideas to save some cash; cancel your cable, stop buying going out for coffee, stop eating out for lunch, give up clothes shopping for a year, and get rid of your fancy cell for a cheap phone you can buy in full. If you need some ideas that you don’t see on every Pinterest post, keep reading.

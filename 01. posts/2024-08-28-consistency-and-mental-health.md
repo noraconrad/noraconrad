@@ -1,7 +1,6 @@
 ---
 title: "Consistency and mental health"
 date: 2024-08-28
-
   - "mental-health"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - lifestyle
 categories:
   - "mental-health"
   - lifestyle

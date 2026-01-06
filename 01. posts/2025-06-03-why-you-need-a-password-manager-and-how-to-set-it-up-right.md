@@ -1,7 +1,6 @@
 ---
 title: "Why You Need a Password Manager (and How to Set It Up Right)"
 date: 2025-06-03
-
   - "business"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - operations
   - productivity
 categories:
   - "business"

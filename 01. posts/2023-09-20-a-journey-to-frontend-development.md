@@ -1,7 +1,6 @@
 ---
 title: "A journey to frontend development"
 date: 2023-09-20
-
   - "business"
 tags: 
   - posts

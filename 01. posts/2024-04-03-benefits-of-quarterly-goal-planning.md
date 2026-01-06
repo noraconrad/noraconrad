@@ -1,7 +1,6 @@
 ---
 title: "Benefits of Quarterly Goal Planning"
 date: 2024-04-03
-
   - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - goals-growth
 categories:
   - "productivity"
   - goals-growth

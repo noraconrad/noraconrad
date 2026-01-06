@@ -11,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
 This is one of my most requested blog posts of all time. Some of you might already know this, but I wake up at 4 am every weekday and for almost a year I was waking up at 3 am. This seems crazy — I know, trust me. I was a night owl for my entire childhood, but after college, I switched things up and I will never go back. Here’s how I wake up early every single day and why I love doing it. Who knows… you just might want to try it too.
@@ -57,7 +59,7 @@ Waking up earlier can also help you have [Better Problem Solving Skills](https:/
 
 You’re up early and you have all this extra time for things YOU want to do, make sure you take advantage of that!
 
-\[embed\]https://youtu.be/7plGoMPoKhg\[/embed\]
+![[https://youtu.be/7plGoMPoKhg]]
 
 * * *
 

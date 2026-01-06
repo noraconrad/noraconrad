@@ -1,7 +1,6 @@
 ---
 title: "The single best solution to beautiful screen recordings"
 date: 2023-08-16
-
   - "business"
 tags: 
   - posts

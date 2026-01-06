@@ -1,7 +1,6 @@
 ---
 title: "Boost Your Click-Through Rates with Headline Analyzer Studio by CoSchedule"
 date: 2024-05-08
-
   - "business"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - productivity
 categories:
   - "business"
   - productivity

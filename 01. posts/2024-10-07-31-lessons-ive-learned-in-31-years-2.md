@@ -1,7 +1,6 @@
 ---
 title: "31 Lessons I’ve Learned in 31 Years"
 date: 2024-10-07
-
   - "mental-health"
 coverImage: "img.jpg"
 lastmod: 2026-01-06

@@ -11,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - faith
 ---
 
 Last year I put up my very first bible study video where I took you through my bible verse-by-verse and broke down each sentence on video. Since then I’ve gotten countless emails, comments, and messages asking for me to post more.
@@ -114,7 +116,7 @@ Simply listening to online sermons from churches around the country can also be 
 
 You can watch my verse-by-verse series here:
 
-\[embed\]https://www.youtube.com/playlist?list=PLnUnQIJrz3cqqUrwE4vA-X3otF4joOugu\[/embed\]
+![[https://www.youtube.com/playlist?list=PLnUnQIJrz3cqqUrwE4vA-X3otF4joOugu]]
 
 * * *
 

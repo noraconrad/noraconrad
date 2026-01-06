@@ -11,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - productivity
 ---
 
 Your physical living space should make you feel calm, productive, and happy. If you’re surrounded by clutter and things that you resent, your stress will grow with the piles. Simplifying your space can help you reduce the clutter and make things easier to clean, find and use.
@@ -65,7 +67,7 @@ Pretty homes are not out of reach just because “you don’t have room”. You 
 
 When we moved into our new apartment, we went from having two large pantries to one super deep, super-narrow pantry. It’s been a mess for about a month, so I wanted to tackle the space on the video to give you some ideas and inspiration for how easy it can be to take a not-so-ideal space and make it work for you.
 
-\[embed\]https://youtu.be/7FNNSa-gfAg\[/embed\]
+![[https://youtu.be/7FNNSa-gfAg]]
 
 Products shown in the video are listed below as affiliate links. Please remember to check what you already have and can re-purpose before purchasing new. All of the products you see me use are things we already owned and were not using or things we were able to find at thrift shops and garage sales for cheap.
 

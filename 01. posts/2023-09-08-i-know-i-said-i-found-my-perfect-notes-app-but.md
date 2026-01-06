@@ -11,15 +11,13 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-
-  - productivity
 categories:
   - productivity
 ---
 
 Just 6 months ago, I shared my process of filtering through, identifying needs, and seeking out my perfect notes application. I ended up with RemNote, a fantastic tool that really did meet all my needs. The problem is, I barely ever used it.
 
-\[embed\]https://blog.noraconrad.com/i-finally-found-my-perfect-notes-app-7047d69b7fd4\[/embed\]
+![[https://blog.noraconrad.com/i-finally-found-my-perfect-notes-app-7047d69b7fd4]]
 
 ### The Switch
 

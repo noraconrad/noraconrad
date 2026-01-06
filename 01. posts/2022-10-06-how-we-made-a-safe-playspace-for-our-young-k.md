@@ -1,5 +1,5 @@
 ---
-title: "How we made a safe playspace for our young k"
+title: "How we made a safe playspace for our young kids"
 date: 2022-10-06
 tags: 
   - posts
@@ -11,9 +11,11 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - lifestyle
 ---
 
-\[embed\]https://www.youtube.com/watch?v=YM6-WK1hlI0\[/embed\]
+![[https://www.youtube.com/watch?v=YM6-WK1hlI0]]
 
 I work from home with my 3.5-year-old daughter and 10-month-old son -
 

@@ -11,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - faith
 ---
 
 I’ve been doing Bible studies and talking about being a Christian on my blog and on YouTube for a while now. I’m finally getting around to rounding up what tools I use to create my Bible studies and I need to clear up a few topics that have been addressed repeatedly on my videos. Let’s jump right in.

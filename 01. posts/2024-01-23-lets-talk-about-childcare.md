@@ -1,7 +1,6 @@
 ---
 title: "Let’s talk about childcare."
 date: 2024-01-23
-
   - "business"
 coverImage: "img.jpg"
 lastmod: 2026-01-06

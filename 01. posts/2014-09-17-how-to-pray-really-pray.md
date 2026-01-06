@@ -5,6 +5,8 @@ coverImage: "img.jpg"
 lastmod: 2026-01-06
 tags:
   - posts
+categories:
+  - faith
 description: 
 publish: true
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Backbone of Your Business: You need a better task manager."
 date: 2025-05-06
-
   - "business"
   - "operations"
   - "productivity"
@@ -11,8 +10,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - operations
   - productivity
   - small-business
 categories:

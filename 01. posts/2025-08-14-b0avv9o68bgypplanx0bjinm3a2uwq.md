@@ -7,8 +7,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - data-analysis
   - goals-growth
   - lifestyle
 categories:

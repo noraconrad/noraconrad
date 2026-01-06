@@ -1,7 +1,6 @@
 ---
 title: "My secret to making ANY productivity app work for you"
 date: 2024-02-14
-
   - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,8 +8,6 @@ tags:
   - posts
 description: 
 publish: true
-
-  - productivity
 categories:
   - "productivity"
   - productivity

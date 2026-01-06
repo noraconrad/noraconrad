@@ -11,6 +11,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - operations
 ---
 
 If you’ve known me for a while, you might know that my business started almost 15 years ago with website design. I offered basic services for setting up a WordPress website and later, Squarespace websites. I’ve had Squarespace as my web host for over 5 years, and now I’m officially saying goodbye.
