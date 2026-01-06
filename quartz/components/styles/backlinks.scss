@@ -1,14 +1,63 @@
 @use "../../styles/variables.scss" as *;
 
 .backlinks {
+  display: flex;
   flex-direction: column;
+  overflow-y: hidden;
+  min-height: 1.2rem;
+  flex: 0 1 auto;
+  margin-top: 2rem;
+
+  &.collapsed {
+    flex: 0 1 1.2rem;
+  }
+
+  &.collapsed .fold {
+    transform: rotateZ(-90deg);
+  }
+
+  & .fold {
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+    opacity: 0.8;
+  }
+
+  .backlinks-toggle {
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    padding: 0;
+    color: var(--dark);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .backlinks-toggle h2 {
+    font-size: 1rem;
+    margin: 0;
+    font-weight: 600;
+    color: var(--dark);
+  }
+
+  .backlinks-content {
+    overflow: hidden;
+    overflow-y: auto;
+    margin-top: 0.5rem;
+  }
+
+  &.collapsed .backlinks-content {
+    display: none;
+  }
 
   & > h3 {
     font-size: 1rem;
     margin: 0;
   }
 
-  & > ul.overflow {
+  & .backlinks-content > ul.overflow {
     list-style: none;
     padding: 0;
     margin: 0.5rem 0;
