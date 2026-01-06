@@ -39,6 +39,17 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       folderClickBehavior: "collapse",
       useSavedState: false,
+      filterFn: (node) => {
+        // Hide items tagged with "posts" from navigation
+        if (node.data?.tags?.includes("posts")) {
+          return false
+        }
+        // Also hide the "tags" folder
+        if (node.slugSegment === "tags") {
+          return false
+        }
+        return true
+      },
     }),
     Component.Graph(),
     Component.SocialLinks({
@@ -73,6 +84,17 @@ export const defaultListPageLayout: PageLayout = {
       folderDefaultState: "open",
       folderClickBehavior: "collapse",
       useSavedState: false,
+      filterFn: (node) => {
+        // Hide items tagged with "posts" from navigation
+        if (node.data?.tags?.includes("posts")) {
+          return false
+        }
+        // Also hide the "tags" folder
+        if (node.slugSegment === "tags") {
+          return false
+        }
+        return true
+      },
     }),
     Component.Graph(),
     Component.SocialLinks({
