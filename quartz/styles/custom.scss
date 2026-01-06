@@ -69,5 +69,60 @@ body {
 
 // Make TOC work in sidebar
 .toc {
-  margin-top: 2rem;
+  margin-top: 1rem !important;
+}
+
+// Make sidebar use single scrollbar and reduce spacing
+.sidebar.left {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+  gap: 0.5rem !important;
+}
+
+// Remove individual scrollbars from collapsible sections
+.explorer-content,
+.social-links-content,
+.graph-content,
+.backlinks-content,
+.toc-content,
+ul.toc-content.overflow {
+  overflow-y: visible !important;
+  overflow-x: hidden !important;
+  max-height: none !important;
+  overscroll-behavior: auto !important;
+}
+
+// Reduce margins on sidebar components
+.explorer {
+  margin-top: 0.5rem !important;
+}
+
+.social-links,
+.graph,
+.backlinks {
+  margin-top: 0.75rem !important;
+}
+
+// Reduce padding in sidebar
+.sidebar.left {
+  padding: 1rem 1.5rem 1rem 1.5rem !important;
+}
+
+// Reduce spacing in collapsible content areas
+.explorer-content,
+.social-links-content,
+.graph-content,
+.backlinks-content {
+  margin-top: 0.5rem !important;
+}
+
+// Reduce spacing for top elements
+.page-title {
+  margin-bottom: 0.5rem !important;
+}
+
+.flex-component {
+  margin-bottom: 0.5rem !important;
 }
