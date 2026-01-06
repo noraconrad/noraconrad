@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null, // Using Datafast instead (added in Head component)
     locale: "en-US",
     baseUrl: "stephconrad.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "quartz", "node_modules", "public", "docs"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
