@@ -1,5 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { version } from "../../package.json"
+import { i18n } from "../i18n"
 
 interface Options {
   links: Record<string, string>
@@ -33,8 +35,9 @@ const getIcon = (name: string) => {
 }
 
 export default ((opts?: Options) => {
-  const SocialLinks: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+  const SocialLinks: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const links = opts?.links ?? {}
+    const year = new Date().getFullYear()
     
     if (Object.keys(links).length === 0) {
       return null
@@ -52,6 +55,10 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p class="quartz-credit">
+          {i18n(cfg.locale).components.footer.createdWith}{" "}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+        </p>
       </div>
     )
   }
@@ -97,6 +104,22 @@ export default ((opts?: Options) => {
   .social-links svg {
     width: 20px;
     height: 20px;
+  }
+
+  .social-links .quartz-credit {
+    margin-top: 1.5rem;
+    font-size: 8pt;
+    color: var(--gray);
+    line-height: 1.4;
+  }
+
+  .social-links .quartz-credit a {
+    color: var(--gray);
+    text-decoration: none;
+  }
+
+  .social-links .quartz-credit a:hover {
+    color: var(--darkgray);
   }
   `
 

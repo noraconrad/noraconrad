@@ -12,13 +12,9 @@
   padding-left: 0 !important;
 }
 
-// Make footer text smaller (8pt)
+// Hide footer at bottom (moved to sidebar)
 footer {
-  font-size: 8pt !important;
-  
-  p {
-    font-size: 8pt !important;
-  }
+  display: none !important;
 }
 
 // Make all headers italic (Playfair Display)
