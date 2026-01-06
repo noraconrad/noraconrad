@@ -26,7 +26,7 @@ function toggleExplorer(this: HTMLElement) {
   const isCurrentlyCollapsed = nearestExplorer.classList.contains("collapsed")
   
   // Close all other collapsible sections
-  const allCollapsibles = document.querySelectorAll(".explorer, .social-links, .backlinks, .toc")
+  const allCollapsibles = document.querySelectorAll(".explorer, .backlinks, .toc")
   allCollapsibles.forEach((section) => {
     if (section !== nearestExplorer) {
       section.classList.add("collapsed")

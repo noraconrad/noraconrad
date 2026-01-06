@@ -34,42 +34,19 @@ const getIcon = (name: string) => {
   return icons[name] || icons.Newsletter
 }
 
-let numSocialLinks = 0
 export default ((opts?: Options) => {
   const SocialLinks: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const links = opts?.links ?? {}
     const year = new Date().getFullYear()
-    const id = `social-links-${numSocialLinks++}`
     
     if (Object.keys(links).length === 0) {
       return null
     }
 
     return (
-      <div class={classNames(displayClass, "social-links", "collapsible")}>
-        <button
-          type="button"
-          class="title-button social-links-toggle"
-          aria-expanded={true}
-          aria-controls={id}
-        >
-          <h2>Connect</h2>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="14"
-            height="14"
-            viewBox="5 8 14 8"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="fold"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div id={id} class="social-links-content" aria-expanded={true} role="group">
+      <div class={classNames(displayClass, "social-links")}>
+        <h2>Connect</h2>
+        <div class="social-links-content" role="group">
           <ul>
             {Object.entries(links).map(([text, link]) => (
               <li>
@@ -92,53 +69,19 @@ export default ((opts?: Options) => {
   .social-links {
     display: flex;
     flex-direction: column;
-    overflow-y: hidden;
-    min-height: 1.2rem;
-    flex: 0 1 auto;
-    margin-top: 2rem;
+    margin-top: 0.75rem;
   }
 
-  .social-links.collapsed {
-    flex: 0 1 1.2rem;
-  }
-
-  .social-links.collapsed .fold {
-    transform: rotateZ(-90deg);
-  }
-
-  .social-links .fold {
-    margin-left: 0.5rem;
-    transition: transform 0.3s ease;
-    opacity: 0.8;
-  }
-
-  .social-links-toggle {
-    background-color: transparent;
-    border: none;
-    text-align: left;
-    cursor: pointer;
-    padding: 0;
-    color: var(--dark);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-  }
-
-  .social-links-toggle h2 {
+  .social-links h2 {
     font-size: 1rem;
-    margin: 0;
+    margin: 0 0 0.75rem 0;
     font-weight: 600;
     color: var(--dark);
   }
 
   .social-links-content {
     overflow: visible;
-    margin-top: 0.5rem;
-  }
-
-  .social-links.collapsed .social-links-content {
-    display: none;
+    margin-top: 0;
   }
 
   .social-links ul {
@@ -167,7 +110,7 @@ export default ((opts?: Options) => {
     color: var(--secondary);
   }
 
-  .social-links svg:not(.fold) {
+  .social-links svg {
     width: 20px;
     height: 20px;
   }
@@ -189,53 +132,6 @@ export default ((opts?: Options) => {
   }
   `
 
-  // Add accordion toggle functionality
-  SocialLinks.afterDOMLoaded = `
-    document.addEventListener('DOMContentLoaded', function() {
-      const socialLinksToggles = document.querySelectorAll('.social-links-toggle');
-      socialLinksToggles.forEach(toggle => {
-        toggle.addEventListener('click', function() {
-          const socialLinks = this.closest('.social-links');
-          if (socialLinks) {
-            const isCurrentlyCollapsed = socialLinks.classList.contains('collapsed');
-            
-            // Close all other collapsible sections
-            const allCollapsibles = document.querySelectorAll('.explorer, .social-links, .backlinks, .toc');
-            allCollapsibles.forEach(section => {
-              if (section !== socialLinks) {
-                section.classList.add('collapsed');
-                const sectionToggle = section.querySelector('.explorer-toggle, .social-links-toggle, .graph-toggle, .backlinks-toggle, .toc-header');
-                const sectionContent = section.querySelector('.explorer-content, .social-links-content, .graph-content, .backlinks-content, .toc-content');
-                if (sectionToggle) {
-                  sectionToggle.setAttribute('aria-expanded', 'false');
-                }
-                if (sectionContent) {
-                  sectionContent.setAttribute('aria-expanded', 'false');
-                }
-              }
-            });
-            
-            // Toggle current section
-            if (isCurrentlyCollapsed) {
-              socialLinks.classList.remove('collapsed');
-              this.setAttribute('aria-expanded', 'true');
-              const content = socialLinks.querySelector('.social-links-content');
-              if (content) {
-                content.setAttribute('aria-expanded', 'true');
-              }
-            } else {
-              socialLinks.classList.add('collapsed');
-              this.setAttribute('aria-expanded', 'false');
-              const content = socialLinks.querySelector('.social-links-content');
-              if (content) {
-                content.setAttribute('aria-expanded', 'false');
-              }
-            }
-          }
-        });
-      });
-    });
-  `
 
   return SocialLinks
 }) satisfies QuartzComponentConstructor
