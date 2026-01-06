@@ -36,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       title: "Map",
       folderDefaultState: "open",
-      folderClickBehavior: "link",
+      folderClickBehavior: "collapse",
       useSavedState: false,
       filterFn: (node) => {
         // Hide individual files tagged with "posts" from navigation (but allow folders and index files)
@@ -84,7 +84,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       title: "Map",
       folderDefaultState: "open",
-      folderClickBehavior: "link",
+      folderClickBehavior: "collapse",
       useSavedState: false,
       filterFn: (node) => {
         // Hide individual files tagged with "posts" from navigation (but allow folders and index files)
