@@ -189,4 +189,4 @@ Code Runner is an IDE (Integrated Development Environment) that supports many pr
 
 * * *
 
-So, what do you think? Do you use [Setapp](https://setapp.sjv.io/Jz7q1r&sharedid=WSAC) yourself? I’d love to know what apps are in your stack. It can be great to try out new additions to see if they can replace or improve pieces of my workflow. For a subscription-based service, I think they’re doing things right. Get a free month to try it yourself with my [link](https://setapp.sjv.io/Jz7q1r&sharedid=WSAC), and let me know your thoughts.
+So, what do you think? Do you use [Setapp](https://setapp.sjv.io/Jz7q1r&sharedid=WSAC) yourself? I’d love to know what apps are in your stack. It can be great to try out new additions to see if they can replace or improve pieces of my workflow. For a subscription-based service, I think they’re doing things right. Get a free month to try it yourself with my ![](https://setapp.sjv.io/Jz7q1r&sharedid=WSAC), and let me know your thoughts.
