@@ -134,3 +134,8 @@ ul.toc-content.overflow {
 .flex-component {
   margin-bottom: 0.5rem !important;
 }
+
+// Hide the file listing on folder index pages (we show category tags instead)
+.page-listing {
+  display: none !important;
+}

@@ -76,7 +76,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      // Plugin.FolderPage(),  // Disable this - use Explorer instead
+      Plugin.FolderPage(),  // Re-enabled to process folder index.md files
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
