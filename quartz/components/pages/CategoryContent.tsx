@@ -57,7 +57,7 @@ export default ((opts?: Partial<CategoryContentOptions>) => {
           <article class={classes}>
             <p>{content}</p>
           </article>
-          <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: categories.length })}</p>
+          <p>{categories.length} {categories.length === 1 ? 'category' : 'categories'} total.</p>
           <div>
             {categories.map((category) => {
               const pages = categoryItemMap.get(category)!
@@ -87,14 +87,12 @@ export default ((opts?: Partial<CategoryContentOptions>) => {
                   {content && <p>{content}</p>}
                   <div class="page-listing">
                     <p>
-                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
+                      {pages.length} {pages.length === 1 ? 'item' : 'items'} with this category.
                       {pages.length > options.numPages && (
                         <>
                           {" "}
                           <span>
-                            {i18n(cfg.locale).pages.tagContent.showingFirst({
-                              count: options.numPages,
-                            })}
+                            Showing first {options.numPages}.
                           </span>
                         </>
                       )}
@@ -118,7 +116,7 @@ export default ((opts?: Partial<CategoryContentOptions>) => {
         <div class="popover-hint">
           <article class={classes}>{content}</article>
           <div class="page-listing">
-            <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+            <p>{pages.length} {pages.length === 1 ? 'item' : 'items'} with this category.</p>
             <div>
               <PageList {...listProps} sort={options?.sort} />
             </div>
