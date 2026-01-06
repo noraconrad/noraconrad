@@ -1,3 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Hide folder collapse icons in Explorer to make it a simple list
+.explorer .folder-icon {
+  display: none;
+}
+
+// Adjust folder container padding since icon is hidden
+.folder-container {
+  padding-left: 0 !important;
+}
