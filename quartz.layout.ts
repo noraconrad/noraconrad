@@ -39,8 +39,8 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "collapse",
       useSavedState: false,
       filterFn: (node) => {
-        // Hide items tagged with "posts" from navigation
-        if (node.data?.tags?.includes("posts")) {
+        // Hide individual files tagged with "posts" from navigation (but allow folders)
+        if (!node.isFolder && node.data?.tags?.includes("posts")) {
           return false
         }
         // Also hide the "tags" folder
@@ -84,8 +84,8 @@ export const defaultListPageLayout: PageLayout = {
       folderClickBehavior: "collapse",
       useSavedState: false,
       filterFn: (node) => {
-        // Hide items tagged with "posts" from navigation
-        if (node.data?.tags?.includes("posts")) {
+        // Hide individual files tagged with "posts" from navigation (but allow folders)
+        if (!node.isFolder && node.data?.tags?.includes("posts")) {
           return false
         }
         // Also hide the "tags" folder
