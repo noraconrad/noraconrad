@@ -39,9 +39,12 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "collapse",
       useSavedState: false,
       filterFn: (node) => {
-        // Hide individual files tagged with "posts" from navigation (but allow folders)
+        // Hide individual files tagged with "posts" from navigation (but allow folders and index files)
         if (!node.isFolder && node.data?.tags?.includes("posts")) {
-          return false
+          // Allow index.md files even if they have "posts" tag
+          if (node.slugSegment !== "index") {
+            return false
+          }
         }
         // Also hide the "tags" folder
         if (node.slugSegment === "tags") {
@@ -84,9 +87,12 @@ export const defaultListPageLayout: PageLayout = {
       folderClickBehavior: "collapse",
       useSavedState: false,
       filterFn: (node) => {
-        // Hide individual files tagged with "posts" from navigation (but allow folders)
+        // Hide individual files tagged with "posts" from navigation (but allow folders and index files)
         if (!node.isFolder && node.data?.tags?.includes("posts")) {
-          return false
+          // Allow index.md files even if they have "posts" tag
+          if (node.slugSegment !== "index") {
+            return false
+          }
         }
         // Also hide the "tags" folder
         if (node.slugSegment === "tags") {
