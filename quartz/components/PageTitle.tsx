@@ -31,7 +31,6 @@ PageTitle.css = `
   height: 40px;
   width: auto;
   display: block;
-  filter: brightness(0) saturate(100%) invert(94%) sepia(8%) saturate(373%) hue-rotate(318deg) brightness(98%) contrast(93%);
 }
 `
 
