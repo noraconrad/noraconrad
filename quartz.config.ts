@@ -76,7 +76,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      // Plugin.FolderPage(),  // Disabled to use custom home layout
+      Plugin.FolderPage(),  // Keep this
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
