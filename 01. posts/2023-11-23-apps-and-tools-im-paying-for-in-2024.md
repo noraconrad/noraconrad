@@ -1,7 +1,7 @@
 ---
 title: "Apps and Tools I’m Paying for in 2024"
 date: 2023-11-23
-categories: 
+
   - "business"
 tags: 
   - posts
@@ -13,7 +13,10 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+
+  - productivity
 categories:
+  - "business"
   - productivity
 ---
 

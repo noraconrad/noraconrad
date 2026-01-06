@@ -1,7 +1,7 @@
 ---
 title: "This might be the best Mac app you didn’t know you needed."
 date: 2024-02-12
-categories: 
+
   - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,7 +9,10 @@ tags:
   - posts
 description: 
 publish: true
+
+  - productivity
 categories:
+  - "productivity"
   - productivity
 ---
 

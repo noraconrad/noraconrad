@@ -1,7 +1,7 @@
 ---
 title: "A journey to frontend development"
 date: 2023-09-20
-categories: 
+
   - "business"
 tags: 
   - posts
@@ -13,6 +13,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - "business"
 ---
 
 I learned HTML and CSS from Neopets. _Seriously_.

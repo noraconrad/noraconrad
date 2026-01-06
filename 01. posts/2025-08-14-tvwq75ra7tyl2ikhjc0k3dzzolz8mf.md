@@ -7,6 +7,8 @@ tags:
   - posts
 description: 
 publish: true
+
+  - goals-growth
 categories:
   - goals-growth
 ---

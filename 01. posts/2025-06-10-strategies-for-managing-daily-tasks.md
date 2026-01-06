@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Managing Daily Tasks"
 date: 2025-06-10
-categories: 
+
   - "productivity"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,7 +9,10 @@ tags:
   - posts
 description: 
 publish: true
+
+  - productivity
 categories:
+  - "productivity"
   - productivity
 ---
 

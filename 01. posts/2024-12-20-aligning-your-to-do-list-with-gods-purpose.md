@@ -1,7 +1,7 @@
 ---
 title: "Aligning Your To-Do List with God’s Purpose"
 date: 2024-12-20
-categories: 
+
   - "faith"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,6 +10,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - "faith"
 ---
 
 ![](images/Daiga-Ellaby-Photo-38-scaled.jpg)

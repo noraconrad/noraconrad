@@ -1,7 +1,7 @@
 ---
 title: "How My Free Product Earned the Most Money in My Shop"
 date: 2024-08-29
-categories: 
+
   - "business"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,7 +9,10 @@ tags:
   - posts
 description: 
 publish: true
+
+  - small-business
 categories:
+  - "business"
   - small-business
 ---
 

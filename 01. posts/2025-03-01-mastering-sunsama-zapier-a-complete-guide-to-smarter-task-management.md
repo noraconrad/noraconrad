@@ -1,7 +1,7 @@
 ---
 title: "Mastering Sunsama &amp; Zapier: A Complete Guide to Smarter Task Management"
 date: 2025-03-01
-categories: 
+
   - "business"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,9 +10,12 @@ tags:
   - posts
 description: 
 publish: true
-categories:
+
   - operations
   - productivity
+categories:
+  - "business"
+  - operations
 ---
 
 ![](images/IMG-2861-from-Adobe-Lightroom-scaled.jpg)

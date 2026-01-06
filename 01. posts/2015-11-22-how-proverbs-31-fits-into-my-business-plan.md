@@ -11,9 +11,11 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-categories:
+
   - goals-growth
   - small-business
+categories:
+  - goals-growth
 ---
 
 ### WHAT IS PROVERBS 31?

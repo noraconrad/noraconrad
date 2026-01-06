@@ -1,7 +1,7 @@
 ---
 title: "Diagnosed With Bipolar and OCD at 30 Years Old"
 date: 2024-03-14
-categories: 
+
   - "mental-health"
 coverImage: "img.jpg"
 lastmod: 2026-01-06
@@ -9,6 +9,8 @@ tags:
   - posts
 description: 
 publish: true
+categories:
+  - "mental-health"
 ---
 
 ![](images/Burnout-Portrait-scaled.jpg)

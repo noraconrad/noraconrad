@@ -11,9 +11,11 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-categories:
+
   - goals-growth
   - small-business
+categories:
+  - goals-growth
 ---
 
 When my husband & I started our debt-free journey, the first place we knew we had to cut back was food. It was just the two of us, but we were spending anywhere between $900-$1500 on meals each month. Yikes. Most of that was because of morning coffee, buying lunch, and going out to dinner during the weekend.

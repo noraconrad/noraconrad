@@ -7,9 +7,11 @@ tags:
   - posts
 description: 
 publish: true
-categories:
+
   - data-analysis
   - small-business
+categories:
+  - data-analysis
 ---
 
 Reports Dashboard for Monthly and Yearly totals

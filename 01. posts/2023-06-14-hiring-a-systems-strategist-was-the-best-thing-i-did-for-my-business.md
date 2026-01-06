@@ -11,10 +11,12 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-categories:
+
   - operations
   - productivity
   - small-business
+categories:
+  - operations
 ---
 
 Back in 2015 I launched a course called “VA in 7 Days” — the idea was to teach people how to start their own virtual assistant business and make some extra income while working from home. I had been working as a virtual assistant for a few years and I wanted to help others learn how to do it too. I loved helping people organize their digital life and get tasks knocked out.

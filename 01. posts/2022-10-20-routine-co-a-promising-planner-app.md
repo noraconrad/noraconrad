@@ -11,9 +11,11 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-categories:
+
   - goals-growth
   - productivity
+categories:
+  - goals-growth
 ---
 
 With the rise of apps like Akiflow, Sunsama, and Motion — we’ve seen a flood of new apps on the market that help you plan your day. Routine.co is one of many apps but one I think is extremely promising. This is going to be a review/overview of the app to help you decide if it may be a good choice for you.

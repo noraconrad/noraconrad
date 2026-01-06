@@ -11,9 +11,11 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-categories:
+
   - operations
   - productivity
+categories:
+  - operations
 ---
 
 I recently got a new computer and while I was downloading all the apps and getting it set up, I thought it would be a good time to share some of the software that I use every day on my computer.

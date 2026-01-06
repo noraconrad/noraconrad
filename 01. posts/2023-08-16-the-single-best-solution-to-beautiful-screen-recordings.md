@@ -1,7 +1,7 @@
 ---
 title: "The single best solution to beautiful screen recordings"
 date: 2023-08-16
-categories: 
+
   - "business"
 tags: 
   - posts
@@ -13,6 +13,8 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
+categories:
+  - "business"
 ---
 
 I have tried a lot of screen recording software. I create tutorials for my courses, my day job and often post to TikTok with how-tos and app reviews. I usually end up with some combination of Quicktime and my iPhone just to make getting footage into Finalcut easier — it was in no way an efficient system until I was introduced to Tella.tv

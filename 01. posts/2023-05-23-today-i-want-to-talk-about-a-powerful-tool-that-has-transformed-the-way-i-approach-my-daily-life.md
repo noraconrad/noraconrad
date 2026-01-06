@@ -11,9 +11,11 @@ tags:
 lastmod: 2026-01-06
 description: 
 publish: true
-categories:
+
   - lifestyle
   - productivity
+categories:
+  - lifestyle
 ---
 
 Today, I want to talk about a powerful tool that has transformed the way I approach my daily life and achieve my goals: habit tracking. This simple practice can make a world of difference in visualizing your day, staying on track, and prioritizing what truly matters.

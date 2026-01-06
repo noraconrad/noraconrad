@@ -1,7 +1,7 @@
 ---
 title: "Stop Losing Ideas: Why Every Creator Needs a Reliable Note-Taking System"
 date: 2025-05-27
-categories: 
+
   - "operations"
   - "productivity"
 coverImage: "img.jpg"
@@ -10,10 +10,13 @@ tags:
   - posts
 description: 
 publish: true
-categories:
+
   - operations
   - productivity
   - small-business
+categories:
+  - "operations"
+  - operations
 ---
 
 ![](images/Stephanie-Berbec-Unsplash-scaled.jpg)

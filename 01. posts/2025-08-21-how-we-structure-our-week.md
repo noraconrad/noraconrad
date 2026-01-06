@@ -7,9 +7,11 @@ tags:
   - posts
 description: 
 publish: true
-categories:
+
   - operations
   - productivity
+categories:
+  - operations
 ---
 
 As a mom with young children, I constantly wondered how other parents made their schedules work. Now that I'm a seasoned working mom I want to share how my husband and I work full-time hours with a 6-year-old and 3-year-old at home. It’s a combination of intentional sacrifices and a lot of teamwork.
