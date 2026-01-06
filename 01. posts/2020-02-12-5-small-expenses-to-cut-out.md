@@ -98,8 +98,3 @@ Regardless of your situation — you can probably get on a cheaper phone pla
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up [using my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!

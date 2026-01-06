@@ -68,4 +68,3 @@ Taking breaks isn’t a sign of laziness; it’s a necessity for sustainable pro
 
 * * *
 
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (_[_If you sign up using my link, I earn a small commission._](https://medium.com/@noraconrad/membership)_)_

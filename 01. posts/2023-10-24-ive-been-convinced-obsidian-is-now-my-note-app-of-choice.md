@@ -115,6 +115,3 @@ Reflect served me well, but Obsidian has become my new go-to tool mostly due to 
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-✨ Thank you for reading & for your support!

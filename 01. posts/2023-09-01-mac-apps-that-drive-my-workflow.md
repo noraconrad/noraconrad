@@ -104,8 +104,3 @@ My go-to video editor for long-form content. I use this for all my YouTube video
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (I earn a small commission.)
-
-✨ Thank you for reading & for your support!

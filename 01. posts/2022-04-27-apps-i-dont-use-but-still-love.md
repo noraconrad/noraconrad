@@ -73,8 +73,6 @@ _Do you have any apps that you don’t use, but you’d still recommend to peopl
 
 * * *
 
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
 
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (_[_If you sign up using my link, I earn a small commission_](https://medium.com/@noraconrad/membership)_.)_
 
-_✨ Thank you for reading & for your support!_
+__

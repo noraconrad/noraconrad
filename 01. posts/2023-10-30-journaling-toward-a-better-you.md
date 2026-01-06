@@ -98,6 +98,3 @@ Keep it simple, keep it real, and keep being the wonderful human you are. Happy 
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-✨ Thank you for reading & for your support!

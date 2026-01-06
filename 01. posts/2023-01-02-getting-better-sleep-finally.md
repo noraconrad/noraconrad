@@ -77,8 +77,3 @@ I’m really grateful that my kids are in a stage of sleeping well, that my husb
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!

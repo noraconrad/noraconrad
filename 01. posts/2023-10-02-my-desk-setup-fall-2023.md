@@ -64,6 +64,3 @@ This office and setup took almost 5 years to built up and even now, there are th
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-✨ Thank you for reading & for your support!

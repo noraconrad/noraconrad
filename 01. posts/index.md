@@ -1,10 +1,7 @@
 ---
 title: "Posts"
 publish: true
-tags:
-  - posts
 ---
-
 # Posts
 
 Browse all my essays and guides by category:

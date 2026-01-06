@@ -75,8 +75,7 @@ Once you have a good system in place, use that system to build regular routines 
 
 * * *
 
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
 
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
+__
 
-_✨ Thank you for reading & for your support!_
+__

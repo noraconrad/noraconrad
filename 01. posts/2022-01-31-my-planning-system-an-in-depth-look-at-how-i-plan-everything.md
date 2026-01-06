@@ -146,8 +146,5 @@ These four apps might seem like a lot of work to maintain, but each one has its 
 
 * * *
 
-👏🏼 _If you found this article valuable hit those clapping hands once or twice._
 
-💻 _If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://medium.com/@noraconrad/membership)_. (If you sign up using_ [_my link_](https://medium.com/@noraconrad/membership)_, I earn a small commission.)_
 
-✨ _Thank you for reading & for your support!_

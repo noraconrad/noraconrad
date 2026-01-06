@@ -152,8 +152,3 @@ That might have seemed like a lot of work, but in reality, **all of this can be 
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!

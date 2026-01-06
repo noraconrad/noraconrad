@@ -116,8 +116,7 @@ Between the simplicity, features, and AH-MAZ-ING customer service on Podia, I ha
 
 * * *
 
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
 
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
+__
 
-_✨ Thank you for reading & for your support!_
+__

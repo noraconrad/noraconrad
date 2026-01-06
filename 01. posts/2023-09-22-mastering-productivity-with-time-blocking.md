@@ -113,8 +113,6 @@ Remember that time blocking is a skill that improves with practice. It may take 
 
 * * *
 
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
 
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (_[_If you sign up using my link, I earn a small commission._](https://medium.com/@noraconrad/membership)_)_
 
-_✨ Thank you for reading & for your support!_
+__

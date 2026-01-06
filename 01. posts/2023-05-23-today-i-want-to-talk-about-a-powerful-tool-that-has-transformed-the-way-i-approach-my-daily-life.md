@@ -48,8 +48,3 @@ Remember, the journey towards your goals is built one habit at a time. So, grab 
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!

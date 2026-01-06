@@ -81,8 +81,3 @@ When signing up for [Pleexy](www.pleexy.com), it’s important to note your choi
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (I earn a small commission.)
-
-✨ Thank you for reading & for your support!

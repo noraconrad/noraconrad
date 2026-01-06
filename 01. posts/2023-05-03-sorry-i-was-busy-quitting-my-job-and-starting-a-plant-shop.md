@@ -99,8 +99,5 @@ Over the next few months, these are a few of the things I’d love to share abou
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
 
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using my link, I earn a small commission.) [https://blog.noraconrad.com/subscribe](https://blog.noraconrad.com/subscribe)
-
-✨ Thank you for reading & for your support!
+[https://blog.noraconrad.com/subscribe](https://blog.noraconrad.com/subscribe)

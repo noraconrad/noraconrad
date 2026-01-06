@@ -59,8 +59,3 @@ Make a list of what you need, ignore the marketing and target audience and look 
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for [Medium](https://medium.com/@noraconrad/membership). (If you sign up using my [link](https://medium.com/@noraconrad/membership), I earn a small commission.)
-
-✨ Thank you for reading & for your support!

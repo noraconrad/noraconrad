@@ -41,8 +41,3 @@ As someone who is in the trenches right now, trying to build up my business and 
 
 * * *
 
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (If you sign up using my link, I earn a small commission.)
-
-✨ Thank you for reading & for your support!

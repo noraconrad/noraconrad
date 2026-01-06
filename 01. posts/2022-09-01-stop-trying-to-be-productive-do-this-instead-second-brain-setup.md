@@ -70,8 +70,7 @@ Second Brain Playlist: [https://youtube.com/playlist?list=PLn...](https://www.yo
 
 * * *
 
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
 
-_💻 If you want to support my work and thousands of others, consider signing up for_ [_Medium_](https://medium.com/@noraconrad/membership)_. (If you sign up using my_ [_link_](https://medium.com/@noraconrad/membership)_, I earn a small commission.)_
+__
 
-_✨ Thank you for reading & for your support!_
+__
