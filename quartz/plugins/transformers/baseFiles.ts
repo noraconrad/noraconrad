@@ -15,14 +15,16 @@ interface BaseFileView {
   filters?: {
     and?: Array<{
       file?: {
-        inFolder?: string
+        inFolder?: string | ((folder: string) => boolean)
         path?: {
           contains?: string
         }
         tags?: {
-          contains?: string
+          contains?: string | ((tag: string) => boolean)
         }
       }
+      "file.inFolder"?: string
+      "file.tags.contains"?: string
       [key: string]: any // For property checks like "!categories.isEmpty()"
     }>
   }
@@ -36,7 +38,9 @@ interface BaseFileView {
     direction: "ASC" | "DESC"
   }>
   image?: string
+  imageAspectRatio?: number
   columnSize?: Record<string, number>
+  layout?: string
 }
 
 interface BaseFile {
@@ -124,12 +128,18 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                     const view = baseData.views[0] // Use first view
                     if (view.type === "cards" || view.type === "table") {
                       // Load all markdown files with their frontmatter
-                      const allMarkdownFiles: Array<{
+                      type MarkdownFile = {
                         path: string
                         slug: string
                         frontmatter: any
                         title: string
-                      }> = []
+                        dates: {
+                          created?: Date
+                          modified?: Date
+                          published?: Date
+                        }
+                      }
+                      const allMarkdownFiles: MarkdownFile[] = []
                       
                       for (const filePath of ctx.allFiles) {
                         if (filePath.endsWith(".md")) {
@@ -139,11 +149,22 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                               const content = readFileSync(fullPath, "utf-8")
                               const { data: frontmatter } = matter(content)
                               const slug = slugifyFilePath(filePath as FilePath)
+                              
+                              // Parse dates
+                              const dateStr = frontmatter?.date || frontmatter?.published || frontmatter?.created
+                              const lastmodStr = frontmatter?.lastmod || frontmatter?.modified
+                              const dates = {
+                                created: dateStr ? new Date(dateStr) : undefined,
+                                modified: lastmodStr ? new Date(lastmodStr) : undefined,
+                                published: dateStr ? new Date(dateStr) : undefined,
+                              }
+                              
                               allMarkdownFiles.push({
                                 path: filePath,
                                 slug,
                                 frontmatter: frontmatter || {},
-                                title: frontmatter?.title || filePath,
+                                title: frontmatter?.title || basename(filePath, ".md"),
+                                dates,
                               })
                             }
                           } catch (err) {
@@ -157,12 +178,63 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                         if (!view.filters?.and) return true
 
                         return view.filters.and.every((filter) => {
+                          // Handle string format like "file.inFolder(\"01. posts\")" or "file.tags.contains(\"posts\")"
+                          if (typeof filter === "string") {
+                            // Parse function call syntax: file.inFolder("folder") or file.tags.contains("tag")
+                            const inFolderMatch = filter.match(/file\.inFolder\(["']([^"']+)["']\)/)
+                            if (inFolderMatch) {
+                              const folder = inFolderMatch[1]
+                              const folderSlug = folder.replace(/\./g, "-").replace(/\s+/g, "-").toLowerCase()
+                              if (!f.slug.startsWith(folderSlug + "/") && !f.slug.startsWith(folderSlug + "-")) {
+                                return false
+                              }
+                            }
+                            const tagsContainsMatch = filter.match(/file\.tags\.contains\(["']([^"']+)["']\)/)
+                            if (tagsContainsMatch) {
+                              const tag = tagsContainsMatch[1]
+                              const tags = f.frontmatter?.tags ?? []
+                              if (!tags.includes(tag)) {
+                                return false
+                              }
+                            }
+                            // Handle property checks like "!categories.isEmpty()"
+                            if (filter.startsWith("!")) {
+                              const prop = filter.slice(1).replace(/\.isEmpty\(\)$/, "")
+                              const propValue = f.frontmatter?.[prop]
+                              if (prop === "categories" && (!propValue || (Array.isArray(propValue) && propValue.length === 0))) {
+                                return false
+                              }
+                            }
+                            return true
+                          }
+                          
+                          // Handle object format
+                          // Handle file.inFolder("folder name") syntax
                           if (filter.file?.inFolder) {
-                            const folder = filter.file.inFolder
+                            let folder = filter.file.inFolder
+                            // Remove parentheses if present (e.g., "01. posts" from inFolder("01. posts"))
+                            folder = folder.replace(/^["']|["']$/g, "").trim()
                             // Match folder path - handle both "01. posts" and "01.-posts" formats
                             const folderSlug = folder.replace(/\./g, "-").replace(/\s+/g, "-").toLowerCase()
                             if (!f.slug.startsWith(folderSlug + "/") && !f.slug.startsWith(folderSlug + "-")) {
                               return false
+                            }
+                          }
+                          // Handle file.inFolder as a string function call
+                          for (const [key, value] of Object.entries(filter)) {
+                            if (key === "file.inFolder" && typeof value === "string") {
+                              let folder = value.replace(/^["']|["']$/g, "").trim()
+                              const folderSlug = folder.replace(/\./g, "-").replace(/\s+/g, "-").toLowerCase()
+                              if (!f.slug.startsWith(folderSlug + "/") && !f.slug.startsWith(folderSlug + "-")) {
+                                return false
+                              }
+                            }
+                            if (key === "file.tags.contains" && typeof value === "string") {
+                              const tag = value.replace(/^["']|["']$/g, "").trim()
+                              const tags = f.frontmatter?.tags ?? []
+                              if (!tags.includes(tag)) {
+                                return false
+                              }
                             }
                           }
                           if (filter.file?.path?.contains) {
@@ -206,9 +278,9 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                             const propName = prop.startsWith("note.") ? prop.slice(5) : prop
                             
                             if (prop === "date" || propName === "date") {
-                              // Dates would need to be parsed, but for now use frontmatter
-                              aVal = a.frontmatter?.date ?? a.frontmatter?.published ?? ""
-                              bVal = b.frontmatter?.date ?? b.frontmatter?.published ?? ""
+                              // Use parsed dates for proper sorting
+                              aVal = a.dates?.published?.getTime() ?? a.dates?.modified?.getTime() ?? a.dates?.created?.getTime() ?? 0
+                              bVal = b.dates?.published?.getTime() ?? b.dates?.modified?.getTime() ?? b.dates?.created?.getTime() ?? 0
                             } else if (prop === "title" || propName === "title" || prop === "file.name") {
                               aVal = a.title ?? ""
                               bVal = b.title ?? ""
@@ -233,7 +305,7 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                       }
 
                       // Group files if groupBy is specified
-                      let groupedFiles: Map<string, typeof filteredFiles> | null = null
+                      let groupedFiles: Map<string, MarkdownFile[]> | null = null
                       if (view.groupBy) {
                         groupedFiles = new Map()
                         const groupProp = view.groupBy.property.startsWith("note.") 
@@ -257,7 +329,7 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                       // Determine columns from order array or default
                       const columns = view.order || ["file.name", "stage", "lesson"]
                       
-                      const getPropertyValue = (f: typeof filteredFiles[0], prop: string): string => {
+                      const getPropertyValue = (f: MarkdownFile, prop: string): string => {
                         if (prop === "file.name" || prop === "title") {
                           return f.title
                         }
@@ -289,48 +361,117 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                         }).join("")
                       }
 
+                      // Render as cards or table
+                      const isCardView = view.type === "cards" || view.layout === "cards"
+                      
+                      const renderCard = (f: MarkdownFile) => {
+                        const slug = f.slug
+                        const href = `${baseDir}${slug}`
+                        const title = f.title
+                        const categories = Array.isArray(f.frontmatter?.categories) 
+                          ? f.frontmatter.categories.join(", ")
+                          : f.frontmatter?.categories || ""
+                        
+                        // Get image path
+                        let imageHtml = ""
+                        if (view.image) {
+                          const imageProp = view.image.startsWith("note.") ? view.image.slice(5) : view.image
+                          const imageName = f.frontmatter?.[imageProp]
+                          if (imageName) {
+                            // Build image path relative to the markdown file's directory
+                            const fileDir = f.path.substring(0, f.path.lastIndexOf("/"))
+                            const imagePath = fileDir ? `${baseDir}${fileDir}/${imageName}` : `${baseDir}${imageName}`
+                            const aspectRatio = view.imageAspectRatio || 0.8
+                            imageHtml = `<div class="base-card-image" style="aspect-ratio: ${aspectRatio};">
+                              <img src="${imagePath}" alt="${title}" />
+                            </div>`
+                          }
+                        }
+                        
+                        return `
+                          <div class="base-card">
+                            <a href="${href}" class="base-card-link">
+                              ${imageHtml}
+                              <div class="base-card-content">
+                                <h3 class="base-card-title">${title}</h3>
+                                ${categories ? `<div class="base-card-categories">${categories}</div>` : ""}
+                              </div>
+                            </a>
+                          </div>
+                        `
+                      }
+                      
                       const tableHeaders = columns.map((col) => `<th>${getHeaderName(col)}</th>`).join("")
 
                       let tableHtml = ""
-                      if (groupedFiles) {
-                        // Render grouped tables
-                        const sortedGroups = Array.from(groupedFiles.entries()).sort((a, b) => {
-                          if (view.groupBy!.direction === "DESC") {
-                            return b[0].localeCompare(a[0])
-                          }
-                          return a[0].localeCompare(b[0])
-                        })
-                        
-                        tableHtml = sortedGroups.map(([groupName, groupFiles]) => {
-                          return `
-                            <div class="base-table-group">
-                              <h3 class="base-table-group-title">${groupName}</h3>
-                              <div class="base-table-container">
-                                <table class="base-table">
-                                  <thead>
-                                    <tr>${tableHeaders}</tr>
-                                  </thead>
-                                  <tbody>
-                                    ${renderTableRows(groupFiles)}
-                                  </tbody>
-                                </table>
+                      if (isCardView) {
+                        // Render as cards
+                        if (groupedFiles) {
+                          const sortedGroups = Array.from(groupedFiles.entries()).sort((a, b) => {
+                            if (view.groupBy!.direction === "DESC") {
+                              return b[0].localeCompare(a[0])
+                            }
+                            return a[0].localeCompare(b[0])
+                          })
+                          
+                          tableHtml = sortedGroups.map(([groupName, groupFiles]) => {
+                            return `
+                              <div class="base-card-group">
+                                <h3 class="base-card-group-title">${groupName}</h3>
+                                <div class="base-cards-container">
+                                  ${groupFiles.map(renderCard).join("")}
+                                </div>
                               </div>
+                            `
+                          }).join("")
+                        } else {
+                          tableHtml = `
+                            <div class="base-cards-container">
+                              ${filteredFiles.map(renderCard).join("")}
                             </div>
                           `
-                        }).join("")
+                        }
                       } else {
-                        tableHtml = `
-                          <div class="base-table-container">
-                            <table class="base-table">
-                              <thead>
-                                <tr>${tableHeaders}</tr>
-                              </thead>
-                              <tbody>
-                                ${renderTableRows(filteredFiles)}
-                              </tbody>
-                            </table>
-                          </div>
-                        `
+                        // Render as table
+                        if (groupedFiles) {
+                          const sortedGroups = Array.from(groupedFiles.entries()).sort((a, b) => {
+                            if (view.groupBy!.direction === "DESC") {
+                              return b[0].localeCompare(a[0])
+                            }
+                            return a[0].localeCompare(b[0])
+                          })
+                          
+                          tableHtml = sortedGroups.map(([groupName, groupFiles]) => {
+                            return `
+                              <div class="base-table-group">
+                                <h3 class="base-table-group-title">${groupName}</h3>
+                                <div class="base-table-container">
+                                  <table class="base-table">
+                                    <thead>
+                                      <tr>${tableHeaders}</tr>
+                                    </thead>
+                                    <tbody>
+                                      ${renderTableRows(groupFiles)}
+                                    </tbody>
+                                  </table>
+                                </div>
+                              </div>
+                            `
+                          }).join("")
+                        } else {
+                          tableHtml = `
+                            <div class="base-table-container">
+                              <table class="base-table">
+                                <thead>
+                                  <tr>${tableHeaders}</tr>
+                                </thead>
+                                <tbody>
+                                  ${renderTableRows(filteredFiles)}
+                                </tbody>
+                              </table>
+                            </div>
+                          `
+                        }
                       }
 
                       node.value = node.value.replace(

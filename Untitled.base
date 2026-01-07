@@ -8,6 +8,9 @@ views:
       and:
         - file.inFolder("01. posts")
         - file.tags.contains("posts")
+    groupBy:
+      property: categories
+      direction: ASC
     order:
       - title
       - categories
