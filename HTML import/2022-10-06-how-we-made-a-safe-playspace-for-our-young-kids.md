@@ -8,11 +8,8 @@ description: null
 publish: true
 categories:
   - lifestyle
+coverImage: ''
 ---
-
-
- 
-
 # How we made a safe playspace for our young k
 
 I work from home with my 3.5-year-old daughter and 10-month-old son -

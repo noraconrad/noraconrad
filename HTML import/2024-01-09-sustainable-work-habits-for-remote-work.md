@@ -10,12 +10,6 @@ publish: true
 categories:
   - mental-health
 ---
-
-
- 
-
-# Sustainable Work Habits for Remote Work
-
 Productivity without sacrificing your personal life.
 
 ---

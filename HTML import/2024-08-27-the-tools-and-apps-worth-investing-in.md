@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# The Tools and Apps Worth Investing In
-
 What I’ll be paying for in 2025
 
 ---

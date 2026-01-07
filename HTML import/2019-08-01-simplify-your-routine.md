@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Simplify your Routine
-
 What time do you wake up in the morning? What do you do as soon as you get home from work? You probably already know these answers…
 
 ---

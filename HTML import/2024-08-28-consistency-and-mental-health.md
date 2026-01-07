@@ -10,12 +10,6 @@ publish: true
 categories:
   - mental-health
 ---
-
-
- 
-
-# Consistency and mental health
-
 Navigating Productivity with Bipolar Disorder
 
 ---

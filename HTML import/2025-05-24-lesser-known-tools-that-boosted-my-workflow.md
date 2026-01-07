@@ -10,18 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# Lesser-Known Tools That Boosted My Workflow
-
-Apps, Extensions & Physical Items I’m Loving
-
----
-
-### Lesser-Known Tools That Boosted My Workflow
-
 #### Apps, Extensions & Physical Items I’m Loving
 
 In the constant journey to optimize my work, I’ve collected several tools that have significantly improved my productivity that I think deserve some of the hype. Here’s a collection of my current favorites that might just transform your workflow too.

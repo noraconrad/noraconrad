@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# How to Start a Bible Study Group
-
 Last year my husband and I started a bible study group with absolutely NO experience. I hadn’t ever been part of a group before, but God…
 
 ---

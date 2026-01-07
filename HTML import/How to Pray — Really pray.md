@@ -10,20 +10,6 @@ categories:
 description: null
 publish: true
 ---
-
-
- 
-
-# How to Pray — Really pray
-
-🙏🏼 WHY IT CAN BE HARD TO PRAY
-
----
-
-### How to Pray — Really pray
-
-### 🙏🏼 WHY IT CAN BE HARD TO PRAY
-
 Maybe you just started going to church (for the first time or for the first time in a long time). Or maybe you’ve been going to years but still don’t really know how to pray. Either way, praying daily can seem impossible at times. These are my tips for anyone who needs help getting started.
 
 ![](1*eRe6RoOCZtzGZivRyMuXAw.png)

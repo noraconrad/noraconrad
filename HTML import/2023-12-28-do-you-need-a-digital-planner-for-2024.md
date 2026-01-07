@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# Do you need a digital planner for 2024
-
 a round-up of the best planning apps on the market
 
 ---

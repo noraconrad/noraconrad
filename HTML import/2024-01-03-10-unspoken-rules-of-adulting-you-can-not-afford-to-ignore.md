@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# 10 Unspoken Rules of Adulting You Can Not Afford to Ignore
-
 For the longest time, I thought becoming an adult meant turning 18; as I’ve gotten older, I realized that becoming an adult is more of a…
 
 ---

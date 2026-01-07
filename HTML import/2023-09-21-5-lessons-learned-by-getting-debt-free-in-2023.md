@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# 5 Lessons learned by getting debt free in 2023
-
 My husband and I paid off our last consumer debt in February of 2023. We have our mortgage still, but otherwise we have no other debt to…
 
 ---

@@ -10,12 +10,6 @@ publish: true
 categories:
   - business
 ---
-
-
- 
-
-# Every Content Creator Needs an Email System
-
 How many emails are in your inbox right now?
 
 ---

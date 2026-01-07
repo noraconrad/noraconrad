@@ -1,5 +1,12 @@
 ---
 coverImage: images/1*UeLA_nu02l3-07WXyy3wXQ.jpeg
+title: ''
+date: ''
+lastmod: ''
+tags: []
+description: ''
+publish: true
+categories: []
 ---
  
 

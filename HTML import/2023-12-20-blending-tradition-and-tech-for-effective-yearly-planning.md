@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# Blending Tradition and Tech for Effective Yearly Planning
-
 Goal-Setting with PowerSheets
 
 ---

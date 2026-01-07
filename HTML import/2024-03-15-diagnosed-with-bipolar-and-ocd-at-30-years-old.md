@@ -10,12 +10,6 @@ publish: true
 categories:
   - mental-health
 ---
-
-
- 
-
-# Diagnosed With Bipolar and OCD at 30 Years Old
-
 Productivity takes on a new meaning
 
 ---

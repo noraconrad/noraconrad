@@ -12,10 +12,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
 # Mastering Productivity with Time Blocking
 
 Staying focused and productive can be a real challenge at times. The constant influx of tasks, emails, and distractions can make it…

@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# Benefits of Quarterly Goal Planning
-
 90 Days, 12 Weeks, 3 Months, 1 Quarter of hitting your goals
 
 ---

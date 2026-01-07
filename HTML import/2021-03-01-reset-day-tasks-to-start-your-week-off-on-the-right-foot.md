@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# “Reset Day” tasks to start your week off on the right foot
-
 Every Sunday, I run through a few simple tasks that help me and my family start the week off on the right foot. Whether you do this routine…
 
 ---

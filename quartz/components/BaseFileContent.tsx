@@ -217,8 +217,29 @@ function processBaseFile(
         let bVal: any
 
         if (prop === "date" || propName === "date") {
-          aVal = a.dates?.published?.getTime() ?? a.dates?.modified?.getTime() ?? a.dates?.created?.getTime() ?? 0
-          bVal = b.dates?.published?.getTime() ?? b.dates?.modified?.getTime() ?? b.dates?.created?.getTime() ?? 0
+          // Try frontmatter date first, then fall back to dates object
+          const parseDate = (val: any): number => {
+            if (!val) return 0
+            if (val instanceof Date) return val.getTime()
+            if (typeof val === 'string') {
+              const parsed = new Date(val)
+              return isNaN(parsed.getTime()) ? 0 : parsed.getTime()
+            }
+            return 0
+          }
+          
+          // Check frontmatter date first
+          const aFrontmatterDate = a.frontmatter?.date
+          const bFrontmatterDate = b.frontmatter?.date
+          
+          if (aFrontmatterDate || bFrontmatterDate) {
+            aVal = parseDate(aFrontmatterDate)
+            bVal = parseDate(bFrontmatterDate)
+          } else {
+            // Fall back to dates object
+            aVal = a.dates?.published?.getTime() ?? a.dates?.modified?.getTime() ?? a.dates?.created?.getTime() ?? 0
+            bVal = b.dates?.published?.getTime() ?? b.dates?.modified?.getTime() ?? b.dates?.created?.getTime() ?? 0
+          }
         } else if (prop === "title" || propName === "title" || prop === "file.name") {
           aVal = a.title ?? ""
           bVal = b.title ?? ""

@@ -10,12 +10,6 @@ publish: true
 categories:
   - mental-health
 ---
-
-
- 
-
-# Navigating Mental Health
-
 A guide to finding the right therapist and psychiatrist
 
 ---

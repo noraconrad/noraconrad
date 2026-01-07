@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Apps and Tools I’m Paying for in 2024
-
 A list of the subscriptions that are worth the price.
 
 ---

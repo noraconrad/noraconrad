@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Sorry, I was busy quitting my job and starting a plant shop
-
 Hi, It’s been awhile since I wrote a post here, 84 days actually, which is the longest I have gone without writing blog content in years. I…
 
 ---

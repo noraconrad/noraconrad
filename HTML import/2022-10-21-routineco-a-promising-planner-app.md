@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Routine.co — a promising planner app
-
 With the rise of apps like Akiflow, Sunsama, and Motion — we’ve seen a flood of new apps on the market that help you plan your day…
 
 ---

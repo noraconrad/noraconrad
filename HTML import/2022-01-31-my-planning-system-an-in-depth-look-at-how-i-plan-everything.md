@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# My Planning System; an in-depth look at how I plan everything
-
 If you haven’t thought through your own planningsystem, I hope this will help you get the ball rolling…
 
 ---

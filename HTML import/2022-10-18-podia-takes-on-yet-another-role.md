@@ -8,13 +8,8 @@ description: null
 publish: true
 categories:
   - operations
+coverImage: ''
 ---
-
-
- 
-
-# Podia takes on yet another role
-
 If you’ve known me for a while, you might know that my business started almost 15 years ago with website design. I offered basic services…
 
 ---

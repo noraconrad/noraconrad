@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# Mastering Monthly Goals
-
 A Simple Guide to Resetting Your Month in Notion
 
 ---

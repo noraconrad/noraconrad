@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# I’ve been convinced. Obsidian is now my note app of choice
-
 Switching to Obsidian and How I’m Using it Now
 
 ---

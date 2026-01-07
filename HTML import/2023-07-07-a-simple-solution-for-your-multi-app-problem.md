@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# A simple solution for your multi-app problem
-
 How Plexxy connects all your tasks
 
 ---

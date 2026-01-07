@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# How I use Notion for my Bible Studies
-
 I’ve been using journals and writing in my bible for over a decade, but recently I started using Notion to take digital bible study notes…
 
 ---

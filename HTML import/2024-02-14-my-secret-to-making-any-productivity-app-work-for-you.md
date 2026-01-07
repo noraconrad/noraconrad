@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# My secret to making ANY productivity app work for you
-
 TL;DR: Consistency
 
 ---

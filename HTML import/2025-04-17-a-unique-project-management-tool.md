@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# A Unique Project Management Tool
-
 ByDesign might be the perfect solution for overcomplicated apps
 
 ---

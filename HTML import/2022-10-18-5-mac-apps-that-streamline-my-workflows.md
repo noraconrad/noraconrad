@@ -10,12 +10,6 @@ categories:
   - operations
 coverImage: images/1*I8Ittu9i1ThIQwi6sPAR3Q.png
 ---
-
-
- 
-
-# 5 Mac Apps that streamline my workflows
-
 For a very long time, I just used my mac as it came. I didn’t bother setting up focus modes, customizing settings, or adding apps beyond…
 
 ---

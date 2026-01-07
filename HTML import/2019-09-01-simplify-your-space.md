@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Simplify your Space
-
 Your physical living space should make you feel calm, productive, and happy. If you’re surrounded by clutter and things that you resent…
 
 ---

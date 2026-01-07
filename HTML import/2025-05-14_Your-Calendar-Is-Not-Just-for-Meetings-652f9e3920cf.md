@@ -1,5 +1,12 @@
 ---
 coverImage: images/1*ioDyuGslsKSVs4frpDGR8w.jpeg
+title: ''
+date: ''
+lastmod: ''
+tags: []
+description: ''
+publish: true
+categories: []
 ---
  
 

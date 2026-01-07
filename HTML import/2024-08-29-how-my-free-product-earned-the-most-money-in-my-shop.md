@@ -10,12 +10,6 @@ publish: true
 categories:
   - business
 ---
-
-
- 
-
-# How My Free Product Earned the Most Money in My Shop
-
 Lessons in “selling” free products
 
 ---

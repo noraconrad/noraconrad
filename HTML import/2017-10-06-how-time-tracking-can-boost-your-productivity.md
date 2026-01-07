@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# How Time Tracking Can Boost Your Productivity
-
 Time tracking isn’t a new idea, but it’s a great productivity trick that many people haven’t tried yet. I decided to try time tracking for…
 
 ---

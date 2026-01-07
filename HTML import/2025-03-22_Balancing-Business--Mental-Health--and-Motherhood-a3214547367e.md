@@ -1,5 +1,12 @@
 ---
 coverImage: images/1*4JVQ_NoUEeHPu5MADpeg-Q.jpeg
+title: ''
+date: ''
+lastmod: ''
+tags: []
+description: ''
+publish: true
+categories: []
 ---
  
 

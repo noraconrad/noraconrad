@@ -8,13 +8,8 @@ description: null
 publish: true
 categories:
   - small-business
+coverImage: ''
 ---
-
-
- 
-
-# Build it and they probably won’t come…
-
 There was a time when you could build a website, throw up a couple of ads, and work on improving the SEO for a month, and then you’d have a…
 
 ---

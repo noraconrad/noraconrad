@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Before you watch my Bible Study videos, read this.
-
 I’ve been doing Bible studies and talking about being a Christian on my blog and on YouTube for a while now. I’m finally getting around to…
 
 ---

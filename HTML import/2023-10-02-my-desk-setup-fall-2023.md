@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# My Desk Setup — Fall 2023
-
 I’m a sucker for desk tours. I love seeing how others set up their workspaces and what fun gadgets they invest in to make their space a…
 
 ---

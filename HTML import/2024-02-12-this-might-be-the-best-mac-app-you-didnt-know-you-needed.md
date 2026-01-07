@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# This might be the best Mac app you didn’t know you needed.
-
 How Raycast makes me super efficient
 
 ---

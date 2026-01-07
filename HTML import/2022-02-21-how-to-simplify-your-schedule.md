@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# How to simplify your schedule
-
 Are you always forgetting to do things on your to-do list? Or do you find yourself trying to remember “Do I have something going on this…
 
 ---

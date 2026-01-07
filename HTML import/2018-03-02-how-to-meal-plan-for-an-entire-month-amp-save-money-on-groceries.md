@@ -10,10 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
 # How to Meal Plan for an Entire Month & Save Money on Groceries
 
 We plan meals 90 days in advance and only spend an average of $500 for a family of 4. Here’s exactly how we do it and how you can too.

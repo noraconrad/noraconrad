@@ -10,12 +10,6 @@ publish: true
 categories:
   - faith
 ---
-
-
- 
-
-# Aligning Your To-Do List with God’s Purpose
-
 There’s an interesting concept used by professionals who study counterfeit money: they don’t spend their time studying every type of…
 
 ---

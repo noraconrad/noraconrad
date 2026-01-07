@@ -1,5 +1,12 @@
 ---
 coverImage: images/1*vev4OndSPdxrduKfKS2N7A.jpeg
+title: ''
+date: ''
+lastmod: ''
+tags: []
+description: ''
+publish: true
+categories: []
 ---
  
 

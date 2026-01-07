@@ -10,10 +10,6 @@ publish: true
 categories:
   - operations
 ---
-
-
- 
-
 # How We Structure Our Week
 
 Working Full-Time With Two Young Kids

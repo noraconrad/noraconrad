@@ -10,10 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
 # How to Wake Up Earlier & Why You’ll Love It
 
 Some of you might already know this, but I wake up at 4 am every weekday and for over a year, I woke up at 3 am.

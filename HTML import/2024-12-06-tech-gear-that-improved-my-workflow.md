@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# Tech Gear that Improved My Workflow
-
 I’d buy these again if they broke
 
 ---

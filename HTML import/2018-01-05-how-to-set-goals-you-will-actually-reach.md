@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# How to set Goals you will Actually Reach
-
 How many times do you set new year resolutions that fall short by February? How many times have you read blog posts about hitting your…
 
 ---

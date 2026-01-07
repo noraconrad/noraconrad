@@ -1,27 +1,13 @@
 ---
 title: How Proverbs 31 Fits into my Business Plan
-date: '2015-11-23'
+date: 2015-11-23
 coverImage: images/1*9hjHpnZ8hUljhf7H-lS3LA.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
-  - ''
 tags:
-  - ''
-description: ''
+description: ""
 publish: true
 ---
-
-
- 
-
-# How Proverbs 31 Fits into my Business Plan
-
-How I tie in the teaching from Proverbs 31 into my business and how I interact online
-
----
-
-### How Proverbs 31 Fits into my Business Plan
-
 ### WHAT IS PROVERBS 31?
 
 Proverbs 31: 10–31 is a passage in the Old Testament written by King Lemuel’s mother around the 10th Century B.C.. The passages were written as poetry to the King as advice on how to find a Godly wife and a “woman of valor”. The whole idea of the passage is to describe “the perfect woman” and someone who would be fit to rule alongside a king as a strong and Godly woman.

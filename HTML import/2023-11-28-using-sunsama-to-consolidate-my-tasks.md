@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Using Sunsama to consolidate my tasks
-
 One dashboard to combine 10+ task channels
 
 ---

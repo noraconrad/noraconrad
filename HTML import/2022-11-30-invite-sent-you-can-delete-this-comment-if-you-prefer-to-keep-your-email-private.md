@@ -12,10 +12,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
 # My Productivity Stack
 
 I’ve been on the hunt over the last few months for pieces to my productivity puzzle. I have a strange combo of apps and tools I use for…

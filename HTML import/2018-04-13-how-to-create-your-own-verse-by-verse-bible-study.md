@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# How to Create Your Own Verse-by-Verse Bible Study
-
 I’m going to give you all the resources and tools you need to be able to create your own verse-by-verse bible study.
 
 ---

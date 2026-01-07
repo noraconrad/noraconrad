@@ -1,28 +1,16 @@
 ---
-title: "Strategies for Managing Daily\_Tasks"
+title: Strategies for Managing Daily Tasks
 date: 2025-06-10T00:00:00.000Z
 coverImage: images/Task-Picture-from-Unsplash-scaled.jpg
 lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: null
+description:
 publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# Strategies for Managing Daily Tasks
-
-No, it’s not another task manager
-
----
-
-### Strategies for Managing Daily Tasks
-
-#### _No, it’s not another task manager_
+## No, it’s not another task manager
 
 Most productivity advice treats your brain like a filing cabinet; neat, organized, infinitely expandable. But neuroscience proves this is wrong. Your working memory can hold only a few things at a time. Your attention operates like a spotlight, not a floodlight. Understanding these limitations should changes how you should approach task management and work as a whole.
 

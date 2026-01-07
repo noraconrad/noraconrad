@@ -10,12 +10,6 @@ publish: true
 categories:
   - productivity
 ---
-
-
- 
-
-# Spending $30 per month on… email?
-
 Superhuman — is it overhyped or worth the cost?
 
 ---

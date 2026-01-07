@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# How to read more in 2023
-
 New Year Goal: 100 Books
 
 ---

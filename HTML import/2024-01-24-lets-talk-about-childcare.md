@@ -10,12 +10,6 @@ publish: true
 categories:
   - business
 ---
-
-
- 
-
-# Let’s talk about childcare.
-
 WFH and remote parents, what are you doing??
 
 ---

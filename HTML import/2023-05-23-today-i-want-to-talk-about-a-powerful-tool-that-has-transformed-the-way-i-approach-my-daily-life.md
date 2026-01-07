@@ -12,12 +12,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Today, I want to talk about a powerful tool that has transformed the way I approach my daily life…
-
 Imagine this: You wake up in the morning with a clear vision of what you want to accomplish that day. You know which habits align with your…
 
 ---

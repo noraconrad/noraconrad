@@ -10,10 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
 # Create a mini business plan
 
 YouTube channel, Etsy shop, course — it doesn't matter what you sell, you need a plan

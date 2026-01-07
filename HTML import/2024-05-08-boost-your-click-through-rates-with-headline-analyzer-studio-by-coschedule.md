@@ -10,12 +10,6 @@ publish: true
 categories:
   - business
 ---
-
-
- 
-
-# Boost Your Click-Through Rates with Headline Analyzer Studio by CoSchedule
-
 Why is this tool not talked about more?
 
 ---

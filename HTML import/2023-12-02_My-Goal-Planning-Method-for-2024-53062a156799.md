@@ -1,5 +1,12 @@
 ---
 coverImage: images/1*KnCz_PyAsvy8EVMxstf6KA.png
+title: ''
+date: ''
+lastmod: ''
+tags: []
+description: ''
+publish: true
+categories: []
 ---
  
 

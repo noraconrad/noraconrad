@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Journaling Toward a Better You
-
 How to take advantage of the theory of journaling
 
 ---

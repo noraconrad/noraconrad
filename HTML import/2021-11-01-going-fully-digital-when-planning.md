@@ -3,17 +3,11 @@ title: Going Fully Digital when Planning
 date: 2021-11-01T00:00:00.000Z
 coverImage: images/0*GjZhJVzratnUZD7p.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-tags:
-description: ""
+categories: []
+tags: []
+description: ''
 publish: true
 ---
-
-
- 
-
-# Going Fully Digital when Planning
-
 How I use Notion, Sunsama & Google
 
 ---

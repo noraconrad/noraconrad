@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# I finally found my perfect “Notes” app
-
 I’ve tried Notion, Obsidian, Evernote, Reflect, Mem, Apple Notes, Tana, Routine, Note Plan 3, OneNote and even TickTick in the quest to…
 
 ---

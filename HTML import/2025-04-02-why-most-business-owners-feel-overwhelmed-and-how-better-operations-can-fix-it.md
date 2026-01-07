@@ -12,10 +12,6 @@ publish: true
 categories:
   - business
 ---
-
-
- 
-
 # Why Most Business Owners Feel Overwhelmed
 
 And How Better Operations Can Fix It

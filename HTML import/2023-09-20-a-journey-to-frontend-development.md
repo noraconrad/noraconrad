@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# A journey to frontend development
-
 I learned HTML and CSS from Neopets. Seriously.
 
 ---

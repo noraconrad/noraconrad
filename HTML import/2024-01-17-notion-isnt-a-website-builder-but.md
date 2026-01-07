@@ -10,12 +10,6 @@ publish: true
 categories:
   - business
 ---
-
-
- 
-
-# Notion isn’t a website builder, but…
-
 How I am using Notion, Gumroad, and Bullet to run my business
 
 ---

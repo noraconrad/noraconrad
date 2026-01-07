@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# Paying for a Baby Without Insurance — Christian Healthcare Ministries Review
-
 I saved over $6,000 a year in healthcare costs through two pregnancies. Here’s how I did it.
 
 ---

@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# The single best solution to beautiful screen recordings
-
 I have tried a lot of screen recording software. I create tutorials for my courses, my day job and often post to TikTok with how-tos and…
 
 ---

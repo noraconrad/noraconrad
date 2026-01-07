@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# How to Create an Evening Routine that Makes you More Productive
-
 There’s a lot of talk about morning routines. Even I’ve shared how I wake up super early and have a structured routine. However, your…
 
 ---

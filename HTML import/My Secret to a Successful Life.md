@@ -10,18 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
-# My #1 Secret to a Successful Life
-
-Do one thing each day and do it really freaking well.
-
----
-
-### My #1 Secret to a Successful Life
-
 I can’t begin to tell you how many times I’ve been asked this question, “How do you keep up with everything”? For those of you who don’t know me, I’m a mom to a three-year-old, a 3-month-old, I work full time from home, I run my side hustle and I’m taking classes on the side.
 
 Admittedly, my life can feel chaotic at times. But keeping up with “everything” can actually be made pretty simple.

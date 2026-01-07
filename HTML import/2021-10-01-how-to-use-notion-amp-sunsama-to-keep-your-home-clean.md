@@ -10,10 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-
-
- 
-
 # How to use Notion & Sunsama to keep your home clean
 
 One of the things that surprised me the most when we bought our first home, was just how much cleaning and maintenance we had to do to keep…
