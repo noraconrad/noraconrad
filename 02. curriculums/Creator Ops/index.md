@@ -1,9 +1,6 @@
 ---
-title: Creator Systems and Operations
+title: System Ops
 publish: true
 ---
-
-# Welcome to System Ops
-
 
 ![[Course Map 1.base]]
