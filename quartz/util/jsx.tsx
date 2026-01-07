@@ -24,9 +24,11 @@ const customComponents: Components = {
     if (classArray.includes("base-file-component")) {
       const baseFileName = props["data-base-file"] as string
       if (baseFileName && componentContext) {
-        const BaseFileContentComponent = componentContext.BaseFileContent
-        if (BaseFileContentComponent) {
-          // Instantiate the component with baseFileName and pass all context props
+        const BaseFileContentConstructor = componentContext.BaseFileContent
+        if (BaseFileContentConstructor) {
+          // BaseFileContent is a constructor function, so we need to instantiate it first
+          // Then pass baseFileName and all context props
+          const BaseFileContentComponent = BaseFileContentConstructor()
           return <BaseFileContentComponent baseFileName={baseFileName} {...componentContext} />
         }
       }
