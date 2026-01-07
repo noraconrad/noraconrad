@@ -156,9 +156,14 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                 }
                 
                 if (!baseData) {
+                  // Debug: log what we're looking for and what we have
+                  if (ctx.argv.verbose) {
+                    console.warn(`BaseFiles: Could not find .base file: ${baseFilePath}`)
+                    console.warn(`BaseFiles: Available keys:`, Array.from(baseFiles.keys()).slice(0, 10))
+                  }
                   node.value = node.value.replace(
                     /<blockquote class="transclude".*?data-url="[^"]+\.base"[^>]*>.*?<\/blockquote>/s,
-                    `<p>Collection file not found: ${baseFilePath}</p>`,
+                    `<p>Collection file not found: ${baseFilePath}. Available: ${Array.from(baseFiles.keys()).slice(0, 5).join(", ")}</p>`,
                   )
                   return
                 }
@@ -182,6 +187,7 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                       }
                       const allMarkdownFiles: MarkdownFile[] = []
                       
+                      // Only process published files (matching ExplicitPublish filter)
                       for (const filePath of ctx.allFiles) {
                         if (filePath.endsWith(".md")) {
                           try {
@@ -189,6 +195,12 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                             if (existsSync(fullPath)) {
                               const content = readFileSync(fullPath, "utf-8")
                               const { data: frontmatter } = matter(content)
+                              
+                              // Only include files that would be published (matching ExplicitPublish behavior)
+                              if (frontmatter?.publish !== true && frontmatter?.publish !== "true") {
+                                continue
+                              }
+                              
                               const slug = slugifyFilePath(filePath as FilePath)
                               
                               // Parse dates
@@ -210,8 +222,15 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                             }
                           } catch (err) {
                             // Skip files that can't be read
+                            if (ctx.argv.verbose) {
+                              console.warn(`BaseFiles: Failed to read ${filePath}:`, err)
+                            }
                           }
                         }
+                      }
+                      
+                      if (ctx.argv.verbose) {
+                        console.log(`BaseFiles: Loaded ${allMarkdownFiles.length} markdown files for processing`)
                       }
 
                       // Filter files based on view filters
