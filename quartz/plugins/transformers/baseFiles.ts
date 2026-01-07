@@ -5,7 +5,7 @@ import { readFileSync, existsSync } from "fs"
 import { join } from "path"
 import matter from "gray-matter"
 import yaml from "js-yaml"
-import { FilePath, slugifyFilePath, pathToRoot } from "../../util/path"
+import { FilePath, slugifyFilePath, simplifySlug } from "../../util/path"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzPluginData } from "../vfile"
 
@@ -323,8 +323,8 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                         }
                       }
 
-                      // Generate table HTML
-                      const baseDir = pathToRoot(file.data.slug!)
+                      // Generate table HTML - use absolute paths for links
+                      // No need for baseDir since we'll use absolute paths starting with /
                       
                       // Determine columns from order array or default
                       const columns = view.order || ["file.name", "stage", "lesson"]
@@ -349,7 +349,8 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                       const renderTableRows = (files: typeof filteredFiles) => {
                         return files.map((f) => {
                           const slug = f.slug
-                          const href = `${baseDir}${slug}`
+                          const simpleSlug = simplifySlug(slug)
+                          const href = `/${simpleSlug}`
                           const cells = columns.map((col) => {
                             const value = getPropertyValue(f, col)
                             if (col === "file.name" || col === "title") {
@@ -366,7 +367,8 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                       
                       const renderCard = (f: MarkdownFile) => {
                         const slug = f.slug
-                        const href = `${baseDir}${slug}`
+                        const simpleSlug = simplifySlug(slug)
+                        const href = `/${simpleSlug}`
                         const title = f.title
                         const categories = Array.isArray(f.frontmatter?.categories) 
                           ? f.frontmatter.categories.join(", ")
@@ -380,7 +382,13 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                           if (imageName) {
                             // Build image path relative to the markdown file's directory
                             const fileDir = f.path.substring(0, f.path.lastIndexOf("/"))
-                            const imagePath = fileDir ? `${baseDir}${fileDir}/${imageName}` : `${baseDir}${imageName}`
+                            let imagePath: string
+                            if (fileDir) {
+                              const dirSlug = simplifySlug(slugifyFilePath(fileDir as FilePath))
+                              imagePath = `/${dirSlug}/${imageName}`
+                            } else {
+                              imagePath = `/${imageName}`
+                            }
                             const aspectRatio = view.imageAspectRatio || 0.8
                             imageHtml = `<div class="base-card-image" style="aspect-ratio: ${aspectRatio};">
                               <img src="${imagePath}" alt="${title}" />
