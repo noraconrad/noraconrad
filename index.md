@@ -11,7 +11,7 @@ I've been creating content since high school (middle school if you count Neopet 
 [[posts]] — essays and guides on productivity, business, life & wellbeing
 *where I share what I've learned over the years*
 
-[[templates]] — Notion, Obsidian, and PDF templates I've built
+[[03. templates/index]] — Notion, Obsidian, and PDF templates I've built
 *tools I've created to help you organize your work*
 
 [[curriculums]] — Mastering Chaos and other course

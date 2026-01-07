@@ -1,0 +1,27 @@
+properties:
+  note.categories:
+    displayName: Course
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("02. curriculums")
+        - categories == ["mastering-chaos"]
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - stage
+      - lesson
+    sort:
+      - property: stage
+        direction: ASC
+      - property: lesson
+        direction: ASC
+    columnSize:
+      file.name: 475
+      note.title: 156
+      note.stage: 102

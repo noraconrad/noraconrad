@@ -8,4 +8,4 @@ Since then, I have launched over a dozen course in various small-business topics
 
 While I no longer update these as I once did, and some of the tech tips may be past their prime, I hope the information is valuable for you and the consolidation of it all helps you in whatever stage you're at ❤️
 
-![[Course Map.base]]
+![[all courses.base]]
