@@ -1,10 +1,11 @@
 ---
-title: "Creator Ops"
+title: Creator Systems and Operations
 publish: true
 ---
 
-# Creator Ops
+# Welcome to System Ops
 
-Browse all Creator Ops course materials below.
 
-You can organize this page using Obsidian tables, collections, and any other content you'd like.
+
+
+![[Course Map 1.base]]
