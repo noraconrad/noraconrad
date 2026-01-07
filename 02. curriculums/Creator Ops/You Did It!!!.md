@@ -1,12 +1,14 @@
 ---
-title: "You Did It!!!"
-categories: 
-  - "system-ops"
-tags: 
-  - "creator-ops"
-  - "lesson"
-  - "systemops"
-draft: true
+title: You Did It!!!
+categories:
+  - system-ops
+tags:
+  - creator-ops
+  - lesson
+  - systemops
+draft: false
+stage: "7"
+lesson: "0"
 ---
 
 🎉🥳🎊

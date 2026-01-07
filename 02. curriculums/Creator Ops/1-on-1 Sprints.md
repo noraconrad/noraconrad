@@ -1,12 +1,15 @@
 ---
-title: "1-on-1 Sprints"
+title: 1-on-1 Sprints
 date: 2025-07-08
-categories: 
-  - "system-ops"
-tags: 
-  - "creator-ops"
-  - "lesson"
-  - "systemops"
+categories:
+  - system-ops
+tags:
+  - creator-ops
+  - lesson
+  - systemops
+stage: "7"
+lesson: "3"
+draft: false
 ---
 
 I created this course to be a DIY version of my sprints - I know this isn’t for everyone.

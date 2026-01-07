@@ -146,6 +146,18 @@ ul.toc-content.overflow {
   overflow-x: auto;
 }
 
+.base-table-group {
+  margin: 2rem 0;
+  
+  .base-table-group-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--dark);
+    font-style: italic;
+  }
+}
+
 .base-table {
   width: 100%;
   border-collapse: collapse;

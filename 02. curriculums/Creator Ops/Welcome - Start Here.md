@@ -9,6 +9,7 @@ tags:
   - systemops
 stage: "0"
 lesson: "0"
+draft: false
 ---
 
 This course is here to help you build real systems that support your content, simplify your workflow, and give you back your time. You’ll walk away with a fully functioning operations hub, repeatable processes, and tools that grow with you.
@@ -19,6 +20,4 @@ This course is here to help you build real systems that support your content, si
 
 If you need help as you go, ask questions in the comments or email me at [hello@noraconrad.com](mailto:hello@noraconrad.com)
 
-[Creator Ops Course WorkbookDownload the workbook.Creator Ops Course Workbook.pdf358 KB.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle](https://nora-conrad.ghost.io/content/files/2025/06/Creator-Ops-Course-Workbook.pdf "Download")
-
-[](https://nora-conrad.ghost.io/content/files/2025/06/Creator-Ops-Course-Workbook.pdf "Download")
+[Download the workbook](https://nora-conrad.ghost.io/content/files/2025/06/Creator-Ops-Course-Workbook.pdf)

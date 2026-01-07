@@ -1,11 +1,14 @@
 ---
-title: "Creator Operations Glossary of Terms"
-categories: 
-  - "system-ops"
-tags: 
-  - "creator-ops"
-  - "lesson"
-draft: true
+title: Creator Operations Glossary of Terms
+categories:
+  - system-ops
+tags:
+  - creator-ops
+  - lesson
+  - systemops
+draft: false
+stage: "7"
+lesson: "1"
 ---
 
 Although I try my best to avoid industry jargon, there are many terms that can be helpful to use to best describe the process or situation. This glossary may help if you are new to these terms.

@@ -12,8 +12,8 @@ views:
       property: categories
       direction: ASC
     order:
-      - title
       - file.name
+      - title
       - stage
       - lesson
     sort:
@@ -21,8 +21,7 @@ views:
         direction: ASC
       - property: lesson
         direction: ASC
-      - property: file.name
-        direction: ASC
     columnSize:
-      note.title: 101
-      file.name: 374
+      file.name: 475
+      note.title: 156
+      note.stage: 102
