@@ -55,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
         return false
       },
     }),
-    Component.Graph(),
+    // Component.Graph(), // Hidden for now
     Component.SocialLinks({
       links: {
         YouTube: "https://youtube.com/@NoraConrad",
@@ -105,7 +105,7 @@ export const defaultListPageLayout: PageLayout = {
         return false
       },
     }),
-    Component.Graph(),
+    // Component.Graph(), // Hidden for now
     Component.SocialLinks({
       links: {
         YouTube: "https://youtube.com/@NoraConrad",
