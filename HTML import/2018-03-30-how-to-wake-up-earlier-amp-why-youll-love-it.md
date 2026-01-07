@@ -1,7 +1,7 @@
 ---
 title: How to Wake Up Earlier &amp; Why You’ll Love It
 date: '2018-03-30'
-coverImage: 1*McPV3XR0qcev1Jurc7uobQ.png
+coverImage: images/1*McPV3XR0qcev1Jurc7uobQ.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

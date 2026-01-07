@@ -1,7 +1,7 @@
 ---
 title: Paying for a Baby Without Insurance — Christian Healthcare Ministries Review
 date: '2018-10-02'
-coverImage: 0*_qHYU1LY1Cy54K5K.png
+coverImage: images/0*_qHYU1LY1Cy54K5K.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

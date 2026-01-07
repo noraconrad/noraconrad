@@ -1,7 +1,7 @@
 ---
 title: Getting better sleep… finally
 date: '2023-01-02'
-coverImage: 1*7-mAQCs_Ad7PuENLgA2csA.png
+coverImage: images/1*7-mAQCs_Ad7PuENLgA2csA.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

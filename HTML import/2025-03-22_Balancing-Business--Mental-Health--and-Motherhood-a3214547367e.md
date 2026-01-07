@@ -1,5 +1,5 @@
 ---
-coverImage: 1*4JVQ_NoUEeHPu5MADpeg-Q.jpeg
+coverImage: images/1*4JVQ_NoUEeHPu5MADpeg-Q.jpeg
 ---
  
 

@@ -1,7 +1,7 @@
 ---
 title: My Planning System; an in-depth look at how I plan everything
 date: '2022-01-31'
-coverImage: 1*NftldH9O3CpwbYvR6NrR0A.png
+coverImage: images/1*NftldH9O3CpwbYvR6NrR0A.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

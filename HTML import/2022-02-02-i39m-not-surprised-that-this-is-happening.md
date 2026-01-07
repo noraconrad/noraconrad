@@ -1,7 +1,7 @@
 ---
 title: I&#39;m not surprised that this is happening.
 date: '2022-02-01'
-coverImage: 1*h3LGLg01dqfUBS0j59rBng.jpeg
+coverImage: images/1*h3LGLg01dqfUBS0j59rBng.jpeg
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

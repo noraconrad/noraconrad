@@ -1,7 +1,7 @@
 ---
 title: How to Meal Plan for an Entire Month &amp; Save Money on Groceries
 date: '2018-03-02'
-coverImage: 1*ihpQTAjYQvSDFOXXLwXRLQ.png
+coverImage: images/1*ihpQTAjYQvSDFOXXLwXRLQ.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

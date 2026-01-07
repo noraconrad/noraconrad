@@ -1,7 +1,7 @@
 ---
 title: Why Podia is my favorite host for courses
 date: '2020-06-14'
-coverImage: 1*3tI3Fen8zKsxgPQqLDuqkw.png
+coverImage: images/1*3tI3Fen8zKsxgPQqLDuqkw.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

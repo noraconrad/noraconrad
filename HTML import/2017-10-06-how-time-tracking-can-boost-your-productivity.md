@@ -1,7 +1,7 @@
 ---
 title: How Time Tracking Can Boost Your Productivity
 date: '2017-10-06'
-coverImage: 1*IlLEd_CmZk3RGvKZnVQG-g.png
+coverImage: images/1*IlLEd_CmZk3RGvKZnVQG-g.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

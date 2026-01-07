@@ -1,7 +1,7 @@
 ---
 title: I’ve been convinced. Obsidian is now my note app of choice
 date: '2023-10-24'
-coverImage: 1*GWnGJylV5xfLc086hbAKWQ@2x.png
+coverImage: images/1*GWnGJylV5xfLc086hbAKWQ@2x.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

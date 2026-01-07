@@ -1,5 +1,5 @@
 ---
-coverImage: 1*bNznQDdR5cKLly9XRYEPuA.jpeg
+coverImage: images/1*bNznQDdR5cKLly9XRYEPuA.jpeg
 ---
  
 

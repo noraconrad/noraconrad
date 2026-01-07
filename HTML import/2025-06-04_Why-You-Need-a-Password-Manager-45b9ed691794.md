@@ -1,5 +1,5 @@
 ---
-coverImage: 1*vev4OndSPdxrduKfKS2N7A.jpeg
+coverImage: images/1*vev4OndSPdxrduKfKS2N7A.jpeg
 ---
  
 

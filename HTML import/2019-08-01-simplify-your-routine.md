@@ -1,7 +1,7 @@
 ---
 title: Simplify your Routine
 date: '2019-08-01'
-coverImage: 1*KieIZu70RveYT13NP3InVw.png
+coverImage: images/1*KieIZu70RveYT13NP3InVw.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

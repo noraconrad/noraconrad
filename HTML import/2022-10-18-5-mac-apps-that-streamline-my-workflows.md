@@ -8,7 +8,7 @@ description: null
 publish: true
 categories:
   - operations
-coverImage: 1*I8Ittu9i1ThIQwi6sPAR3Q.png
+coverImage: images/1*I8Ittu9i1ThIQwi6sPAR3Q.png
 ---
 
 

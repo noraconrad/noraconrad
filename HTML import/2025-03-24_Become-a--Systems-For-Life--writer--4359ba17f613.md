@@ -1,5 +1,5 @@
 ---
-coverImage: 1*UeLA_nu02l3-07WXyy3wXQ.jpeg
+coverImage: images/1*UeLA_nu02l3-07WXyy3wXQ.jpeg
 ---
  
 

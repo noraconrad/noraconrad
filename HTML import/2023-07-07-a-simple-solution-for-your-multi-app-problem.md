@@ -1,7 +1,7 @@
 ---
 title: A simple solution for your multi-app problem
 date: '2023-07-07'
-coverImage: 1*jxOw3NB9ykplLCpxVBYW6A.png
+coverImage: images/1*jxOw3NB9ykplLCpxVBYW6A.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

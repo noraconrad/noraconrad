@@ -1,7 +1,7 @@
 ---
 title: Apps and Tools I’m Paying for in 2024
 date: '2023-11-23'
-coverImage: 1*mDCmC3o9vMFhDnZxvXtpSQ.png
+coverImage: images/1*mDCmC3o9vMFhDnZxvXtpSQ.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

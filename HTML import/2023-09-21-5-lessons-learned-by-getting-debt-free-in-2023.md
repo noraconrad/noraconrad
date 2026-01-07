@@ -1,7 +1,7 @@
 ---
 title: 5 Lessons learned by getting debt free in 2023
 date: '2023-09-21'
-coverImage: 1*ngCo2o1AojfjzomuedKl8w.jpeg
+coverImage: images/1*ngCo2o1AojfjzomuedKl8w.jpeg
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

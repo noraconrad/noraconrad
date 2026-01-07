@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know About Your First Tattoo
 date: '2015-03-03'
-coverImage: 1*80gVxnm75sBrkBMtwarFZg.png
+coverImage: images/1*80gVxnm75sBrkBMtwarFZg.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

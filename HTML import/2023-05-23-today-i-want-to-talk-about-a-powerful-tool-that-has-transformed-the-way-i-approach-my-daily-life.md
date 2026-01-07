@@ -3,7 +3,7 @@ title: >-
   Today, I want to talk about a powerful tool that has transformed the way I
   approach my daily life…
 date: '2023-05-23'
-coverImage: 1*OkpvnGtD7vYXastm4X0yNQ.png
+coverImage: images/1*OkpvnGtD7vYXastm4X0yNQ.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

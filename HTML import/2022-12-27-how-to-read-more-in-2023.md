@@ -1,7 +1,7 @@
 ---
 title: How to read more in 2023
 date: '2022-12-27'
-coverImage: 1*9Wbcq0RmNBErSTQx1KZEyw.png
+coverImage: images/1*9Wbcq0RmNBErSTQx1KZEyw.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

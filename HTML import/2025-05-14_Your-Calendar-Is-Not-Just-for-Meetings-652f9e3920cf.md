@@ -1,5 +1,5 @@
 ---
-coverImage: 1*ioDyuGslsKSVs4frpDGR8w.jpeg
+coverImage: images/1*ioDyuGslsKSVs4frpDGR8w.jpeg
 ---
  
 

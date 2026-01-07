@@ -1,5 +1,5 @@
 ---
-coverImage: 1*ckPctT02PO1vPKuui7SZ7A.png
+coverImage: images/1*ckPctT02PO1vPKuui7SZ7A.png
 ---
  
 

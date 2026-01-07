@@ -1,7 +1,7 @@
 ---
 title: Journaling Toward a Better You
 date: '2023-10-30'
-coverImage: 1*0OAWhRXtpSz3CCUhwLzbAg.jpeg
+coverImage: images/1*0OAWhRXtpSz3CCUhwLzbAg.jpeg
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''

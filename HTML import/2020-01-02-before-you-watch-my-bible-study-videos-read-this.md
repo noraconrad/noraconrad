@@ -1,7 +1,7 @@
 ---
 title: 'Before you watch my Bible Study videos, read this.'
 date: '2020-01-02'
-coverImage: 1*xpALWKV8xJJoMw711K2Czw.png
+coverImage: images/1*xpALWKV8xJJoMw711K2Czw.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - ''
