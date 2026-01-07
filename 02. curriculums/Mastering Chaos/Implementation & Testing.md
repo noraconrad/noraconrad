@@ -1,5 +1,5 @@
 ---
-title: "Mastering Chaos Week 03 Phase 6: Implementation & Testing"
+title: Implementation & Testing
 date: 2026-01-06
 description: "Roll out your complete operations manual: test, refine, and establish maintenance routines"
 publish: true
@@ -11,9 +11,6 @@ tags:
 stage: "03"
 lesson: "06"
 ---
-
-# Week 03 Phase 6: Implementation & Testing
-
 ## Bringing Everything Together
 
 You've built:

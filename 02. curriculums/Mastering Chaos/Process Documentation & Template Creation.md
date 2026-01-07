@@ -11,9 +11,6 @@ tags:
 stage: "03"
 lesson: "01"
 ---
-
-# Week 03 Phase 1: Process Documentation & Template Creation
-
 ## The Foundation of Your Operations Manual
 
 This phase is about capturing what's currently in your head and getting it on paper (or in Notion). You're creating a master inventory of every repeating process in your business, then building templates and documentation for each one.

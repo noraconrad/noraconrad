@@ -11,9 +11,6 @@ tags:
 stage: "04"
 lesson: "05"
 ---
-
-## Phase 5: Content Repurposing & Scaling Systems
-
 ### The Content Multiplication Formula
 
 The most efficient content creators don't create more. They repurpose better.

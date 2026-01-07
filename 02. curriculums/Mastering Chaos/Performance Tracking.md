@@ -11,13 +11,6 @@ tags:
 stage: "04"
 lesson: "04"
 ---
-
-# Week 04 Phase 4-6: Performance, Repurposing & Implementation
-
----
-
-## Phase 4: Performance Tracking & Optimization
-
 ### The Goal of Tracking
 
 Content isn't just about posting. It's about creating content that drives actual business results—leads, sales, connections, and growth.
@@ -25,7 +18,6 @@ Content isn't just about posting. It's about creating content that drives actual
 This phase teaches you to measure what's working and optimize based on real data.
 
 ---
-
 ## Content Analytics Setup
 
 ### Key Metrics to Track by Platform

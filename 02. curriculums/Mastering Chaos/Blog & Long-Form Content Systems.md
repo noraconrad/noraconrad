@@ -1,5 +1,5 @@
 ---
-title: "Mastering Chaos Week 04 Phase 3: Blog & Long-Form Content Systems"
+title: Blog & Long-Form Content Systems
 date: 2026-01-06
 description: "Build your blog and long-form content systems: create SEO-optimized content that drives organic traffic"
 publish: true
@@ -11,9 +11,6 @@ tags:
 stage: "04"
 lesson: "03"
 ---
-
-# Week 04 Phase 3: Blog & Long-Form Content Systems
-
 ## Blog: Your Content Home Base
 
 Your blog is the hub. Everything else—social media, email, video—points back to it. This week you'll create a system for consistently publishing high-quality, SEO-optimized blog content that drives organic traffic and builds authority.

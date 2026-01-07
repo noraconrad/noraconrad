@@ -11,9 +11,6 @@ tags:
 stage: "02"
 lesson: "02"
 ---
-
-# Week 02 Phase 2: Response Templates
-
 ## Turn Your Most Common Emails Into One-Click Responses
 
 Stop writing the same emails over and over. Create professional templates that save hours and improve client communication. Most entrepreneurs resist email templates thinking they'll sound "impersonal" or "corporate." The reality is:

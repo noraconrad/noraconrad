@@ -11,9 +11,6 @@ tags:
 stage: "03"
 lesson: "00"
 ---
-
-# Week 03: Decision Elimination
-
 ## Building Your Business Operations Manual
 
 ### The Trap of "Only I Can Do This"

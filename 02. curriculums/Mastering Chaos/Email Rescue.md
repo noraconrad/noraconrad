@@ -11,10 +11,7 @@ tags:
 stage: "02"
 lesson: "00"
 ---
-
-# Mastering Chaos: Week 02 - Email Rescue
-
-## Inbox Chaos to 30 Minutes/Day
+# Inbox Chaos to 30 Minutes/Day
 
 > "I check my email first thing in the morning, last thing at night, and about 47 times in between. It feels urgent but I'm not sure it's actually important."
 

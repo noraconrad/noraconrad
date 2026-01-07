@@ -11,9 +11,6 @@ tags:
 stage: "03"
 lesson: "02"
 ---
-
-# Week 03 Phase 2: Email Template Database
-
 ## Beyond Week 02: Building Your Complete Template System
 
 In Week 02, you created 8 core templates. This week, we're building a comprehensive database of 30+ templates organized by function. These are situation-specific templates for complex scenarios you encounter regularly.

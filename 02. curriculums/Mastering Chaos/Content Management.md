@@ -1,5 +1,5 @@
 ---
-title: "Mastering Chaos Week 04: Content Management"
+title: Content Management
 date: 2026-01-06
 description: "From daily content stress to strategic, automated systems: create weeks of content in hours"
 publish: true
@@ -11,9 +11,6 @@ tags:
 stage: "04"
 lesson: "00"
 ---
-
-# Week 04: Content Management
-
 ## Content Creation & Marketing Automation
 
 ### From Daily Content Stress to Strategic, Automated Systems

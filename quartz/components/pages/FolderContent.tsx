@@ -9,6 +9,7 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
+import PostGrid from "./PostGrid"
 
 interface FolderContentOptions {
   /**
@@ -29,6 +30,17 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
+
+    // Check if this is the posts folder - use PostGrid instead
+    const slug = fileData.slug || ""
+    if (slug === "01.-posts/index" || slug.startsWith("01.-posts/index")) {
+      return (
+        <div class="popover-hint">
+          <article>{htmlToJsx(fileData.filePath!, tree) as ComponentChildren}</article>
+          <PostGrid folder="01. posts" tag="posts" sortBy="date" sortDirection="desc" {...props} />
+        </div>
+      )
+    }
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
     const folder = trie.findNode(fileData.slug!.split("/"))

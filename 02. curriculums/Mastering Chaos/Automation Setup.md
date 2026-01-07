@@ -11,9 +11,6 @@ tags:
 stage: "02"
 lesson: "03"
 ---
-
-# Week 02 Phase 3: Automation Setup
-
 ## Make Email Work for You 24/7
 
 It's time to make a shift from:

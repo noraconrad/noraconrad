@@ -11,9 +11,6 @@ tags:
 stage: "02"
 lesson: "01"
 ---
-
-# Week 02 Phase 1: The Great Email Purge
-
 ## Before You Start: Choosing Your Email Strategy
 
 ### Option 1: Upgrade Your Current Setup

@@ -11,9 +11,6 @@ tags:
 stage: "05"
 lesson: "00"
 ---
-
-# Mastering Chaos: Complete
-
 ## You Did It
 
 You actually did it.

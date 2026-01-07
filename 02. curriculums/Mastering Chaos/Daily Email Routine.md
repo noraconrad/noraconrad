@@ -11,9 +11,6 @@ tags:
 stage: "02"
 lesson: "04"
 ---
-
-# Week 02 Phase 4: Daily Email Routine
-
 ## Making Boundaries Actually Work
 
 The Truth About Client Expectations

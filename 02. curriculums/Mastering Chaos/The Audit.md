@@ -11,9 +11,6 @@ tags:
 stage: "01"
 lesson: "00"
 ---
-
-# Mastering Chaos: Week 01 - The Audit
-
 ## Where Your Time Really Goes
 
 Here's what no one tells you about entrepreneurship: the same drive that makes you want to provide for your family can end up stealing you away from them. You started your business with good intentions:

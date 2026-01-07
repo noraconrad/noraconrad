@@ -11,7 +11,6 @@ tags:
 stage: "04"
 lesson: "06"
 ---
-## Phase 6: Week 4 Implementation Schedule
 
 ### Daily Implementation Plan
 

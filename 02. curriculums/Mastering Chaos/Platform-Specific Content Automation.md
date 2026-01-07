@@ -1,5 +1,5 @@
 ---
-title: "Mastering Chaos Week 04 Phase 2: Platform-Specific Content Automation"
+title: Platform-Specific Content Automation
 date: 2026-01-06
 description: "Set up automated content distribution across platforms: one piece of content, everywhere at once"
 publish: true
@@ -11,9 +11,6 @@ tags:
 stage: "04"
 lesson: "02"
 ---
-
-# Week 04 Phase 2: Platform-Specific Content Automation
-
 ## From Manual Distribution to Hands-Off Posting
 
 Instead of:

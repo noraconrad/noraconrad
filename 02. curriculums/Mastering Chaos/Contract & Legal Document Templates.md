@@ -11,9 +11,6 @@ tags:
 stage: "03"
 lesson: "03"
 ---
-
-# Week 03 Phase 3: Contract & Legal Document Templates
-
 ## Contract Template Database
 
 ### Master Contract Components

@@ -1,5 +1,5 @@
 ---
-title: "Mastering Chaos Week 04 Phase 1: Content Planning & Batch Creation System"
+title: Content Planning & Batch Creation System
 date: 2026-01-06
 description: "Monthly content planning and batch creation: create 4-6 weeks of content in one session"
 publish: true
@@ -11,9 +11,6 @@ tags:
 stage: "04"
 lesson: "01"
 ---
-
-# Week 04 Phase 1: Content Planning & Batch Creation System
-
 ## The Shift From Daily Creation to Batch Production
 
 Instead of:

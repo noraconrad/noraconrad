@@ -69,7 +69,6 @@ const config: QuartzConfig = {
         enableYouTubeEmbed: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.Dataview(), // Execute DataviewJS code blocks during build
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
