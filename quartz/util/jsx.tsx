@@ -19,12 +19,14 @@ const customComponents: Components = {
   ),
   div: (props: any) => {
     // Handle base-file-component divs
-    const className = (props.className || props.class) as string
-    if (className && className.includes("base-file-component")) {
+    const className = (props.className || props.class) as string | string[]
+    const classArray = Array.isArray(className) ? className : (className ? [className] : [])
+    if (classArray.includes("base-file-component")) {
       const baseFileName = props["data-base-file"] as string
       if (baseFileName && componentContext) {
         const BaseFileContentComponent = componentContext.BaseFileContent
         if (BaseFileContentComponent) {
+          // Instantiate the component with baseFileName and pass all context props
           return <BaseFileContentComponent baseFileName={baseFileName} {...componentContext} />
         }
       }

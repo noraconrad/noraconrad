@@ -428,9 +428,10 @@ function processBaseFile(
 }
 
 export default ((opts?: Options) => {
-  const BaseFileContent: QuartzComponent = (props: QuartzComponentProps) => {
+  const BaseFileContent: QuartzComponent = (props: QuartzComponentProps & { baseFileName?: string }) => {
     const { allFiles, ctx } = props
-    const baseFileName = opts?.baseFileName
+    // Get baseFileName from props (passed from jsx.tsx) or from opts
+    const baseFileName = props.baseFileName || opts?.baseFileName
 
     if (!baseFileName) {
       return <p>No base file specified</p>
