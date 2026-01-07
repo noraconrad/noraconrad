@@ -349,14 +349,26 @@ function processBaseFile(
           const fileDir = f.path.substring(0, f.path.lastIndexOf("/"))
           let imageRelativePath: string
           if (fileDir) {
-            // Image is relative to the file's directory
-            imageRelativePath = `${fileDir}/${cleanImageName}`
+            // If imageName already includes a path (like "images/photo.jpg"), use it as-is
+            // Otherwise, try both direct path and images/ subdirectory
+            if (cleanImageName.includes("/")) {
+              imageRelativePath = `${fileDir}/${cleanImageName}`
+            } else {
+              // Try images/ subdirectory first (common pattern)
+              imageRelativePath = `${fileDir}/images/${cleanImageName}`
+            }
           } else {
             // File is in root, image is relative to root
-            imageRelativePath = cleanImageName
+            if (cleanImageName.includes("/")) {
+              imageRelativePath = cleanImageName
+            } else {
+              imageRelativePath = `images/${cleanImageName}`
+            }
           }
           // Slugify the entire path (matching how Assets plugin handles it)
-          const imagePath = `/${simplifySlug(slugifyFilePath(imageRelativePath as FilePath))}`
+          // slugifyFilePath preserves the file extension, so IMG_4351.JPG stays as .JPG
+          const slugifiedPath = slugifyFilePath(imageRelativePath as FilePath)
+          const imagePath = `/${simplifySlug(slugifiedPath)}`
           const aspectRatio = view.imageAspectRatio || 0.8
           imageHtml = `<div class="base-card-image" style="aspect-ratio: ${aspectRatio};">
             <img src="${imagePath}" alt="${title}" />
