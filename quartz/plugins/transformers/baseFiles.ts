@@ -89,25 +89,57 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                 // Try to find the base file - could be a slug or relative path
                 // Remove leading/trailing slashes and try different formats
                 let normalizedPath = baseFilePath.replace(/^\/+|\/+$/g, "")
-                // Try exact match first
+                
+                // Try exact match first (case-sensitive)
                 let baseData = baseFiles.get(normalizedPath)
+                
                 // Try with .base extension
                 if (!baseData && !normalizedPath.endsWith(".base")) {
                   baseData = baseFiles.get(normalizedPath + ".base")
                 }
-                // Try slug format (spaces to dashes)
+                
+                // Try slug format (spaces to dashes, lowercase)
                 if (!baseData) {
-                  const slugPath = normalizedPath.replace(/\s+/g, "-")
+                  const slugPath = normalizedPath.replace(/\s+/g, "-").toLowerCase()
                   baseData = baseFiles.get(slugPath) || baseFiles.get(slugPath + ".base")
                 }
+                
+                // Try case-insensitive lookup
+                if (!baseData) {
+                  const lowerPath = normalizedPath.toLowerCase()
+                  for (const [key, value] of baseFiles.entries()) {
+                    if (key.toLowerCase() === lowerPath || 
+                        key.toLowerCase() === lowerPath + ".base" ||
+                        key.toLowerCase().replace(/\.base$/, "") === lowerPath.replace(/\.base$/, "")) {
+                      baseData = value
+                      break
+                    }
+                  }
+                }
+                
                 // Try reversing slug format (dashes to slashes)
                 if (!baseData) {
                   baseData = baseFiles.get(normalizedPath.replace(/-/g, "/"))
                 }
-                // Try with spaces preserved
+                
+                // Try filename-only match (for files in root like "Untitled.base")
+                if (!baseData) {
+                  const fileName = normalizedPath.split("/").pop() || normalizedPath
+                  for (const [key, value] of baseFiles.entries()) {
+                    const keyFileName = key.split("/").pop() || key
+                    if (keyFileName.toLowerCase() === fileName.toLowerCase() ||
+                        keyFileName.toLowerCase().replace(/\.base$/, "") === fileName.toLowerCase().replace(/\.base$/, "")) {
+                      baseData = value
+                      break
+                    }
+                  }
+                }
+                
+                // Try partial match as last resort
                 if (!baseData) {
                   for (const [key, value] of baseFiles.entries()) {
-                    if (key.includes(normalizedPath) || normalizedPath.includes(key.replace(/\.base$/, ""))) {
+                    if (key.toLowerCase().includes(normalizedPath.toLowerCase()) || 
+                        normalizedPath.toLowerCase().includes(key.toLowerCase().replace(/\.base$/, ""))) {
                       baseData = value
                       break
                     }
