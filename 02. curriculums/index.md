@@ -1,5 +1,5 @@
 ---
-title: "Curriculums"
+title: 02. curriculums
 publish: true
 ---
 

@@ -1,0 +1,20 @@
+properties:
+  file.links:
+    displayName: image
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("01. posts")
+        - file.tags.contains("posts")
+    order:
+      - title
+      - categories
+    sort:
+      - property: date
+        direction: DESC
+      - property: title
+        direction: ASC
+    image: note.coverImage
+    imageAspectRatio: 0.8
