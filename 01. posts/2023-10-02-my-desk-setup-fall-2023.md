@@ -1,12 +1,13 @@
 ---
-title: "My Desk Setup — Fall 2023"
+title: My Desk Setup — Fall 2023
 date: 2023-10-02
-tags: 
+tags:
   - posts
 lastmod: 2026-01-06
-description: 
+description:
 publish: true
-categories: []
+categories:
+  - lifestyle
 ---
 
 I’m a sucker for desk tours. I love seeing how others set up their workspaces and what fun gadgets they invest in to make their space a little more comfortable or productive.

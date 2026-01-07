@@ -10,6 +10,7 @@ description:
 publish: true
 categories:
   - notion
+Price: 24
 ---
 
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.tella.tv/video/clqehos6y007u0fl5errz0c1w/embed?b=0&title=0&a=1&loop=0&t=0&muted=0&wt=0" allowfullscreen allowtransparency=""></iframe>
@@ -58,3 +59,5 @@ Set clear goals and KPIs to measure success and stay on track with your business
 Integrated into your primary content dashboard for ultimate ease of use.
 
 This Notion template will save you hours of planning and organizing, so you can focus on creating content that grows your brand. From content idea generation to publishing and tracking campaign success, this system helps you manage everything in one place—boosting your productivity and keeping you ahead of the game.
+
+[Duplicate the Template](https://www.notion.com/templates/ultimate-content-manager)

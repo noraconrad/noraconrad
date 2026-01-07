@@ -1,12 +1,14 @@
 ---
-title: "How to read more in 2023"
+title: How to read more in 2023
 date: 2022-12-27
-tags: 
+tags:
   - posts
 lastmod: 2026-01-06
-description: 
+description:
 publish: true
-categories: []
+categories:
+  - lifestyle
+  - goals-growth
 ---
 
 ### New Year Goal: 100 Books

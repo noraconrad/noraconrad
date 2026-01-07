@@ -22,6 +22,6 @@ views:
       - property: lesson
         direction: ASC
     columnSize:
-      file.name: 475
-      note.title: 156
+      file.name: 326
+      note.title: 264
       note.stage: 102

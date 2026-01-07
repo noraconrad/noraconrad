@@ -1,7 +1,7 @@
 ---
 title: "Why Most Business Owners Feel Overwhelmed - And How Better Operations Can Fix It"
 date: 2025-04-01
-coverImage: "img.jpg"
+coverImage: "images/Work-Life-Balance-Photo-3-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

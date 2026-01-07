@@ -1,7 +1,7 @@
 ---
 title: "Let’s talk about childcare."
 date: 2024-01-23
-coverImage: "img.jpg"
+coverImage: "images/Daiga-Ellaby-Photo-12-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts
@@ -13,7 +13,7 @@ categories:
 
 ![](images/Daiga-Ellaby-Photo-12-scaled.jpg)
 
-#### WFH and remote parents, what are you doing??
+#### WFH and remote parents, what are we doing??
 
 I work from home, part-time, with my 2-year-old son here all day. My 5-year-old daughter attends preschool, and we pay for an extended day for $400/mo to have her in school from 8 am — 2:45 pm Monday through Thursday. I am contracted to work 130 hours a month, which averages 6.5 hours per weekday. I make just around $3000 a month from my almost part-time work. Childcare M-TH for my son in the Denver metro area of Colorado starts at around $1700 per month. Are you starting to see the issue?
 

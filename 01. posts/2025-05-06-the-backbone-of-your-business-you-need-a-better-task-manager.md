@@ -1,7 +1,7 @@
 ---
 title: "The Backbone of Your Business: You need a better task manager."
 date: 2025-05-06
-coverImage: "img.jpg"
+coverImage: "images/Clean-Desk-Image-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

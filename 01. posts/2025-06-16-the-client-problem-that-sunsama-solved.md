@@ -1,19 +1,19 @@
 ---
-title: "The Client Problem That Sunsama Solved"
+title: The Client Problem That Sunsama Solved
 date: 2025-06-16
-coverImage: "img.png"
+coverImage: 1_1liW3PtIoED6Hef2d9XEvg@2x.webp
 lastmod: 2026-01-06
 tags:
   - posts
-description: 
+description:
 publish: true
 categories:
-  - "business"
+  - business
 ---
 
 ## _How I stopped drowning in other people’s systems_
 
-![](images/CleanShot-2025-06-17-at-16.29.27%402x.png)
+![[1_1liW3PtIoED6Hef2d9XEvg@2x.webp]]
 
 ### The Email That Made Me Realize I Had a Problem
 
@@ -86,24 +86,18 @@ I scheduled time to check each client system. This helped, but I was still manua
 
 None of these approaches addressed the core problem: I needed one place to see everything without forcing my clients to change their preferred tools.
 
-Screenshot From Sunsama
+![[1_fInoy0yPxxKm5160SYptaQ.webp]]
 
 ### Enter Sunsama
 
 I’ll be honest, when I first looked at Sunsama, I thought it was just another task manager. I had task managers. What I needed was a miracle. But then I saw the integrations list at the time:
 
 - Asana ✓
-    
 - Monday.com ✓
-    
 - Trello ✓
-    
 - Gmail ✓
-    
 - Google Calendar ✓
-    
 - Slack ✓
-    
 
 And I realized this wasn’t about replacing my task management. It was about creating a command center that could pull from all my clients’ preferred systems. A dashboard to make sense of the noise and organize it in a way that worked for my needs.
 
@@ -112,35 +106,26 @@ And I realized this wasn’t about replacing my task management. It was about cr
 **Morning Planning (5 minutes):**
 
 1. Open Sunsama and see ALL my tasks from ALL client systems in one view
-    
 2. Drag today’s priorities into my timeline alongside my calendar
-    
 3. Add time estimates so I know if I’m being realistic about my day
-    
 4. Done. I don’t need to check Asana, Monday, Slack, or email separately.
     
 
 **During the day:**
 
 - Work from my unified timeline
-    
 - Mark tasks complete in Sunsama (which updates the original system)
-    
 - Add new tasks that come up via email or Slack directly into my daily plan
-    
 
 **End of day:**
 
 - Get an AI-generated summary of what I accomplished across all platforms
-    
 - Use this for client updates and my own records
-    
 - Plan tomorrow based on what’s actually left to do
-    
 
 I went from checking 5–6 different systems throughout the day to checking one. My clients still get to use their preferred tools, but I don’t have to live in them.
 
-Screenshot From Sunsama
+![[1_MrOQsy9ITHJ1tkMmCd9uzA.webp]]
 
 ### The Specific Features That Made the Difference
 
@@ -171,15 +156,10 @@ Let me walk you through a real example:
 **Monday morning** I open Sunsama and see:
 
 - 3 tasks assigned to me in Client A’s Asana (pulled automatically)
-    
 - 2 email requests from Client B that need responses
-    
 - 1 Slack thread from Client C that turned into a task
-    
 - My own business development tasks
-    
 - The kid’s sports schedules, my doctor appointments and all my meetings for the week
-    
 
 I drag the most important items into Monday’s timeline, estimate how long they’ll take, and immediately know I need to push two tasks to Tuesday because I have too many calls.
 
@@ -189,7 +169,7 @@ I drag the most important items into Monday’s timeline, estimate how long they
 
 **The business impact:** My client communication improved immediately because I stopped missing things. My billing became more accurate because time tracking was finally seamless. And I got back those 2.5 hours per week I was spending on system management.
 
-Screenshot From Sunsama
+![[1_KYRidcHNrhsGqypmN-QeDQ.webp]]
 
 ### Is This Just Fancy Task Management?
 
@@ -206,13 +186,9 @@ This is especially crucial as you scale. When you have one client, living in the
 Getting this working took me about 30 minutes:
 
 1. **Connect your tools:** Link the platforms your clients actually use (Apple Reminders, Notion, Google Tasks, Outlook, Jira, Zapier, etc.)
-    
 2. **Import existing tasks:** Bring in current assignments so nothing falls through the cracks
-    
 3. **Set up your daily planning routine:** Block 5–10 minutes each morning to review and prioritize
-    
 4. **Configure notifications:** Set up daily highlights and any team sharing you need
-    
 
 https://www.youtube.com/watch?v=RYYk5ZM\_-Zw&pp=ygUTc3Vuc2FtYSB3YWxrdGhyb3VnaA%3D%3D
 

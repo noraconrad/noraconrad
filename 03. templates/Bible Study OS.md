@@ -1,16 +1,18 @@
 ---
-title: "Bible Study OS"
+title: Bible Study OS
 date: 2025-08-14
-coverImage: "bible+study.png"
+coverImage: bible+study.png
 lastmod: 2026-01-06
 tags:
   - posts
-description: 
+description:
 publish: true
-categories: []
+categories:
+  - notion
+Price: 0
 ---
 
-What started as a passion project to integrate Bible study with my personal knowledge management system has now grown into a complete **Bible Study Template in Notion**. This template is designed to help you organize your Bible notes, track sermon insights, and keep track of prayer requests—all in one place. Whether you're new to Bible study or looking for a more structured way to deepen your understanding, this template will support your journey.
+What started as a passion project to integrate Bible study with my personal knowledge management system has now grown into a complete [**Bible Study Template in Notion**](https://www.notion.com/templates/bible-study-noraconrad). This template is designed to help you organize your Bible notes, track sermon insights, and keep track of prayer requests—all in one place. Whether you're new to Bible study or looking for a more structured way to deepen your understanding, this template will support your journey.
 
 **What's Inside:**
 
@@ -41,3 +43,5 @@ What started as a passion project to integrate Bible study with my personal know
 **How This Template Came Together**
 
 Inspired by [Vanderlei Vieira's](https://03e34f11d303435688d13ceee7ddd5e4/) work on Notion, this template has evolved over the past two years. I’ve spent well over **100 hours** refining, editing, and adding new features to make it as comprehensive and user-friendly as possible. Thanks to contributions from [BibleHub.com](http://BibleHub.com) by **Jay Smith** and resources from [The Bible Project](https://bibleproject.com/) and [Overview Bible](https://overviewbible.com/), you’ll find everything you need in one organized space.
+
+[Duplicate the Template](https://www.notion.com/templates/bible-study-noraconrad)
