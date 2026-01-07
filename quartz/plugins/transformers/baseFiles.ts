@@ -1,8 +1,9 @@
 import { QuartzTransformerPlugin } from "../types"
 import { Root, Html } from "mdast"
 import { visit } from "unist-util-visit"
-import { readFile } from "fs/promises"
+import { readFileSync, existsSync } from "fs"
 import { join } from "path"
+import { globby } from "globby"
 import yaml from "js-yaml"
 import { FilePath, slugifyFilePath, pathToRoot } from "../../util/path"
 import { BuildCtx } from "../../util/ctx"
@@ -36,23 +37,29 @@ interface BaseFile {
 export const BaseFiles: QuartzTransformerPlugin = () => {
   return {
     name: "BaseFiles",
-    async markdownPlugins(ctx) {
+    markdownPlugins(ctx) {
       // Pre-load all .base files by both relative path and slug
       const baseFiles = new Map<string, BaseFile>()
-      const baseFileData = ctx.allFiles.filter((f) => f.relativePath?.endsWith(".base"))
+      
+      // Find all .base files from ctx.allFiles (which contains all file paths)
+      const baseFilePaths = ctx.allFiles.filter((fp) => fp.endsWith(".base"))
 
-      for (const fileData of baseFileData) {
+      for (const baseFilePath of baseFilePaths) {
         try {
-          const fullPath = join(ctx.argv.directory, fileData.relativePath!)
-          const content = await readFile(fullPath, "utf-8")
-          const data = yaml.load(content) as BaseFile
-          // Store by both relative path and slug for lookup
-          baseFiles.set(fileData.relativePath!, data)
-          if (fileData.slug) {
-            baseFiles.set(fileData.slug, data)
+          const fullPath = join(ctx.argv.directory, baseFilePath)
+          if (existsSync(fullPath)) {
+            const content = readFileSync(fullPath, "utf-8")
+            const data = yaml.load(content) as BaseFile
+            // Store by relative path
+            baseFiles.set(baseFilePath, data)
+            // Also store by slug format (without extension)
+            const slug = slugifyFilePath(baseFilePath as FilePath)
+            baseFiles.set(slug, data)
+            // Store without .base extension for lookup
+            baseFiles.set(baseFilePath.replace(/\.base$/, ""), data)
           }
         } catch (err) {
-          console.warn(`Failed to load .base file ${fileData.relativePath}:`, err)
+          console.warn(`Failed to load .base file ${baseFilePath}:`, err)
         }
       }
 

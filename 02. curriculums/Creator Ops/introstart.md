@@ -1,12 +1,14 @@
 ---
-title: "Welcome - Start Here"
+title: Welcome - Start Here
 date: 2025-06-29
-categories: 
-  - "system-ops"
-tags: 
-  - "creator-ops"
-  - "lesson"
-  - "systemops"
+categories:
+  - system-ops
+tags:
+  - creator-ops
+  - lesson
+  - systemops
+stage: "0"
+lesson: "0"
 ---
 
 This course is here to help you build real systems that support your content, simplify your workflow, and give you back your time. You’ll walk away with a fully functioning operations hub, repeatable processes, and tools that grow with you.

@@ -1,12 +1,14 @@
 ---
-title: "0.02 Build real systems"
+title: 0.2 Build real systems
 date: 2025-06-29
-categories: 
-  - "system-ops"
-tags: 
-  - "creator-ops"
-  - "lesson"
-  - "systemops"
+categories:
+  - system-ops
+tags:
+  - creator-ops
+  - lesson
+  - systemops
+stage: "0"
+lesson: "2"
 ---
 
 This course has one mission: to transform how your creator business operates **within weeks**, _not months_.

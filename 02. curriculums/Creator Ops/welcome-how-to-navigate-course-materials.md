@@ -1,12 +1,14 @@
 ---
-title: "0.03 How to navigate course materials"
+title: 0.3 How to navigate course materials
 date: 2025-06-29
-categories: 
-  - "system-ops"
-tags: 
-  - "creator-ops"
-  - "lesson"
-  - "systemops"
+categories:
+  - system-ops
+tags:
+  - creator-ops
+  - lesson
+  - systemops
+stage: "0"
+lesson: "3"
 ---
 
 This course is structured to maximize your time, and as a result, your success:

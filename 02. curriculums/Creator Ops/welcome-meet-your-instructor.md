@@ -1,12 +1,14 @@
 ---
-title: "0.01 Meet your instructor"
+title: 0.1 Meet your instructor
 date: 2025-06-29
-categories: 
-  - "system-ops"
-tags: 
-  - "creator-ops"
-  - "lesson"
-  - "systemops"
+categories:
+  - system-ops
+tags:
+  - creator-ops
+  - lesson
+  - systemops
+stage: "0"
+lesson: "1"
 ---
 
 When I started creating content in 2011, I was disorganized. I posted based on emotion and energy levels - which worked out when I was young with lots of free time. However, by 2018 when my first baby was born, I found myself drowning in tasks, constantly missing deadlines, and watching important details fall through the cracks. My content was inconsistent, my client work was chaotic, and my income reflected this disorder. I was working 50+ hours a week but seeing minimal results.

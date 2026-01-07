@@ -1,12 +1,14 @@
 ---
-title: "0.04 Creator Business Types Assessment"
+title: 0.4 Creator Business Types Assessment
 date: 2025-06-29
-categories: 
-  - "system-ops"
-tags: 
-  - "creator-ops"
-  - "lesson"
-  - "systemops"
+categories:
+  - system-ops
+tags:
+  - creator-ops
+  - lesson
+  - systemops
+stage: "0"
+lesson: "4"
 ---
 
 _Now that you understand your creator business type, you're ready to build systems specifically designed for your model._
