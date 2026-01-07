@@ -348,10 +348,12 @@ function processBaseFile(
 
     if (groupedFiles) {
       const sortedGroups = Array.from(groupedFiles.entries()).sort((a, b) => {
+        const aKey = a[0] || ""
+        const bKey = b[0] || ""
         if (view.groupBy!.direction === "DESC") {
-          return b[0].localeCompare(a[0])
+          return bKey.localeCompare(aKey)
         }
-        return a[0].localeCompare(b[0])
+        return aKey.localeCompare(bKey)
       })
 
       return sortedGroups.map(([groupName, groupFiles]) => {
@@ -392,10 +394,12 @@ function processBaseFile(
 
     if (groupedFiles) {
       const sortedGroups = Array.from(groupedFiles.entries()).sort((a, b) => {
+        const aKey = a[0] || ""
+        const bKey = b[0] || ""
         if (view.groupBy!.direction === "DESC") {
-          return b[0].localeCompare(a[0])
+          return bKey.localeCompare(aKey)
         }
-        return a[0].localeCompare(b[0])
+        return aKey.localeCompare(bKey)
       })
 
       return sortedGroups.map(([groupName, groupFiles]) => {
