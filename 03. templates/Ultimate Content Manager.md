@@ -5,15 +5,14 @@ coverImage: content+manager.png
 lastmod: 2026-01-06
 tags:
   - templates
-  - notion
 description:
 publish: true
 categories:
   - notion
-Price: 24.00
+Price: "24"
 ---
 
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.tella.tv/video/clqehos6y007u0fl5errz0c1w/embed?b=0&title=0&a=1&loop=0&t=0&muted=0&wt=0" allowfullscreen allowtransparency=""></iframe>
+<iframe style="height: 600px; border: 0;" src="https://www.tella.tv/video/clqehos6y007u0fl5errz0c1w/embed?b=0&title=0&a=1&loop=0&t=0&muted=0&wt=0" allowfullscreen allowtransparency=""></iframe>
 
 **Notion Content & Social Media Planner Template**  
 Perfect for content creators and small business owners who want to streamline their content planning, execution, and social media campaigns—all in one place.

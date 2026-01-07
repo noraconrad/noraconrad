@@ -4,7 +4,7 @@ date: 2025-08-14
 coverImage: mental+health.png
 lastmod: 2026-01-06
 tags:
-  - posts
+  - templates
 description:
 publish: true
 categories:
