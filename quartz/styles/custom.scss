@@ -67,9 +67,14 @@ body {
   width: 100% !important;
 }
 
+// Hide right sidebar completely
+.sidebar.right {
+  display: none !important;
+}
+
 // Extend .center div to fill right sidebar space
 .page > #quartz-body > .center {
-  grid-column: 2 / 4 !important; // Span from center column (2) to end (4, which includes right sidebar)
+  grid-column: 2 / -1 !important; // Span from center column (2) to end
 }
 
 // Make TOC work in sidebar
