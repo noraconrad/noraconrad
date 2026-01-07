@@ -1,25 +1,15 @@
 ---
-title: >-
-  Invite sent! You can delete this comment if you prefer to keep your email
-  private :)
-date: '2022-11-29'
-coverImage: 'https://cdn-images-1.medium.com/max/800/1*N7t8BvUE_Xi8x8pvRQDVLA.png'
+title: My Productivity Stack
+date: 2022-11-29
+coverImage: https://cdn-images-1.medium.com/max/800/1*N7t8BvUE_Xi8x8pvRQDVLA.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
-  - ''
+  - ""
 tags:
-  - ''
-description: ''
+  - ""
+description: ""
 publish: true
 ---
-# My Productivity Stack
-
-I’ve been on the hunt over the last few months for pieces to my productivity puzzle. I have a strange combo of apps and tools I use for…
-
----
-
-### My Productivity Stack
-
 I’ve been on the hunt over the last few months for pieces to my productivity puzzle. I have a strange combo of apps and tools I use for work because I’m a content creator and have a regular office job as well. I try to find apps that can work with BOTH positions and make that transition easier to make, but as I’ve begun accepting that not every app will work for both jobs, I’ve become a lot happier with my setup.
 
 Today I want to share the tools I currently use as a content creator and what tools I use as a logistics account manager (and what I still use for both)

@@ -1,23 +1,13 @@
 ---
-title: I&#39;m not surprised that this is happening.
-date: '2022-02-01'
+title: Create a mini business plan
+date: 2022-02-01
 coverImage: images/1*h3LGLg01dqfUBS0j59rBng.jpeg
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
-  - ''
 tags:
-  - ''
-description: ''
+description: ""
 publish: true
 ---
-# Create a mini business plan
-
-YouTube channel, Etsy shop, course — it doesn't matter what you sell, you need a plan
-
----
-
-### Create a mini business plan
-
 YouTube channel, Etsy shop, course — it doesn't matter what you sell, you need a plan
 
 ### 📑 BUSINESS PLANS ARE BORING

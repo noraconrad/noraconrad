@@ -35,23 +35,56 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Map",
-      folderDefaultState: "open",
-      folderClickBehavior: "link",
+      folderDefaultState: "collapsed", // Collapsed by default
+      folderClickBehavior: "link", // Link to index page when clicked
       useSavedState: false,
-      filterFn: (node) => {
-        // Show all folders
+      mapFn: (node) => {
+        // Customize display names for folders
         if (node.isFolder) {
-          // Hide the "tags" folder
-          if (node.slugSegment === "tags") {
-            return false
+          const displayNameMap: Record<string, string> = {
+            "01.-posts": "Posts",
+            "02.-curriculums": "Curriculums",
+            "03.-templates": "Templates",
+            "04.-rambles": "Rambles",
+            "05.-projects": "Projects",
+            "pages": "About"
           }
-          return true
+          const slugSegment = node.slugSegment?.toLowerCase() || ""
+          if (displayNameMap[slugSegment]) {
+            node.displayName = displayNameMap[slugSegment]
+          }
         }
-        // For files, only show index.md files
-        if (node.slugSegment === "index") {
-          return true
+        return node
+      },
+      filterFn: (node) => {
+        // Only show specific top-level folders
+        if (node.isFolder) {
+          // Allowed folder slugs (as they appear in URLs after slugification)
+          const allowedFolderSlugs = [
+            "01.-posts",
+            "02.-curriculums", 
+            "03.-templates",
+            "04.-rambles",
+            "05.-projects",
+            "pages" // for about page
+          ]
+          
+          // Check if this is a top-level folder
+          // Top-level folders have slugs like "01.-posts/index" (one segment before /index)
+          const slugParts = node.slug?.split("/").filter(p => p && p !== "index") || []
+          const isTopLevel = slugParts.length === 1
+          
+          if (isTopLevel) {
+            // Match by slug segment
+            const slugSegment = node.slugSegment?.toLowerCase() || ""
+            return allowedFolderSlugs.some(folderSlug => 
+              folderSlug.toLowerCase() === slugSegment
+            )
+          }
+          // Hide nested folders
+          return false
         }
-        // Hide all other individual files
+        // Hide all files (we only want folders)
         return false
       },
     }),
@@ -85,23 +118,56 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Map",
-      folderDefaultState: "open",
-      folderClickBehavior: "link",
+      folderDefaultState: "collapsed", // Collapsed by default
+      folderClickBehavior: "link", // Link to index page when clicked
       useSavedState: false,
-      filterFn: (node) => {
-        // Show all folders
+      mapFn: (node) => {
+        // Customize display names for folders
         if (node.isFolder) {
-          // Hide the "tags" folder
-          if (node.slugSegment === "tags") {
-            return false
+          const displayNameMap: Record<string, string> = {
+            "01.-posts": "Posts",
+            "02.-curriculums": "Curriculums",
+            "03.-templates": "Templates",
+            "04.-rambles": "Rambles",
+            "05.-projects": "Projects",
+            "pages": "About"
           }
-          return true
+          const slugSegment = node.slugSegment?.toLowerCase() || ""
+          if (displayNameMap[slugSegment]) {
+            node.displayName = displayNameMap[slugSegment]
+          }
         }
-        // For files, only show index.md files
-        if (node.slugSegment === "index") {
-          return true
+        return node
+      },
+      filterFn: (node) => {
+        // Only show specific top-level folders
+        if (node.isFolder) {
+          // Allowed folder slugs (as they appear in URLs after slugification)
+          const allowedFolderSlugs = [
+            "01.-posts",
+            "02.-curriculums", 
+            "03.-templates",
+            "04.-rambles",
+            "05.-projects",
+            "pages" // for about page
+          ]
+          
+          // Check if this is a top-level folder
+          // Top-level folders have slugs like "01.-posts/index" (one segment before /index)
+          const slugParts = node.slug?.split("/").filter(p => p && p !== "index") || []
+          const isTopLevel = slugParts.length === 1
+          
+          if (isTopLevel) {
+            // Match by slug segment
+            const slugSegment = node.slugSegment?.toLowerCase() || ""
+            return allowedFolderSlugs.some(folderSlug => 
+              folderSlug.toLowerCase() === slugSegment
+            )
+          }
+          // Hide nested folders
+          return false
         }
-        // Hide all other individual files
+        // Hide all files (we only want folders)
         return false
       },
     }),

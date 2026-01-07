@@ -10,24 +10,9 @@ publish: true
 categories:
   - "mental-health"
 ---
-
-![](images/Burnout-Portrait-scaled.jpg)
-
-#### Productivity takes on a new meaning
-
 In 2018, I welcomed my first baby into the world. She was perfect, the delivery went great, and my pregnancy even went by with minimal issues — but after her arrival, I experienced serious postpartum anxiety.
 
-<figure>
-
 ![](images/1*wRhxOytwJu3IfjmOvFRxyg.jpeg)
-
-<figcaption>
-
-Image of the author from the author
-
-</figcaption>
-
-</figure>
 
 Since that period of my life, I have never felt that my mind returned to “baseline”. I went through cycles of extreme productivity and then would slide into burnout. These cycles would last anywhere from a week to a couple of months. “This was motherhood”, I thought. It’s not always easy.
 
@@ -45,7 +30,7 @@ Looking back at the last six years of my life with a new perspective, I can see 
 
 #### A Shift in Identity
 
-I built an entire business around the idea of helping people be productive and organized. I am known in my family for being the planner, the “get stuff done” girl, the “how do you have the energy to do all of that” person. My identity was built around my manic episodes and I measured my worth in how much I got done. Depression was exacerbated by my OCD and the overwhelming thoughts that if I did not do more, I was putting people I loved at risk.
+I built an entire business around the idea of helping people be productive and organized. I am known in my family for being the planner, the “get stuff done” girl, the “how do you have the energy to do all of that” person. My identity was built around my manic episodes and I measured my worth in how much I got done. Depression was exacerbated by my OCD and the overwhelming idea that if I did not do more, I was putting people I loved at risk.
 
 When depressive episodes started, I would feel worthless. I’d look at all the activities I did in my mania and wonder why I didn’t have the drive to keep up. I’d wonder what I was doing wrong. I’d break down. I’d quit things. I’d burn bridges. I’d stop posting content.
 

@@ -5,7 +5,6 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
-import path from "path"
 import {
   FullSlug,
   SimpleSlug,
@@ -90,13 +89,18 @@ function computeFolderInfo(
 }
 
 function _getFolders(slug: FullSlug): SimpleSlug[] {
-  var folderName = path.dirname(slug ?? "") as SimpleSlug
-  const parentFolderNames = [folderName]
-
-  while (folderName !== ".") {
-    folderName = path.dirname(folderName ?? "") as SimpleSlug
-    parentFolderNames.push(folderName)
+  // Handle slugified paths correctly by splitting on "/" instead of using path.dirname
+  const slugStr = slug ?? ""
+  const segments = slugStr.split("/").filter(seg => seg && seg !== "index")
+  
+  const parentFolderNames: SimpleSlug[] = []
+  for (let i = 1; i <= segments.length; i++) {
+    const folderPath = segments.slice(0, i).join("/") as SimpleSlug
+    if (folderPath) {
+      parentFolderNames.push(folderPath)
+    }
   }
+  
   return parentFolderNames
 }
 
