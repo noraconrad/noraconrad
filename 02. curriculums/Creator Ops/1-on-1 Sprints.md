@@ -10,6 +10,7 @@ tags:
 stage: "7"
 lesson: "3"
 draft: false
+publish: true
 ---
 
 I created this course to be a DIY version of my sprints - I know this isn’t for everyone.

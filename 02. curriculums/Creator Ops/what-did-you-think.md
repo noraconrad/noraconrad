@@ -10,6 +10,7 @@ tags:
 stage: "7"
 lesson: "2"
 draft: false
+publish: true
 ---
 
 iFrameResize({log: false, checkOrigin: false}, "#senja-collector-iframe");

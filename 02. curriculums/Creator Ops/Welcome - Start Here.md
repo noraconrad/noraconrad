@@ -10,6 +10,7 @@ tags:
 stage: "0"
 lesson: "0"
 draft: false
+publish: true
 ---
 
 This course is here to help you build real systems that support your content, simplify your workflow, and give you back your time. You’ll walk away with a fully functioning operations hub, repeatable processes, and tools that grow with you.

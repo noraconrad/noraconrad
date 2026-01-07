@@ -7,6 +7,7 @@ tags:
   - lesson
   - systemops
 draft: false
+publish: true
 stage: "7"
 lesson: "1"
 ---
