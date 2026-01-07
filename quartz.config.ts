@@ -68,6 +68,7 @@ const config: QuartzConfig = {
         enableInHtmlEmbed: true,
         enableYouTubeEmbed: true,
       }),
+      Plugin.BaseFiles(),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

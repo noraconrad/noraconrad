@@ -1,0 +1,20 @@
+properties:
+  note.categories:
+    displayName: Course
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("02. curriculums")
+        - "!categories.isEmpty()"
+    groupBy:
+      property: categories
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: categories
+        direction: ASC
+    columnSize:
+      file.name: 374
