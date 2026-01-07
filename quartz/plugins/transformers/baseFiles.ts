@@ -239,7 +239,8 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                           }
                           if (filter.file?.path?.contains) {
                             const pathContains = filter.file.path.contains
-                            if (!f.path.includes(pathContains)) {
+                            // Check both the file path and slug
+                            if (!f.path.includes(pathContains) && !f.slug.includes(pathContains.replace(/\s+/g, "-").toLowerCase())) {
                               return false
                             }
                           }
@@ -321,6 +322,44 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                           }
                           groupedFiles.get(groupKey)!.push(f)
                         }
+                        
+                        // Sort files within each group according to sort rules
+                        if (view.sort) {
+                          for (const [groupKey, groupFiles] of groupedFiles.entries()) {
+                            groupFiles.sort((a, b) => {
+                              for (const sortRule of view.sort!) {
+                                const prop = sortRule.property
+                                const direction = sortRule.direction === "DESC" ? -1 : 1
+                                const propName = prop.startsWith("note.") ? prop.slice(5) : prop
+                                
+                                let aVal: any
+                                let bVal: any
+                                
+                                if (prop === "date" || propName === "date") {
+                                  aVal = a.dates?.published?.getTime() ?? a.dates?.modified?.getTime() ?? a.dates?.created?.getTime() ?? 0
+                                  bVal = b.dates?.published?.getTime() ?? b.dates?.modified?.getTime() ?? b.dates?.created?.getTime() ?? 0
+                                } else if (prop === "title" || propName === "title" || prop === "file.name") {
+                                  aVal = a.title ?? ""
+                                  bVal = b.title ?? ""
+                                } else {
+                                  aVal = a.frontmatter?.[propName] ?? ""
+                                  bVal = b.frontmatter?.[propName] ?? ""
+                                }
+                                
+                                const aNum = parseFloat(aVal)
+                                const bNum = parseFloat(bVal)
+                                if (!isNaN(aNum) && !isNaN(bNum)) {
+                                  if (aNum < bNum) return -1 * direction
+                                  if (aNum > bNum) return 1 * direction
+                                } else {
+                                  if (aVal < bVal) return -1 * direction
+                                  if (aVal > bVal) return 1 * direction
+                                }
+                              }
+                              return 0
+                            })
+                          }
+                        }
                       }
 
                       // Generate table HTML - use absolute paths for links
@@ -335,14 +374,19 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                         }
                         const propName = prop.startsWith("note.") ? prop.slice(5) : prop
                         const value = f.frontmatter?.[propName]
+                        if (value === undefined || value === null) return ""
                         return Array.isArray(value) ? value.join(", ") : (value?.toString() ?? "")
                       }
 
                       const getHeaderName = (prop: string): string => {
                         if (prop === "file.name") return "File Name"
+                        if (prop === "title") return "Title"
                         if (prop === "note.stage" || prop === "stage") return "Stage"
                         if (prop === "note.lesson" || prop === "lesson") return "Lesson"
-                        if (prop.startsWith("note.")) return prop.slice(5).charAt(0).toUpperCase() + prop.slice(6)
+                        if (prop.startsWith("note.")) {
+                          const name = prop.slice(5)
+                          return name.charAt(0).toUpperCase() + name.slice(1)
+                        }
                         return prop.charAt(0).toUpperCase() + prop.slice(1)
                       }
 
