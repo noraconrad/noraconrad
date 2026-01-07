@@ -3,17 +3,72 @@ import { Root, Code, Html } from "mdast"
 import { visit } from "unist-util-visit"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzPluginData } from "../vfile"
+import { FilePath, joinSegments } from "../../util/path"
+import { readFileSync, existsSync } from "fs"
+import { join } from "path"
+import matter from "gray-matter"
+import { slugifyFilePath } from "../../util/path"
 
 interface DataviewContext {
-  allFiles: QuartzPluginData[]
+  allFiles: FilePath[]
   currentFile: QuartzPluginData
+  ctx: BuildCtx
+}
+
+/**
+ * Loads and parses a markdown file to extract frontmatter
+ */
+function loadFileData(filePath: FilePath, ctx: BuildCtx): QuartzPluginData | null {
+  try {
+    const fullPath = join(ctx.argv.directory, filePath)
+    if (!existsSync(fullPath) || !filePath.endsWith(".md")) {
+      return null
+    }
+
+    const content = readFileSync(fullPath, "utf-8")
+    const { data: frontmatter } = matter(content)
+    
+    // Only include published files
+    if (frontmatter?.publish !== true && frontmatter?.publish !== "true") {
+      return null
+    }
+
+    const slug = slugifyFilePath(filePath)
+    
+    // Parse dates
+    const dateStr = frontmatter?.date || frontmatter?.published || frontmatter?.created
+    const lastmodStr = frontmatter?.lastmod || frontmatter?.modified
+    const dates = {
+      created: dateStr ? new Date(dateStr) : undefined,
+      modified: lastmodStr ? new Date(lastmodStr) : undefined,
+      published: dateStr ? new Date(dateStr) : undefined,
+    }
+
+    return {
+      filePath,
+      slug,
+      frontmatter: frontmatter || {},
+      dates,
+    } as QuartzPluginData
+  } catch (err) {
+    return null
+  }
 }
 
 /**
  * Creates a mock Dataview API object that mimics Obsidian's Dataview
  */
 function createDataviewAPI(ctx: DataviewContext) {
-  const { allFiles } = ctx
+  const { allFiles, ctx: buildCtx } = ctx
+
+  // Load all markdown files
+  const loadedFiles: QuartzPluginData[] = []
+  for (const filePath of allFiles) {
+    const fileData = loadFileData(filePath, buildCtx)
+    if (fileData) {
+      loadedFiles.push(fileData)
+    }
+  }
 
   // Mock page object
   class MockPage {
@@ -107,15 +162,18 @@ function createDataviewAPI(ctx: DataviewContext) {
   // Create mock dv object
   const dv = {
     pages: (query?: string) => {
-      let files = allFiles.filter((f) => f.publish !== false)
+      let files = loadedFiles
 
       // Handle tag queries like #posts
       if (query && query.startsWith("#")) {
-        const tag = query.slice(1)
+        const tag = query.slice(1).toLowerCase()
         files = files.filter((f) => {
           const tags = f.frontmatter?.tags || []
           const tagArray = Array.isArray(tags) ? tags : [tags]
-          return tagArray.some((t: string) => t.toLowerCase() === tag.toLowerCase())
+          return tagArray.some((t: string) => {
+            const tagStr = String(t).toLowerCase()
+            return tagStr === tag || tagStr.endsWith(`/${tag}`)
+          })
         })
       }
 
@@ -150,6 +208,12 @@ function executeDataviewJS(code: string, ctx: DataviewContext): string {
     const func = new Function("dv", code)
     func(mockDv)
 
+    // If no output was captured, return a debug message
+    if (!output) {
+      console.warn("DataviewJS executed but no output from dv.paragraph()")
+      return `<div class="dataview-warning">DataviewJS executed but no output. Make sure to call dv.paragraph(html) with your HTML.</div>`
+    }
+
     return output
   } catch (error: any) {
     console.error("Error executing DataviewJS:", error)
@@ -169,10 +233,24 @@ export const Dataview: QuartzTransformerPlugin<{}> = () => {
                 // Get current file data
                 const currentFile = file.data as QuartzPluginData
 
+                // Check if allFiles is available
+                if (!ctx.allFiles || ctx.allFiles.length === 0) {
+                  console.warn("Dataview: ctx.allFiles is not available yet")
+                  const errorNode: Html = {
+                    type: "html",
+                    value: `<div class="dataview-error">Dataview: Files not loaded yet. This may be a build order issue.</div>`,
+                  }
+                  if (parent && typeof index === "number") {
+                    parent.children[index] = errorNode
+                  }
+                  return
+                }
+
                 // Execute the DataviewJS code
                 const html = executeDataviewJS(node.value, {
-                  allFiles: ctx.allFiles,
+                  allFiles: ctx.allFiles as FilePath[],
                   currentFile,
+                  ctx,
                 })
 
                 if (html && parent && typeof index === "number") {
@@ -180,6 +258,13 @@ export const Dataview: QuartzTransformerPlugin<{}> = () => {
                   const htmlNode: Html = {
                     type: "html",
                     value: html,
+                  }
+                  parent.children[index] = htmlNode
+                } else if (parent && typeof index === "number") {
+                  // Even if html is empty, replace to avoid showing code block
+                  const htmlNode: Html = {
+                    type: "html",
+                    value: `<div class="dataview-empty">DataviewJS executed but returned no content.</div>`,
                   }
                   parent.children[index] = htmlNode
                 }
