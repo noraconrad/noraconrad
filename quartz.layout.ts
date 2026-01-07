@@ -39,18 +39,20 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "link",
       useSavedState: false,
       filterFn: (node) => {
-        // Hide individual files tagged with "posts" from navigation (but allow folders and index files)
-        if (!node.isFolder && node.data?.tags?.includes("posts")) {
-          // Allow index.md files even if they have "posts" tag
-          if (node.slugSegment !== "index") {
+        // Show all folders
+        if (node.isFolder) {
+          // Hide the "tags" folder
+          if (node.slugSegment === "tags") {
             return false
           }
+          return true
         }
-        // Also hide the "tags" folder
-        if (node.slugSegment === "tags") {
-          return false
+        // For files, only show index.md files
+        if (node.slugSegment === "index") {
+          return true
         }
-        return true
+        // Hide all other individual files
+        return false
       },
     }),
     Component.Graph(),
@@ -87,18 +89,20 @@ export const defaultListPageLayout: PageLayout = {
       folderClickBehavior: "link",
       useSavedState: false,
       filterFn: (node) => {
-        // Hide individual files tagged with "posts" from navigation (but allow folders and index files)
-        if (!node.isFolder && node.data?.tags?.includes("posts")) {
-          // Allow index.md files even if they have "posts" tag
-          if (node.slugSegment !== "index") {
+        // Show all folders
+        if (node.isFolder) {
+          // Hide the "tags" folder
+          if (node.slugSegment === "tags") {
             return false
           }
+          return true
         }
-        // Also hide the "tags" folder
-        if (node.slugSegment === "tags") {
-          return false
+        // For files, only show index.md files
+        if (node.slugSegment === "index") {
+          return true
         }
-        return true
+        // Hide all other individual files
+        return false
       },
     }),
     Component.Graph(),
