@@ -318,13 +318,35 @@ function processBaseFile(
         const imageProp = view.image.startsWith("note.") ? view.image.slice(5) : view.image
         const imageName = f.frontmatter?.[imageProp]
         if (imageName) {
+          // imageName might be just a filename or include a relative path (e.g., "images/photo.jpg")
           const fileDir = f.path.substring(0, f.path.lastIndexOf("/"))
           let imagePath: string
           if (fileDir) {
             const dirSlug = simplifySlug(slugifyFilePath(fileDir as FilePath))
-            imagePath = `/${dirSlug}/${imageName}`
+            // If imageName already includes a path (like "images/photo.jpg"), use it as-is
+            // Otherwise, just append the filename
+            if (imageName.includes("/")) {
+              // Image path is relative to the file directory
+              const imagePathParts = imageName.split("/")
+              const imagePathSlug = imagePathParts.map(part => 
+                simplifySlug(slugifyFilePath(part as FilePath))
+              ).join("/")
+              imagePath = `/${dirSlug}/${imagePathSlug}`
+            } else {
+              // Just a filename, append directly
+              imagePath = `/${dirSlug}/${imageName}`
+            }
           } else {
-            imagePath = `/${imageName}`
+            // File is in root, image is relative to root
+            if (imageName.includes("/")) {
+              const imagePathParts = imageName.split("/")
+              const imagePathSlug = imagePathParts.map(part => 
+                simplifySlug(slugifyFilePath(part as FilePath))
+              ).join("/")
+              imagePath = `/${imagePathSlug}`
+            } else {
+              imagePath = `/${imageName}`
+            }
           }
           const aspectRatio = view.imageAspectRatio || 0.8
           imageHtml = `<div class="base-card-image" style="aspect-ratio: ${aspectRatio};">
