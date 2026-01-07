@@ -1,8 +1,9 @@
 import { QuartzTransformerPlugin } from "../types"
 import { Root, Html } from "mdast"
+import { Element } from "hast"
 import { visit } from "unist-util-visit"
 import { readFileSync, existsSync } from "fs"
-import { join } from "path"
+import { join, basename } from "path"
 import matter from "gray-matter"
 import yaml from "js-yaml"
 import { FilePath, slugifyFilePath, simplifySlug } from "../../util/path"
@@ -90,8 +91,9 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
           return (tree: Root, file) => {
             visit(tree, "html", (node: Html) => {
               // Look for transclude blocks that reference .base files
+              // Match both with and without closing tag (since it might be self-closing or incomplete)
               const transcludeMatch = node.value.match(
-                /<blockquote class="transclude".*?data-url="([^"]+\.base)"[^>]*>/,
+                /<blockquote[^>]*class="transclude"[^>]*data-url="([^"]+\.base)"[^>]*>/i,
               )
               if (transcludeMatch) {
                 const baseFilePath = transcludeMatch[1]
@@ -586,10 +588,15 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
                         }
                       }
 
-                      node.value = node.value.replace(
-                        /<blockquote class="transclude".*?data-url="[^"]+\.base"[^>]*>.*?<\/blockquote>/s,
-                        tableHtml,
-                      )
+                      // Replace the entire transclude block (handle both self-closing and with closing tag)
+                      const transcludeRegex = /<blockquote[^>]*class="transclude"[^>]*data-url="[^"]+\.base"[^>]*>.*?<\/blockquote>/is
+                      if (transcludeRegex.test(node.value)) {
+                        node.value = node.value.replace(transcludeRegex, tableHtml)
+                      } else {
+                        // Try self-closing or incomplete blockquote
+                        const selfClosingRegex = /<blockquote[^>]*class="transclude"[^>]*data-url="[^"]+\.base"[^>]*\/?>/i
+                        node.value = node.value.replace(selfClosingRegex, tableHtml)
+                      }
                     }
                   }
                 } catch (err) {
