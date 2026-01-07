@@ -318,20 +318,20 @@ function processBaseFile(
         const imageProp = view.image.startsWith("note.") ? view.image.slice(5) : view.image
         const imageName = f.frontmatter?.[imageProp]
         if (imageName) {
-          // imageName might be just a filename or include a relative path (e.g., "images/photo.jpg")
           // Remove quotes if present
           const cleanImageName = imageName.replace(/^["']|["']$/g, "")
+          // Build the full path to the image relative to the markdown file
           const fileDir = f.path.substring(0, f.path.lastIndexOf("/"))
-          let imagePath: string
+          let imageRelativePath: string
           if (fileDir) {
-            const dirSlug = simplifySlug(slugifyFilePath(fileDir as FilePath))
-            // If imageName includes a path (like "images/photo.jpg"), preserve it
-            // Don't slugify the image filename or subdirectory names - they should match the actual file structure
-            imagePath = `/${dirSlug}/${cleanImageName}`
+            // Image is relative to the file's directory
+            imageRelativePath = `${fileDir}/${cleanImageName}`
           } else {
             // File is in root, image is relative to root
-            imagePath = `/${cleanImageName}`
+            imageRelativePath = cleanImageName
           }
+          // Slugify the entire path (matching how Assets plugin handles it)
+          const imagePath = `/${simplifySlug(slugifyFilePath(imageRelativePath as FilePath))}`
           const aspectRatio = view.imageAspectRatio || 0.8
           imageHtml = `<div class="base-card-image" style="aspect-ratio: ${aspectRatio};">
             <img src="${imagePath}" alt="${title}" />
