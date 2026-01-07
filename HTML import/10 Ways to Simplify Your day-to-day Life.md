@@ -1,23 +1,13 @@
 ---
 coverImage: images/1*mjnaJSgyQeHGkHbyuo8iXw.png
-title: ''
-date: ''
-lastmod: ''
+title: 10 Ways to Simplify Your day-to-day Life
+date: ""
+lastmod: ""
 tags: []
-description: ''
+description: ""
 publish: true
 categories: []
 ---
- 
-
-# 10 Ways to Simplify Your day-to-day Life
-
-Between work, school, kids, friends, hobbies, side hustles, and trying to just enjoy life, there are a lot of not-so-fun activities that…
-
----
-
-### 10 Ways to Simplify Your day-to-day Life
-
 Between work, school, kids, friends, hobbies, side hustles, and trying to just enjoy life, there are a lot of not-so-fun activities that pull us away from something more important. These are 10 ways to simplify your daily routine so that cleaning, cooking, and getting ready doesn’t take so much time.
 
 ![](1*mjnaJSgyQeHGkHbyuo8iXw.png)

@@ -1,23 +1,15 @@
 ---
-title: How to Meal Plan for an Entire Month &amp; Save Money on Groceries
-date: '2018-03-02'
+title: How to Meal Plan for an Entire Month & Save Money on Groceries
+date: 2018-03-02
 coverImage: images/1*ihpQTAjYQvSDFOXXLwXRLQ.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
-  - ''
+  - ""
 tags:
-  - ''
-description: ''
+  - ""
+description: ""
 publish: true
 ---
-# How to Meal Plan for an Entire Month & Save Money on Groceries
-
-We plan meals 90 days in advance and only spend an average of $500 for a family of 4. Here’s exactly how we do it and how you can too.
-
----
-
-### How to Meal Plan for an Entire Month & Save Money on Groceries
-
 When my husband & I started our debt-free journey, the first place we knew we had to cut back was food. It was just the two of us, but we were spending anywhere between $900-$1500 on meals each month. Yikes. Most of that was because of morning coffee, buying lunch, and going out to dinner during the weekend.
 
 We decided to cut back, a lot, and since then we’ve gotten our bill down to around $500 every month after adding two kids to the mix. Our trick is to plan our meals out an entire month (up to three months) in advance and bulk-buy the ingredients. Today I’ll be walking you through the entire process step-by-step so that you can do it too!

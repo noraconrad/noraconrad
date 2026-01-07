@@ -10,12 +10,6 @@ tags:
 description: ''
 publish: true
 ---
-Time tracking isn’t a new idea, but it’s a great productivity trick that many people haven’t tried yet. I decided to try time tracking for…
-
----
-
-### How Time Tracking Can Boost Your Productivity
-
 Time tracking isn’t a new idea, but it’s a great productivity trick that many people haven’t tried yet. I decided to try time tracking for one month and see if it helped me be more productive. These are my results and some tips to help you get started and try this experiment for yourself.
 
 ![](1*IlLEd_CmZk3RGvKZnVQG-g.png)

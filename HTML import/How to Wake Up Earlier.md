@@ -1,23 +1,13 @@
 ---
-title: How to Wake Up Earlier &amp; Why You’ll Love It
-date: '2018-03-30'
+title: How to Wake Up Earlier & Why You’ll Love It
+date: 2018-03-30
 coverImage: images/1*McPV3XR0qcev1Jurc7uobQ.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
-  - ''
 tags:
-  - ''
-description: ''
+description: ""
 publish: true
 ---
-# How to Wake Up Earlier & Why You’ll Love It
-
-Some of you might already know this, but I wake up at 4 am every weekday and for over a year, I woke up at 3 am.
-
----
-
-### How to Wake Up Earlier & Why You’ll Love It
-
 This is one of my most requested blog posts of all time. Some of you might already know this, but I wake up at 4 am every weekday and for almost a year I was waking up at 3 am. This seems crazy — I know, trust me. I was a night owl for my entire childhood, but after college, I switched things up and I will never go back. Here’s how I wake up early every single day and why I love doing it. Who knows… you just might want to try it too.
 
 ![](1*McPV3XR0qcev1Jurc7uobQ.png)
