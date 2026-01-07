@@ -70,6 +70,15 @@ export const BaseFiles: QuartzTransformerPlugin = () => {
             baseFiles.set(slug, data)
             // Store without .base extension for lookup
             baseFiles.set(baseFilePath.replace(/\.base$/, ""), data)
+            // Store by filename only (for root-level files like "Untitled.base")
+            const fileName = baseFilePath.split("/").pop() || baseFilePath
+            if (fileName !== baseFilePath) {
+              baseFiles.set(fileName, data)
+              baseFiles.set(fileName.replace(/\.base$/, ""), data)
+            }
+            // Store lowercase versions for case-insensitive lookup
+            baseFiles.set(baseFilePath.toLowerCase(), data)
+            baseFiles.set(slug.toLowerCase(), data)
           }
         } catch (err) {
           console.warn(`Failed to load .base file ${baseFilePath}:`, err)
