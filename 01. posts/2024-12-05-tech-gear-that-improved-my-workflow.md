@@ -1,7 +1,7 @@
 ---
 title: "Tech Gear that Improved My Workflow"
 date: 2024-12-05
-coverImage: "img.png"
+coverImage: "images/Tech-Gear-Workflow-Edit-Post.png"
 lastmod: 2026-01-06
 tags:
   - posts

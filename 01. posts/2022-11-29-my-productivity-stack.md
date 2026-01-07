@@ -1,20 +1,23 @@
 ---
-title: "My Productivity Stack"
-date: 2022-11-29
-tags: 
-  - posts
+title: "Invite sent! You can delete this comment if you prefer to keep your email private :)"
+date: "2022-11-29"
+coverImage: "https://cdn-images-1.medium.com/max/800/1*N7t8BvUE_Xi8x8pvRQDVLA.png"
 lastmod: 2026-01-06
-description: 
-publish: true
 categories:
-  - productivity
+  - ""
+tags:
+  - ""
+description: ""
+publish: true
 ---
+
+### My Productivity Stack
 
 I’ve been on the hunt over the last few months for pieces to my productivity puzzle. I have a strange combo of apps and tools I use for work because I’m a content creator and have a regular office job as well. I try to find apps that can work with BOTH positions and make that transition easier to make, but as I’ve begun accepting that not every app will work for both jobs, I’ve become a lot happier with my setup.
 
 Today I want to share the tools I currently use as a content creator and what tools I use as a logistics account manager (and what I still use for both)
 
-![](images/1*N7t8BvUE_Xi8x8pvRQDVLA.png)
+![](https://cdn-images-1.medium.com/max/800/1*N7t8BvUE_Xi8x8pvRQDVLA.png)
 
 ### All-purpose apps
 
@@ -24,19 +27,19 @@ I use google’s business suite for both my day job and business accounts. I als
 
 #### SideKick Browser
 
-This is a newer addition to my stack and one I gladly pay for every month. [Sidekick](https://join.meetsidekick.com/uszdi) is a super clean browser that makes it incredibly easy for me to switch between multiple accounts, set groups of tabs, and have all the classic google chrome extensions in one browser. It’s freaking fast and has a beautifully designed setup.
+This is a newer addition to my stack and one I gladly pay for every month. [Sidekick](https://join.meetsidekick.com/uszdi) is a super clean browser that makes it incredibly easy for me to switch between multiple accounts, set groups of tabs, and have all the classic google chrome extensions in one browser. It’s freaking fast and has a beautifully designed setup.
 
 #### Raycast
 
-I recently replaced Alfred with this app because [Raycast](https://www.raycast.com/) feels like Alfred’s updated sibling. All the functionality I need is built into Raycast but it has a much better onboarding process. If you’ve downloaded Alfred but never found yourself using it, this might be a really great app to check out for your Mac.
+I recently replaced Alfred with this app because [Raycast](https://www.raycast.com/) feels like Alfred’s updated sibling. All the functionality I need is built into Raycast but it has a much better onboarding process. If you’ve downloaded Alfred but never found yourself using it, this might be a really great app to check out for your Mac.
 
 #### Alt Tab
 
-[This](https://alt-tab-macos.netlify.app/) is my go-to for switching tabs and windows quickly on my Mac. I have one 30" curved monitor, so I try to keep my screen clear of clutter and focus on one thing at a time. However, this simple app makes it super easy to switch between views without using my mouse.
+[This](https://alt-tab-macos.netlify.app/) is my go-to for switching tabs and windows quickly on my Mac. I have one 30" curved monitor, so I try to keep my screen clear of clutter and focus on one thing at a time. However, this simple app makes it super easy to switch between views without using my mouse.
 
 #### Dropzone
 
-This might be one of my most used apps that I never knew I needed. [Dropzone](https://aptonic.com/) allows you to download, move, copy and send files in seconds without having to navigate through folders to find what you need. I also use it to resize images, shorten URLs, upload my videos to YouTube, and much more.
+This might be one of my most used apps that I never knew I needed. [Dropzone](https://aptonic.com/) allows you to download, move, copy and send files in seconds without having to navigate through folders to find what you need. I also use it to resize images, shorten URLs, upload my videos to YouTube, and much more.
 
 #### Rocket
 
@@ -66,15 +69,15 @@ Need I say more? Medium is such a clean and easy platform that supports writers 
 
 #### Podia
 
-I LOVE PODIA. I wrote about them [here](https://blog.noraconrad.com/podia-takes-on-yet-another-role-7250e624b3a7) and [here](https://blog.noraconrad.com/why-podia-is-my-favorite-host-for-courses-445398566ac8) but if you’re not familiar, I use this to host my courses, products, newsletter, and recently, my website. Podia has some of the best customer services of all time and its resources are unmatched when it comes to supporting creators and helping them thrive. I adore this company.
+I LOVE PODIA. I wrote about them [here](https://blog.noraconrad.com/podia-takes-on-yet-another-role-7250e624b3a7) and [here](https://blog.noraconrad.com/why-podia-is-my-favorite-host-for-courses-445398566ac8) but if you’re not familiar, I use this to host my courses, products, newsletter, and recently, my website. Podia has some of the best customer services of all time and its resources are unmatched when it comes to supporting creators and helping them thrive. I adore this company.
 
 #### TubeBuddy
 
-This is an absolutely vital piece of planning content, posting my videos, and generating good tags for my YouTube channel. I have been using [TubeBuddy](https://www.tubebuddy.com/noraconrad) for YEARS and although I know there are a few options like this, I’ve never had any reason to switch.
+This is an absolutely vital piece of planning content, posting my videos, and generating good tags for my YouTube channel. I have been using [TubeBuddy](https://www.tubebuddy.com/noraconrad) for YEARS and although I know there are a few options like this, I’ve never had any reason to switch.
 
 #### Cleanshot
 
-This is the app I use to film my videos and take screenshots — but it’s just SO well designed and works so well with Raycast that I paid for the app without hesitation. Matt with A Better Computer made a great [video](https://www.youtube.com/watch?v=R1ZJk1Qci6Q) about this if you need a deeper look.
+This is the app I use to film my videos and take screenshots — but it’s just SO well designed and works so well with Raycast that I paid for the app without hesitation. Matt with A Better Computer made a great [video](https://www.youtube.com/watch?v=R1ZJk1Qci6Q) about this if you need a deeper look.
 
 #### Elgato Stream Deck
 
@@ -97,10 +100,3 @@ We process anywhere from 50 to 2000 orders per day, and we needed a system that 
 This is a freemium app that we use to create training modules for our team and for our clients. It takes screenshots of your workflow and then lets you organize it into step-by-step slides in just a few clicks. It’s super easy to use and we rely on it heavily to onboard new people.
 
 **_What’s in your app stack that you couldn’t live without? I’d love some recommendations for an all-in-one planner app (tasks, notes, and calendar), so leave them in the comments if you’ve got anything good)._**
-
-* * *
-
-
-__
-
-__

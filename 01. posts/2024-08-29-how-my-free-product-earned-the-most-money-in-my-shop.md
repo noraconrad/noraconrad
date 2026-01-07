@@ -1,7 +1,7 @@
 ---
 title: "How My Free Product Earned the Most Money in My Shop"
 date: 2024-08-29
-coverImage: "img.jpg"
+coverImage: "images/1*a1BT9O2XB9bZpZR-addqxA.png"
 lastmod: 2026-01-06
 tags:
   - posts

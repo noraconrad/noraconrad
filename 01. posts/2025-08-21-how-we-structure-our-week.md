@@ -1,7 +1,7 @@
 ---
 title: "How We Structure Our Week Working Full-Time With Two Young Kids"
 date: 2025-08-21
-coverImage: "IMG_4351.JPG"
+coverImage: "images/IMG_4351.JPG"
 lastmod: 2026-01-06
 tags:
   - posts

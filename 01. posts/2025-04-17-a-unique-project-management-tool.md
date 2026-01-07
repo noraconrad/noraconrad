@@ -1,7 +1,7 @@
 ---
 title: "A Unique Project Management Tool"
 date: 2025-04-17
-coverImage: "img.jpg"
+coverImage: "images/Walter-Randlehoff-Lifestyle-Photo-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

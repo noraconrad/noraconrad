@@ -1,7 +1,7 @@
 ---
 title: "My secret to making ANY productivity app work for you"
 date: 2024-02-14
-coverImage: "img.jpg"
+coverImage: "images/Business-Work-Image-1-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

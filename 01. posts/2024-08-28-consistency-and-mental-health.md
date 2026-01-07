@@ -1,7 +1,7 @@
 ---
 title: "Consistency and mental health"
 date: 2024-08-28
-coverImage: "img.jpg"
+coverImage: "images/1*x-OQFsFCDdBL5YQTEULwuw.png"
 lastmod: 2026-01-06
 tags:
   - posts

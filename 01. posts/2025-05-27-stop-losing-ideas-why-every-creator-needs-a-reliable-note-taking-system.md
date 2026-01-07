@@ -1,7 +1,7 @@
 ---
 title: "Stop Losing Ideas: Why Every Creator Needs a Reliable Note-Taking System"
 date: 2025-05-27
-coverImage: "img.jpg"
+coverImage: "images/Stephanie-Berbec-Unsplash-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

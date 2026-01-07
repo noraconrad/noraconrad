@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Creative Workflow"
 date: 2025-03-25
-coverImage: "img.jpg"
+coverImage: "images/Home-Office-Photo-copy-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

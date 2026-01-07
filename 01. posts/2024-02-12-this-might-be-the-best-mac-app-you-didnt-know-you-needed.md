@@ -1,7 +1,7 @@
 ---
 title: "This might be the best Mac app you didn’t know you needed."
 date: 2024-02-12
-coverImage: "img.jpg"
+coverImage: "images/Work-from-Anywhere-Photo-1-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

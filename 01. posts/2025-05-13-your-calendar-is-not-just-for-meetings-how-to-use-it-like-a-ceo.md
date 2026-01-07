@@ -1,7 +1,7 @@
 ---
 title: "Your Calendar Is Not Just for Meetings: How to Use It Like a CEO"
 date: 2025-05-13
-coverImage: "img.jpg"
+coverImage: "images/Calendar-Picture-Unsplash-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

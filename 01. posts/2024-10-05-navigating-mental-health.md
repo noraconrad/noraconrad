@@ -1,7 +1,7 @@
 ---
 title: "Navigating Mental Health"
 date: 2024-10-05
-coverImage: "img.jpg"
+coverImage: "images/Navigating-Mental-Health-Edit-Post.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

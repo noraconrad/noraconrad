@@ -1,7 +1,7 @@
 ---
 title: "10 Unspoken Rules of Adulting You Can Not Afford to Ignore"
 date: 2024-01-02
-coverImage: "img.jpg"
+coverImage: "images/Daiga-Ellaby-Photo-29-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

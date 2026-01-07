@@ -1,7 +1,7 @@
 ---
 title: "I Audited My 15+ App Subscriptions and saved almost $3,000 a year"
 date: 2025-08-29
-coverImage: "Modern+Home+Office+Setup-7xOA3vsYk4.jpg"
+coverImage: "images/App+Subscriptions+Audit+Aug+2025.webp"
 lastmod: 2026-01-06
 tags:
   - posts

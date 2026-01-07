@@ -9,7 +9,7 @@ tags:
   - mastering-chaos
   - lesson
 stage: "03"
-lesson: ""
+lesson: "00"
 ---
 
 # Week 03: Decision Elimination

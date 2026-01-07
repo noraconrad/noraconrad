@@ -1,11 +1,11 @@
 ---
-title: "Becoming a Proverbs 31 Woman"
+title: Becoming a Proverbs 31 Woman
 date: 2014-08-06
-coverImage: "img.jpg"
+coverImage: images/Daiga-Ellaby-Photo-5-scaled.jpg
 lastmod: 2026-01-06
 tags:
   - posts
-description: 
+description:
 publish: true
 categories:
   - faith

@@ -9,7 +9,7 @@ description:
 publish: true
 categories:
   - notion
-Price: 15
+Price: $15.00
 ---
 
 Reports Dashboard for Monthly and Yearly totals

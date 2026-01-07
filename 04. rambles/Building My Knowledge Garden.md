@@ -32,14 +32,14 @@ After starting a full-time job, I realized I don't need a content machine, I nee
 
 ## Phase 2: Content Migration
 
-- [ ] Export all blog posts from Squarespace and convert to Markdown
-- [ ] Export/migrate posts from Medium
-- [ ] Bulk add YAML frontmatter to all posts (I'll script this)
-- [ ] Organize posts into `/Posts` folder with consistent naming
-- [ ] Add tags to each post in frontmatter (e.g., `tags: [productivity, small-business]`)
-- [ ] Move template products into `/Template` folder with YAML metadata
-- [ ] Move curriculum content into `/Curriculums` folder
-- [ ] Test Quartz build locally
+- [x] Export all blog posts from Squarespace and convert to Markdown
+- [x] Export/migrate posts from Medium
+- [x] Bulk add YAML frontmatter to all posts (I'll script this)
+- [x] Organize posts into `/Posts` folder with consistent naming
+- [x] Add tags to each post in frontmatter (e.g., `tags: [productivity, small-business]`)
+- [x] Move template products into `/Template` folder with YAML metadata
+- [x] Move curriculum content into `/Curriculums` folder
+- [x] Test Quartz build locally
 - [ ] Gradually clean up/update old posts as time allows (new images, updated links, refreshed context)
 
 ## Phase 3: Site Architecture & Features
@@ -50,23 +50,24 @@ After starting a full-time job, I realized I don't need a content machine, I nee
     - Affiliate links
     - Paid templates (Lemonsqueezy/Stripe links)
     - Donate button (Ko-fi or similar)
-- [ ] Add social sidebar to Quartz layout:
+- [x] Add social sidebar to Quartz layout:
     - YouTube
     - LinkedIn
     - Pinterest
     - Email signup (Kit)
-- [ ] Set up Kit email signup form (embed on Index or dedicated page)
+- [x] Set up Kit email signup form (embed on Index or dedicated page)
 - [ ] Configure Lemonsqueezy or Stripe for paid template sales
-- [ ] Set up tag-based navigation (so people can browse by topic rather than chronological feed)
+- [x] Set up tag-based navigation (so people can browse by topic rather than chronological feed)
 
 ## Phase 4: Polish & Launch
 
 - [ ] Test all links work (internal and external)
-- [ ] Verify email signup connects to Kit properly
+	- [ ] [[ultimate productivity bundle]]
+- [x] Verify email signup connects to Kit properly
 - [ ] Configure Quartz settings (site title, description, social links, favicon)
 - [ ] Set up and route my domain (noraconrad.com)
 - [ ] Performance testing and load time optimization
-- [ ] Push to production on Vercel
+- [x] Push to production on Vercel
 
 ## Bonus: Building in Public
 
@@ -124,7 +125,3 @@ A knowledge garden is different. It's:
 - **Text-first** (writing ages better than videos; it's searchable, quotable, linkable)
 
 This mirrors the philosophy of a "digital garden" - intentional, slowly grown, occasionally pruned, always evolving.
-
----
-
-**Last updated:** January 6, 2026 **Status:** Planning Phase 1

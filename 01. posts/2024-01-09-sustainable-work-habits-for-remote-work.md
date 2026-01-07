@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Work Habits for Remote Work"
 date: 2024-01-09
-coverImage: "img.jpg"
+coverImage: "images/Work-from-Anywhere-Photo-3-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

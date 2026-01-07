@@ -1,7 +1,7 @@
 ---
 title: "Spending $30 per month on… email?"
 date: 2023-12-14
-coverImage: "img.jpg"
+coverImage: "images/Productivity-Desk-Photo-3-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

@@ -3,7 +3,7 @@ title: "My Goal Planning Method for 2026"
 date: 2025-12-16
 tags: 
   - posts
-coverImage: "Cozy+Home+Workspace.jpg"
+coverImage: ""
 lastmod: 2026-01-06
 description: 
 publish: true

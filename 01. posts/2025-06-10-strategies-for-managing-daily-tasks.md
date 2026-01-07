@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Managing Daily Tasks"
 date: 2025-06-10
-coverImage: "img.jpg"
+coverImage: "images/Task-Picture-from-Unsplash-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

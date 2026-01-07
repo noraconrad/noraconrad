@@ -1,7 +1,7 @@
 ---
 title: "The Tools and Apps Worth Investing In"
 date: 2024-08-27
-coverImage: "img.jpg"
+coverImage: "images/1*4gG_XlbBCOZP6EqS36Riaw.png"
 lastmod: 2026-01-06
 tags:
   - posts

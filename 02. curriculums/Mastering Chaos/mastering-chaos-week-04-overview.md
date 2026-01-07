@@ -9,7 +9,7 @@ tags:
   - mastering-chaos
   - lesson
 stage: "04"
-lesson: ""
+lesson: "00"
 ---
 
 # Week 04: Content Management

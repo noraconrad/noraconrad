@@ -1,7 +1,7 @@
 ---
 title: "Benefits of Quarterly Goal Planning"
 date: 2024-04-03
-coverImage: "img.jpg"
+coverImage: "images/Warm-and-Muted-Vol-3-12-scaled.jpg"
 lastmod: 2026-01-06
 tags:
   - posts

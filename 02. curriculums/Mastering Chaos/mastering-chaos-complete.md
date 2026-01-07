@@ -1,15 +1,15 @@
 ---
 title: "Mastering Chaos: Complete"
 date: 2026-01-06
-description: "You did it. The complete transformation. Your next steps."
+description: You did it. The complete transformation. Your next steps.
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "complete"
-lesson: "final"
+stage: "05"
+lesson: "00"
 ---
 
 # Mastering Chaos: Complete

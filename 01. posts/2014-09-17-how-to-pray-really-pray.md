@@ -1,13 +1,13 @@
 ---
-title: "How to Pray — Really pray"
+title: How to Pray — Really pray
 date: 2014-09-17
-coverImage: "img.jpg"
+coverImage: images/Daiga-Ellaby-Photo-2-scaled.jpg
 lastmod: 2026-01-06
 tags:
   - posts
 categories:
   - faith
-description: 
+description:
 publish: true
 ---
 

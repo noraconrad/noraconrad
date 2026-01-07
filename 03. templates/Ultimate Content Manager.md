@@ -10,7 +10,7 @@ description:
 publish: true
 categories:
   - notion
-Price: 24
+Price: 24.00
 ---
 
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.tella.tv/video/clqehos6y007u0fl5errz0c1w/embed?b=0&title=0&a=1&loop=0&t=0&muted=0&wt=0" allowfullscreen allowtransparency=""></iframe>

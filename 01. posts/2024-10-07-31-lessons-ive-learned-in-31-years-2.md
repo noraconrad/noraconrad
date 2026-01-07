@@ -1,7 +1,7 @@
 ---
 title: "31 Lessons I’ve Learned in 31 Years"
 date: 2024-10-07
-coverImage: "img.jpg"
+coverImage: ""
 lastmod: 2026-01-06
 tags:
   - posts
