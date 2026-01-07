@@ -64,6 +64,9 @@ type MarkdownFile = {
 }
 
 function loadBaseFile(ctx: BuildCtx, baseFileName: string): BaseFile | null {
+  // Normalize the baseFileName (remove hyphens, convert to lowercase for comparison)
+  const normalizedSearch = baseFileName.toLowerCase().replace(/-/g, "")
+  
   // Try to find the .base file
   const possiblePaths = [
     baseFileName,
@@ -83,15 +86,37 @@ function loadBaseFile(ctx: BuildCtx, baseFileName: string): BaseFile | null {
     }
   }
 
-  // Also try to find in ctx.allFiles
-  const baseFilePaths = ctx.allFiles.filter((fp) => 
-    fp.endsWith(".base") && (
-      fp.includes(baseFileName) || 
-      fp.endsWith(baseFileName + ".base") ||
-      fp.split("/").pop() === baseFileName ||
-      fp.split("/").pop() === baseFileName + ".base"
-    )
-  )
+  // Also try to find in ctx.allFiles with better matching
+  const baseFilePaths = ctx.allFiles.filter((fp) => {
+    if (!fp.endsWith(".base")) return false
+    
+    const fileName = fp.split("/").pop() || ""
+    const fileNameWithoutExt = fileName.replace(/\.base$/, "")
+    
+    // Exact matches
+    if (fileNameWithoutExt === baseFileName || fileName === baseFileName + ".base") {
+      return true
+    }
+    
+    // Case-insensitive match
+    if (fileNameWithoutExt.toLowerCase() === baseFileName.toLowerCase()) {
+      return true
+    }
+    
+    // Normalized match (handle hyphens vs spaces)
+    const normalizedFileName = fileNameWithoutExt.toLowerCase().replace(/-/g, "").replace(/\s+/g, "")
+    if (normalizedFileName === normalizedSearch) {
+      return true
+    }
+    
+    // Contains match (for partial matches)
+    if (fileNameWithoutExt.toLowerCase().includes(baseFileName.toLowerCase()) ||
+        baseFileName.toLowerCase().includes(fileNameWithoutExt.toLowerCase())) {
+      return true
+    }
+    
+    return false
+  })
 
   for (const baseFilePath of baseFilePaths) {
     try {
