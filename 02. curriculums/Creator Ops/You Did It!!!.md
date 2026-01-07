@@ -6,7 +6,6 @@ tags:
   - creator-ops
   - lesson
   - systemops
-draft: false
 publish: true
 stage: "7"
 lesson: "0"

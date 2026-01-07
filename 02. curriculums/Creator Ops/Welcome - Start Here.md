@@ -9,7 +9,6 @@ tags:
   - systemops
 stage: "0"
 lesson: "0"
-draft: false
 publish: true
 ---
 

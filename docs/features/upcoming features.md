@@ -1,7 +1,3 @@
----
-draft: true
----
-
 ## misc backlog
 
 - static dead link detection
