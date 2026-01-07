@@ -69,7 +69,7 @@ const config: QuartzConfig = {
         enableYouTubeEmbed: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.BaseFiles(), // Run after OFM to process transclude blocks
+      Plugin.BaseFilesComponent(), // Simple transformer to convert transclude to component div
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
