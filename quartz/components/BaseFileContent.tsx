@@ -225,9 +225,14 @@ function processBaseFile(
       : view.groupBy.property
 
     for (const f of filteredFiles) {
-      const groupKey = Array.isArray(f.frontmatter?.[groupProp])
-        ? f.frontmatter[groupProp][0]
-        : f.frontmatter?.[groupProp] ?? "Other"
+      let groupKey: string = "Other"
+      if (Array.isArray(f.frontmatter?.[groupProp])) {
+        const firstValue = f.frontmatter[groupProp][0]
+        groupKey = firstValue != null ? String(firstValue) : "Other"
+      } else if (f.frontmatter?.[groupProp] != null) {
+        groupKey = String(f.frontmatter[groupProp])
+      }
+      
       if (!groupedFiles.has(groupKey)) {
         groupedFiles.set(groupKey, [])
       }
