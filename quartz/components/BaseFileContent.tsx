@@ -1,11 +1,12 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { readFileSync, existsSync } from "fs"
 import { join } from "path"
 import yaml from "js-yaml"
-import { FilePath, slugifyFilePath, simplifySlug } from "../../util/path"
-import { BuildCtx } from "../../util/ctx"
-import style from "../styles/listPage.scss"
-import { concatenateResources } from "../../util/resources"
+import { FilePath, slugifyFilePath, simplifySlug } from "../util/path"
+import { BuildCtx } from "../util/ctx"
+import { QuartzPluginData } from "../plugins/vfile"
+import style from "./styles/listPage.scss"
+import { concatenateResources } from "../util/resources"
 
 interface BaseFileView {
   type: string
