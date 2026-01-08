@@ -8,6 +8,7 @@ import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
+import PostGrid from "./PostGrid"
 
 interface TagContentOptions {
   sort?: SortFn
@@ -114,6 +115,19 @@ export default ((opts?: Partial<TagContentOptions>) => {
         allFiles: pages,
       }
 
+      // Use PostGrid for "posts" tag
+      if (tag.toLowerCase() === "posts" || tag.toLowerCase().endsWith("/posts")) {
+        return (
+          <div class="popover-hint">
+            <article class={classes}>{content}</article>
+            <div class="page-listing">
+              <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+              <PostGrid folder="01. posts" tag="posts" sortBy="date" sortDirection="desc" {...props} />
+            </div>
+          </div>
+        )
+      }
+
       return (
         <div class="popover-hint">
           <article class={classes}>{content}</article>
@@ -128,6 +142,8 @@ export default ((opts?: Partial<TagContentOptions>) => {
     }
   }
 
-  TagContent.css = concatenateResources(style, PageList.css)
+  // Get PostGrid CSS by creating an instance
+  const PostGridInstance = PostGrid({ folder: "01. posts", tag: "posts" })
+  TagContent.css = concatenateResources(style, PageList.css, PostGridInstance.css)
   return TagContent
 }) satisfies QuartzComponentConstructor

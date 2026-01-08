@@ -4,7 +4,7 @@ publish: true
 ---
 An archive of blog posts in alphabetical order:
 
-[[$90000 In Side Hustle Income]]
+[[90000 In Side Hustle Income]]
 [[10 Self Improvement Habits to Start this year]]
 [[10 Unspoken Rules of Adulting You Can Not Afford to Ignore]]
 [[10 Ways to Simplify Your day-to-day Life]]
@@ -59,7 +59,7 @@ An archive of blog posts in alphabetical order:
 [[How to Wake Up Earlier]]
 [[How we made a safe play space for our young kids]]
 [[How We Structure Our Week Working Full-Time With Two Young Kids]]
-[[I Audited My 15+ App Subscriptions and saved almost $3,000 a year]]
+[[I Audited My 15+ App Subscriptions and saved almost 3,000 a year]]
 [[I finally found my perfect “Notes” app]]
 [[I know I said I found my perfect notes app, but…]]
 [[I read a book every day for 30 days — here’s what I learned]]
