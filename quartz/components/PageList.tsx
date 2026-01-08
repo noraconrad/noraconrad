@@ -58,8 +58,17 @@ type Props = {
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
+  // Debug: Always show something to verify component is rendering
   if (!allFiles || allFiles.length === 0) {
-    return <ul class="section-ul"></ul>
+    return (
+      <ul class="section-ul">
+        <li class="section-li">
+          <div class="section">
+            <p>DEBUG: PageList rendered but allFiles is empty or undefined</p>
+          </div>
+        </li>
+      </ul>
+    )
   }
 
   // Ensure we have valid files with slugs - be more permissive
