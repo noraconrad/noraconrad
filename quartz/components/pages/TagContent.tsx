@@ -114,6 +114,18 @@ export default ((opts?: Partial<TagContentOptions>) => {
         allFiles: pages,
       }
 
+      // Ensure we have pages to display
+      if (pages.length === 0) {
+        return (
+          <div class="popover-hint">
+            <article class={classes}>{content}</article>
+            <div class="page-listing">
+              <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: 0 })}</p>
+            </div>
+          </div>
+        )
+      }
+
       return (
         <div class="popover-hint">
           <article class={classes}>{content}</article>

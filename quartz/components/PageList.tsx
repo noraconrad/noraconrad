@@ -58,8 +58,12 @@ type Props = {
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
+  if (!allFiles || allFiles.length === 0) {
+    return <ul class="section-ul"></ul>
+  }
+
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
-  let list = allFiles.sort(sorter)
+  let list = [...allFiles].sort(sorter)
   if (limit) {
     list = list.slice(0, limit)
   }
@@ -67,7 +71,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   return (
     <ul class="section-ul">
       {list.map((page) => {
-        const title = page.frontmatter?.title
+        const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
         const tags = page.frontmatter?.tags ?? []
 
         return (
