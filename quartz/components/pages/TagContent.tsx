@@ -128,9 +128,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
         </div>
       )
     } else {
-      const pages = allPagesWithTag(tag).filter((file) => {
-        // Ensure file has all required properties for PageList
-        return file.slug && file.frontmatter && (file.frontmatter.title || file.slug)
+      let pages = allPagesWithTag(tag)
+      
+      // Filter out files that don't have required properties for PageList
+      pages = pages.filter((file) => {
+        return file && file.slug && file.frontmatter
       })
       
       const listProps = {
@@ -155,9 +157,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <article class={classes}>{content}</article>
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
-            <div>
-              <PageList {...listProps} sort={options?.sort} />
-            </div>
+            {pages.length > 0 && (
+              <div>
+                <PageList {...listProps} sort={options?.sort} />
+              </div>
+            )}
           </div>
         </div>
       )
