@@ -62,13 +62,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     return <ul class="section-ul"></ul>
   }
 
-  // Ensure we have valid files with slugs
+  // Ensure we have valid files with slugs - be more permissive
   const validFiles = allFiles.filter((file) => {
-    if (!file) return false
-    if (!file.slug) return false
-    // Ensure we have either a title or can derive one from slug
-    if (!file.frontmatter?.title && !file.slug) return false
-    return true
+    return file && file.slug
   })
   
   if (validFiles.length === 0) {
@@ -76,41 +72,84 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       <ul class="section-ul">
         <li class="section-li">
           <div class="section">
-            <p>No valid pages to display.</p>
+            <p>No valid pages to display. (allFiles length: {allFiles?.length || 0})</p>
           </div>
         </li>
       </ul>
     )
   }
 
+  // Create a safe sort function that handles errors
+  const safeSort = (a: QuartzPluginData, b: QuartzPluginData): number => {
+    try {
+      if (sort) {
+        return sort(a, b)
+      }
+      return byDateAndAlphabeticalFolderFirst(cfg)(a, b)
+    } catch (e) {
+      // If sorting fails, just compare by title
+      const aTitle = (a.frontmatter?.title || a.slug || "").toLowerCase()
+      const bTitle = (b.frontmatter?.title || b.slug || "").toLowerCase()
+      return aTitle.localeCompare(bTitle)
+    }
+  }
+
+  let list: QuartzPluginData[] = []
   try {
-    const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
-    let list = [...validFiles].sort(sorter)
+    list = [...validFiles].sort(safeSort)
     if (limit && limit > 0) {
       list = list.slice(0, limit)
     }
+  } catch (error) {
+    // If sorting completely fails, just use the original order
+    list = validFiles.slice(0, limit || validFiles.length)
+  }
 
+  if (list.length === 0) {
     return (
       <ul class="section-ul">
-        {list.map((page, index) => {
-          if (!page || !page.slug) return null
-          
-          const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
-          const tags = page.frontmatter?.tags ?? []
+        <li class="section-li">
+          <div class="section">
+            <p>List is empty after processing. (validFiles: {validFiles.length})</p>
+          </div>
+        </li>
+      </ul>
+    )
+  }
 
+  return (
+    <ul class="section-ul">
+      {list.map((page, index) => {
+        if (!page || !page.slug) {
           return (
-            <li key={page.slug || index} class="section-li">
+            <li key={`invalid-${index}`} class="section-li">
               <div class="section">
+                <p>Invalid page at index {index}</p>
+              </div>
+            </li>
+          )
+        }
+        
+        const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
+        const tags = page.frontmatter?.tags ?? []
+        const pageDate = page.dates ? getDate(cfg, page) : null
+
+        return (
+          <li key={page.slug || `page-${index}`} class="section-li">
+            <div class="section">
+              {pageDate && (
                 <p class="meta">
-                  {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
+                  <Date date={pageDate} locale={cfg.locale} />
                 </p>
-                <div class="desc">
-                  <h3>
-                    <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                      {title}
-                    </a>
-                  </h3>
-                </div>
+              )}
+              <div class="desc">
+                <h3>
+                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                    {title}
+                  </a>
+                </h3>
+              </div>
+              {tags.length > 0 && (
                 <ul class="tags">
                   {tags.map((tag, tagIndex) => (
                     <li key={tagIndex}>
@@ -123,36 +162,13 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                     </li>
                   ))}
                 </ul>
-              </div>
-            </li>
-          )
-        })}
-      </ul>
-    )
-  } catch (error) {
-    // Fallback if sorting fails
-    return (
-      <ul class="section-ul">
-        {validFiles.slice(0, limit || validFiles.length).map((page, index) => {
-          if (!page || !page.slug) return null
-          const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
-          return (
-            <li key={page.slug || index} class="section-li">
-              <div class="section">
-                <div class="desc">
-                  <h3>
-                    <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                      {title}
-                    </a>
-                  </h3>
-                </div>
-              </div>
-            </li>
-          )
-        })}
-      </ul>
-    )
-  }
+              )}
+            </div>
+          </li>
+        )
+      })}
+    </ul>
+  )
 }
 
 PageList.css = `
