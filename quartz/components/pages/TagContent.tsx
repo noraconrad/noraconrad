@@ -36,22 +36,36 @@ export default ((opts?: Partial<TagContentOptions>) => {
       // Normalize tag for matching
       const normalizedTag = tag.toLowerCase().trim()
       return allFiles.filter((file) => {
-        // Ensure file has required properties
-        if (!file.slug || !file.frontmatter) {
+        // Be very permissive - only exclude if file is completely missing
+        if (!file || !file.slug) {
           return false
         }
         
+        // Get tags from frontmatter - handle both array and single value
         const fileTags = file.frontmatter?.tags ?? []
         if (!fileTags || (Array.isArray(fileTags) && fileTags.length === 0)) {
           return false
         }
         
+        // Convert to array if it's a single value
         const tagArray = Array.isArray(fileTags) ? fileTags : [fileTags]
-        const allPrefixes = tagArray.flatMap((t: string) => {
+        
+        // Check if any tag matches (direct match or prefix match)
+        const hasMatchingTag = tagArray.some((t: string) => {
           const tagStr = String(t).trim()
-          return tagStr ? getAllSegmentPrefixes(tagStr) : []
+          if (!tagStr) return false
+          
+          // Direct match
+          if (tagStr.toLowerCase().trim() === normalizedTag) {
+            return true
+          }
+          
+          // Prefix match (for hierarchical tags like "category/subcategory")
+          const prefixes = getAllSegmentPrefixes(tagStr)
+          return prefixes.some((prefix: string) => prefix.toLowerCase().trim() === normalizedTag)
         })
-        return allPrefixes.some((t: string) => t.toLowerCase().trim() === normalizedTag)
+        
+        return hasMatchingTag
       })
     }
 
@@ -133,6 +147,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       // Filter out files that don't have required properties for PageList
       // Be very permissive - only exclude if file is null/undefined or slug is completely missing
       const originalCount = pages.length
+      const totalFilesCount = allFiles.length
       pages = pages.filter((file) => {
         if (!file) return false
         // Only require slug - frontmatter can be empty object
@@ -152,12 +167,24 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <article class={classes}>{content}</article>
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: originalCount })}</p>
-            <p style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
-              DEBUG: Found {originalCount} files with tag "{tag}", filtered to {pages.length} files with slugs.
-              {pages.length > 0 && pages.length < 5 && (
-                <span> Sample slugs: {pages.slice(0, 3).map(p => p.slug).join(", ")}</span>
-              )}
-            </p>
+            <div style="font-size: 0.85em; color: #666; margin: 1em 0; padding: 1em; background: #f5f5f5; border-radius: 4px;">
+              <p><strong>DEBUG INFO:</strong></p>
+              <ul style="margin: 0.5em 0; padding-left: 1.5em;">
+                <li>Tag being searched: "{tag}"</li>
+                <li>Total files in allFiles: {totalFilesCount}</li>
+                <li>Files matching tag: {originalCount}</li>
+                <li>Files after slug filter: {pages.length}</li>
+                {pages.length > 0 && pages.length < 10 && (
+                  <li>Sample slugs: {pages.slice(0, 5).map(p => p.slug).join(", ")}</li>
+                )}
+                {pages.length > 0 && (
+                  <li>First file has frontmatter: {pages[0].frontmatter ? "Yes" : "No"}</li>
+                )}
+                {pages.length > 0 && pages[0].frontmatter && (
+                  <li>First file tags: {JSON.stringify(pages[0].frontmatter.tags || [])}</li>
+                )}
+              </ul>
+            </div>
             <div>
               <PageList {...listProps} sort={options?.sort} />
             </div>
