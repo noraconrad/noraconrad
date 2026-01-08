@@ -199,10 +199,28 @@ export default ((opts?: Partial<TagContentOptions>) => {
     PageList.css,
     `
     /* Ensure popover-hint elements are visible when used as page content */
-    .page-listing .popover-hint,
+    /* Override any height restrictions on popover-hint when it's not inside a popover */
+    .center .popover-hint,
+    .page-listing,
     .popover-hint:not(.popover .popover-hint) {
       height: auto !important;
       min-height: auto !important;
+      max-height: none !important;
+      display: block !important;
+      visibility: visible !important;
+      overflow: visible !important;
+    }
+    
+    /* Ensure all children are visible too */
+    .popover-hint .page-listing,
+    .popover-hint article,
+    .popover-hint ul {
+      height: auto !important;
+      min-height: auto !important;
+      max-height: none !important;
+      display: block !important;
+      visibility: visible !important;
+      overflow: visible !important;
     }
     `
   )
