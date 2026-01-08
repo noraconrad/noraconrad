@@ -86,13 +86,15 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
-        {/* Datafast Analytics */}
-        <script
-          defer
-          data-website-id="dfid_HNyYxBGbqM2JgAKIL2EQe"
-          data-domain="noraconrad.com"
-          src="https://datafa.st/js/script.js"
-        ></script>
+        {/* Datafast Analytics - only load on production domains to avoid 403 errors on preview domains */}
+        {(cfg.baseUrl === "stephconrad.com" || cfg.baseUrl === "noraconrad.com") && (
+          <script
+            defer
+            data-website-id="dfid_HNyYxBGbqM2JgAKIL2EQe"
+            data-domain={cfg.baseUrl}
+            src="https://datafa.st/js/script.js"
+          ></script>
+        )}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
