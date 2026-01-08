@@ -131,10 +131,13 @@ export default ((opts?: Partial<TagContentOptions>) => {
       let pages = allPagesWithTag(tag)
       
       // Filter out files that don't have required properties for PageList
-      // Keep the original count for display, but filter for rendering
+      // Be very permissive - only exclude if file is null/undefined or slug is completely missing
       const originalCount = pages.length
       pages = pages.filter((file) => {
-        return file && file.slug && file.frontmatter
+        if (!file) return false
+        // Only require slug - frontmatter can be empty object
+        if (!file.slug || file.slug.trim() === "") return false
+        return true
       })
       
       const listProps = {
@@ -142,19 +145,22 @@ export default ((opts?: Partial<TagContentOptions>) => {
         allFiles: pages,
       }
 
-      // Use original count for display, but check filtered pages for rendering
+      // Always render PageList so we can see debug messages
+      // Use original count for display
       return (
         <div class="popover-hint">
           <article class={classes}>{content}</article>
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: originalCount })}</p>
-            {pages.length > 0 ? (
-              <div>
-                <PageList {...listProps} sort={options?.sort} />
-              </div>
-            ) : (
-              <p>No pages available to display.</p>
-            )}
+            <p style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
+              DEBUG: Found {originalCount} files with tag "{tag}", filtered to {pages.length} files with slugs.
+              {pages.length > 0 && pages.length < 5 && (
+                <span> Sample slugs: {pages.slice(0, 3).map(p => p.slug).join(", ")}</span>
+              )}
+            </p>
+            <div>
+              <PageList {...listProps} sort={options?.sort} />
+            </div>
           </div>
         </div>
       )
