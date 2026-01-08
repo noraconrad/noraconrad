@@ -63,9 +63,24 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   }
 
   // Ensure we have valid files with slugs
-  const validFiles = allFiles.filter((file) => file && file.slug)
+  const validFiles = allFiles.filter((file) => {
+    if (!file) return false
+    if (!file.slug) return false
+    // Ensure we have either a title or can derive one from slug
+    if (!file.frontmatter?.title && !file.slug) return false
+    return true
+  })
+  
   if (validFiles.length === 0) {
-    return <ul class="section-ul"></ul>
+    return (
+      <ul class="section-ul">
+        <li class="section-li">
+          <div class="section">
+            <p>No valid pages to display.</p>
+          </div>
+        </li>
+      </ul>
+    )
   }
 
   try {

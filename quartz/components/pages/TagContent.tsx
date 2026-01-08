@@ -131,6 +131,8 @@ export default ((opts?: Partial<TagContentOptions>) => {
       let pages = allPagesWithTag(tag)
       
       // Filter out files that don't have required properties for PageList
+      // Keep the original count for display, but filter for rendering
+      const originalCount = pages.length
       pages = pages.filter((file) => {
         return file && file.slug && file.frontmatter
       })
@@ -140,26 +142,19 @@ export default ((opts?: Partial<TagContentOptions>) => {
         allFiles: pages,
       }
 
-      // Ensure we have pages to display
-      if (pages.length === 0) {
-        return (
-          <div class="popover-hint">
-            <article class={classes}>{content}</article>
-            <div class="page-listing">
-              <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: 0 })}</p>
-            </div>
-          </div>
-        )
-      }
-
+      // Use original count for display, but check filtered pages for rendering
       return (
         <div class="popover-hint">
           <article class={classes}>{content}</article>
           <div class="page-listing">
-            <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
-            <div>
-              <PageList {...listProps} sort={options?.sort} />
-            </div>
+            <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: originalCount })}</p>
+            {pages.length > 0 ? (
+              <div>
+                <PageList {...listProps} sort={options?.sort} />
+              </div>
+            ) : (
+              <p>No pages available to display.</p>
+            )}
           </div>
         </div>
       )
