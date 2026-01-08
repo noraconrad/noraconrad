@@ -40,13 +40,13 @@ After starting a full-time job, I realized I don't need a content machine, I nee
 - [x] Move template products into `/Template` folder with YAML metadata
 - [x] Move curriculum content into `/Curriculums` folder
 - [x] Test Quartz build locally
-- [ ] Gradually clean up/update old posts as time allows (new images, updated links, refreshed context)
+- [x] Gradually clean up/update old posts as time allows (new images, updated links, refreshed context)
 
 ## Phase 3: Site Architecture & Features
 
 - [x] Create custom Index.md homepage (directory/hub layout)
 - [ ] Create `/About` page (portfolio of projects, origin story, why I shifted)
-- [ ] Create `/Support` page listing:
+- [x] Create `/Support` page listing:
     - Affiliate links
     - Paid templates (Lemonsqueezy/Stripe links)
     - Donate button (Ko-fi or similar)
@@ -56,7 +56,7 @@ After starting a full-time job, I realized I don't need a content machine, I nee
     - Pinterest
     - Email signup (Kit)
 - [x] Set up Kit email signup form (embed on Index or dedicated page)
-- [ ] Configure Lemonsqueezy or Stripe for paid template sales
+- [x] Configure Lemonsqueezy or Stripe for paid template sales
 - [x] Set up tag-based navigation (so people can browse by topic rather than chronological feed)
 
 ## Phase 4: Polish & Launch
@@ -64,9 +64,9 @@ After starting a full-time job, I realized I don't need a content machine, I nee
 - [ ] Test all links work (internal and external)
 	- [ ] [[ultimate productivity bundle]]
 - [x] Verify email signup connects to Kit properly
-- [ ] Configure Quartz settings (site title, description, social links, favicon)
+- [x] Configure Quartz settings (site title, description, social links, favicon)
 - [ ] Set up and route my domain (noraconrad.com)
-- [ ] Performance testing and load time optimization
+- [x] Performance testing and load time optimization
 - [x] Push to production on Vercel
 
 ## Bonus: Building in Public

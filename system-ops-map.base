@@ -14,6 +14,8 @@ views:
     order:
       - file.name
     sort:
+      - property: file.name
+        direction: ASC
       - property: stage
         direction: DESC
       - property: lesson

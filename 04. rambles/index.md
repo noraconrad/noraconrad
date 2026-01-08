@@ -2,9 +2,9 @@
 title: 04. rambles
 publish: true
 ---
-
-# Rambles
+[[support my work]]
+[[about me]]
 
 Browse all my short notes and loose ideas below.
 
-You can organize this page using Obsidian tables, collections, and any other content you'd like.
+[[building my knowledge garden]]

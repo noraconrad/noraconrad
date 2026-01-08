@@ -1,5 +1,5 @@
 ---
-title: ""
+title: Sunsama just got better.
 date: ""
 coverImage: ""
 lastmod: ""
@@ -8,16 +8,6 @@ description: ""
 publish: false
 categories: []
 ---
- 
-
-# Sunsama just got better.
-
-This new feature has made me a customer for life.
-
----
-
-### Sunsama just got better.
-
 #### This new feature has made me a customer for life.
 
 I’ve been using [Sunsama](https://try.sunsama.com/noraconrad) since Sept 14th, 2021. Since that time, I have fallen completely in love with the app. I am a huge fan of the company as a whole, as they have consistently pushed new and thoughtful features over the years, maintained transparency in their roadmap, and added some really useful integrations. 

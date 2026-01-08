@@ -1,5 +1,5 @@
 ---
-title: ""
+title: Untraditional productivity tips
 date: ""
 coverImage: ""
 lastmod: ""
@@ -8,17 +8,7 @@ description: ""
 publish: false
 categories: []
 ---
- 
-
-# Untraditional productivity tips
-
-If you’re feeling overwhelmed, try these
-
----
-
-### Untraditional productivity tips
-
-#### If you’re feeling overwhelmed, try these
+ #### If you’re feeling overwhelmed, try these
 
 As a work-from-home mom with young kids, I find myself constantly figuring out new “productivity methods” that fit my phase of life. So many of the traditional productivity tips don’t work when you have toddlers interrupting your workday.
 
@@ -40,10 +30,10 @@ During a hectic season, we spent $400 a month to have a team of three ladies cle
 
 There are laundry services that cost ~$5 per load, and they will pick up, clean, dry, and fold your clothes for you. If you hate doing laundry, this can be a huge time saver for you.
 
-03. Done is good enough
 
-We don’t fold our laundry —Our shorts, the kid's pants, and our underwear just go into piles in our drawers. All our shirts, sweaters, and dresses get hung up. I’d rather have the laundry done than have it look neat. We do laundry once a week, make a big pile on our bedroom floor, and the whole family (yes, even the two-year-old) helps us sort and put everything away.
+#### 03. Done is good enough
 
+We don’t fold our laundry — Our shorts, the kid's pants, and our underwear just go into piles in our drawers. All our shirts, sweaters, and dresses get hung up. I’d rather have the laundry done than have it look neat. We do laundry once a week, make a big pile on our bedroom floor, and the whole family (yes, even the two-year-old) helps us sort and put everything away.
   
 
 #### 04. Invest in easy
@@ -55,7 +45,3 @@ My days are busy, and hand-washing all the dishes at the end of the evening is n
 We try to limit how often we purchase new things for our home, but when we do buy, we pay attention to how much cleaning, fixing, or extra time will need to be invested to keep the item in good condition. Even with big purchases, like couches, carpets, and windows — we chose to buy the materials that would last longer (with kids and pets).
 
 There are times when this process is more expensive. We’ve found saving for the slightly more expensive items over time has saved us a lot of stress and money over the life of the item. For example, we bought our couch 5 years ago and with a damp cloth and a vacuum, it looks brand new (even with two dogs, two toddlers, and a ton of snacks). It wasn’t cheap, we saved up for 6 months, but it’s been well worth it.
-
-[View original.](https://medium.com/p/1c57bdd6312b)
-
-Exported from [Medium](https://medium.com) on January 7, 2026.

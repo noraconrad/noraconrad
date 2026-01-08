@@ -1,5 +1,5 @@
 ---
-title: ""
+title: Notion for Content Creation
 date: ""
 coverImage: ""
 lastmod: ""
@@ -8,16 +8,6 @@ description: ""
 publish: false
 categories: []
 ---
- 
-
-# Notion for Content Creation
-
-Building a dashboard that sparks creativity
-
----
-
-### Notion for Content Creation
-
 #### Building a dashboard that sparks creativity
 
 I’ve been using Notion for over five years, and I practically live in it. I’ve evolved my dashboards and setup over time, and I’ve purchased and made dozens of templates. A couple of years ago I invested in the Thomas Frank Ultimate Brain template with the Content Creator addition. It was a really fantastic investment, but after using it for awhile, it’s time to adapt it to my own needs.
@@ -65,7 +55,3 @@ _**This will track what needs to happen on each content piece. It will be displa
 _**This is a huge list of potential keywords with metrics for each. This will be linked to the content database via relations and rollups so I can pre-plan each post around key terms.
 
 ### 03 Simplify
-
-[View original.](https://medium.com/p/a1a11996aef5)
-
-Exported from [Medium](https://medium.com) on January 7, 2026.

@@ -2,7 +2,7 @@
 title: I'm Nora 👋🏼
 publish: true
 ---
-Hi, I'm currently [[Building My Knowledge Garden]]
+Hi, I'm currently [[building my knowledge garden]]
 
 I've been creating content since high school (middle school if you count Neopet guild layouts). This is my knowledge garden; a collection of writing, templates, and resources.
 
