@@ -29,7 +29,9 @@ export default ((opts?: Partial<TagContentOptions>) => {
       throw new Error(`Component "TagContent" tried to render a non-tag page: ${slug}`)
     }
 
-    const tag = simplifySlug(slug.slice("tags/".length) as FullSlug)
+    // Extract tag from slug - handle both "tags/posts" and "tags" cases
+    const tagSlug = slug.slice("tags/".length)
+    const tag = tagSlug ? simplifySlug(tagSlug as FullSlug) : "/"
     const allPagesWithTag = (tag: string) => {
       // Normalize tag for matching
       const normalizedTag = tag.toLowerCase().trim()
