@@ -30,10 +30,16 @@ export default ((opts?: Partial<TagContentOptions>) => {
     }
 
     const tag = simplifySlug(slug.slice("tags/".length) as FullSlug)
-    const allPagesWithTag = (tag: string) =>
-      allFiles.filter((file) =>
-        (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag),
-      )
+    const allPagesWithTag = (tag: string) => {
+      // Normalize tag for matching
+      const normalizedTag = tag.toLowerCase().trim()
+      return allFiles.filter((file) => {
+        const fileTags = file.frontmatter?.tags ?? []
+        const tagArray = Array.isArray(fileTags) ? fileTags : [fileTags]
+        const allPrefixes = tagArray.flatMap((t: string) => getAllSegmentPrefixes(String(t)))
+        return allPrefixes.some((t: string) => t.toLowerCase().trim() === normalizedTag)
+      })
+    }
 
     const content = (
       (tree as Root).children.length === 0
