@@ -62,49 +62,82 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     return <ul class="section-ul"></ul>
   }
 
-  const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
-  let list = [...allFiles].sort(sorter)
-  if (limit) {
-    list = list.slice(0, limit)
+  // Ensure we have valid files with slugs
+  const validFiles = allFiles.filter((file) => file && file.slug)
+  if (validFiles.length === 0) {
+    return <ul class="section-ul"></ul>
   }
 
-  return (
-    <ul class="section-ul">
-      {list.map((page) => {
-        const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
-        const tags = page.frontmatter?.tags ?? []
+  try {
+    const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
+    let list = [...validFiles].sort(sorter)
+    if (limit && limit > 0) {
+      list = list.slice(0, limit)
+    }
 
-        return (
-          <li class="section-li">
-            <div class="section">
-              <p class="meta">
-                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
-              <div class="desc">
-                <h3>
-                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                    {title}
-                  </a>
-                </h3>
-              </div>
-              <ul class="tags">
-                {tags.map((tag) => (
-                  <li>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      {tag}
+    return (
+      <ul class="section-ul">
+        {list.map((page, index) => {
+          if (!page || !page.slug) return null
+          
+          const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
+          const tags = page.frontmatter?.tags ?? []
+
+          return (
+            <li key={page.slug || index} class="section-li">
+              <div class="section">
+                <p class="meta">
+                  {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
+                </p>
+                <div class="desc">
+                  <h3>
+                    <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                      {title}
                     </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          </li>
-        )
-      })}
-    </ul>
-  )
+                  </h3>
+                </div>
+                <ul class="tags">
+                  {tags.map((tag, tagIndex) => (
+                    <li key={tagIndex}>
+                      <a
+                        class="internal tag-link"
+                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                      >
+                        {tag}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </li>
+          )
+        })}
+      </ul>
+    )
+  } catch (error) {
+    // Fallback if sorting fails
+    return (
+      <ul class="section-ul">
+        {validFiles.slice(0, limit || validFiles.length).map((page, index) => {
+          if (!page || !page.slug) return null
+          const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
+          return (
+            <li key={page.slug || index} class="section-li">
+              <div class="section">
+                <div class="desc">
+                  <h3>
+                    <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                      {title}
+                    </a>
+                  </h3>
+                </div>
+              </div>
+            </li>
+          )
+        })}
+      </ul>
+    )
+  }
 }
 
 PageList.css = `
