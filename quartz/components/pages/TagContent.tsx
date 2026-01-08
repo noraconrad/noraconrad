@@ -194,6 +194,17 @@ export default ((opts?: Partial<TagContentOptions>) => {
     }
   }
 
-  TagContent.css = concatenateResources(style, PageList.css)
+  TagContent.css = concatenateResources(
+    style,
+    PageList.css,
+    `
+    /* Ensure popover-hint elements are visible when used as page content */
+    .page-listing .popover-hint,
+    .popover-hint:not(.popover .popover-hint) {
+      height: auto !important;
+      min-height: auto !important;
+    }
+    `
+  )
   return TagContent
 }) satisfies QuartzComponentConstructor
