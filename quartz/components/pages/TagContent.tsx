@@ -145,12 +145,9 @@ export default ((opts?: Partial<TagContentOptions>) => {
       let pages = allPagesWithTag(tag)
       
       // Filter out files that don't have required properties for PageList
-      // Be very permissive - only exclude if file is null/undefined or slug is completely missing
       const originalCount = pages.length
-      const totalFilesCount = allFiles.length
       pages = pages.filter((file) => {
         if (!file) return false
-        // Only require slug - frontmatter can be empty object
         if (!file.slug || file.slug.trim() === "") return false
         return true
       })
@@ -159,35 +156,12 @@ export default ((opts?: Partial<TagContentOptions>) => {
         ...props,
         allFiles: pages,
       }
-
-      // Always render PageList so we can see debug messages
-      // Use original count for display
       return (
         <div class="popover-hint" style="height: auto !important; min-height: auto !important; display: block !important; visibility: visible !important; overflow: visible !important;">
           <article class={classes}>{content}</article>
           <div class="page-listing" style="height: auto !important; display: block !important; visibility: visible !important;">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: originalCount })}</p>
-            <div style="font-size: 0.85em; color: #666; margin: 1em 0; padding: 1em; background: #f5f5f5; border-radius: 4px;">
-              <p><strong>DEBUG INFO:</strong></p>
-              <ul style="margin: 0.5em 0; padding-left: 1.5em;">
-                <li>Tag being searched: "{tag}"</li>
-                <li>Total files in allFiles: {totalFilesCount}</li>
-                <li>Files matching tag: {originalCount}</li>
-                <li>Files after slug filter: {pages.length}</li>
-                {pages.length > 0 && pages.length < 10 && (
-                  <li>Sample slugs: {pages.slice(0, 5).map(p => p.slug).join(", ")}</li>
-                )}
-                {pages.length > 0 && (
-                  <li>First file has frontmatter: {pages[0].frontmatter ? "Yes" : "No"}</li>
-                )}
-                {pages.length > 0 && pages[0].frontmatter && (
-                  <li>First file tags: {JSON.stringify(pages[0].frontmatter.tags || [])}</li>
-                )}
-              </ul>
-            </div>
-            <div>
-              <PageList {...listProps} sort={options?.sort} />
-            </div>
+            <PageList {...listProps} sort={options?.sort} />
           </div>
         </div>
       )

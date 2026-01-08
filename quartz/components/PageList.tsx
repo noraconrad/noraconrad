@@ -58,48 +58,18 @@ type Props = {
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
-  // Debug: Always show something to verify component is rendering
   if (!allFiles || allFiles.length === 0) {
-    return (
-      <ul class="section-ul">
-        <li class="section-li">
-          <div class="section">
-            <p>DEBUG: PageList rendered but allFiles is empty or undefined</p>
-          </div>
-        </li>
-      </ul>
-    )
+    return <ul class="section-ul"></ul>
   }
 
-  // Ensure we have valid files with slugs - be more permissive
+  // Ensure we have valid files with slugs
   const validFiles = allFiles.filter((file) => {
     return file && file.slug
   })
   
   if (validFiles.length === 0) {
-    return (
-      <ul class="section-ul">
-        <li class="section-li">
-          <div class="section">
-            <p>No valid pages to display. (allFiles length: {allFiles?.length || 0})</p>
-          </div>
-        </li>
-      </ul>
-    )
+    return <ul class="section-ul"></ul>
   }
-
-  // Debug output
-  const debugInfo = (
-    <div style="font-size: 0.8em; color: #999; margin: 0.5em 0; padding: 0.5em; background: #f0f0f0; border-radius: 3px;">
-      <p><strong>PageList DEBUG:</strong></p>
-      <ul style="margin: 0.25em 0; padding-left: 1.5em;">
-        <li>Received allFiles: {allFiles.length}</li>
-        <li>Valid files (with slugs): {validFiles.length}</li>
-        <li>Limit: {limit || "none"}</li>
-        <li>Has sort function: {sort ? "Yes" : "No"}</li>
-      </ul>
-    </div>
-  )
 
   // Create a safe sort function that handles errors
   const safeSort = (a: QuartzPluginData, b: QuartzPluginData): number => {
@@ -128,108 +98,59 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   }
 
   if (list.length === 0) {
-    return (
-      <>
-        {debugInfo}
-        <ul class="section-ul">
-          <li class="section-li">
-            <div class="section">
-              <p>List is empty after processing. (validFiles: {validFiles.length})</p>
-            </div>
-          </li>
-        </ul>
-      </>
-    )
+    return <ul class="section-ul"></ul>
   }
 
-  // Render a test item first to verify rendering works
-  const testItem = (
-    <li class="section-li" style="border: 2px solid red; padding: 1em; margin: 1em 0;">
-      <div class="section">
-        <div class="desc">
-          <h3>
-            <strong>TEST ITEM - If you see this, rendering works!</strong>
-          </h3>
-        </div>
-      </div>
-    </li>
-  )
-
   return (
-    <>
-      {debugInfo}
-      <div style="font-size: 0.8em; color: #999; margin: 0.5em 0;">
-        <p>DEBUG: About to render {list.length} items.</p>
-        <p>DEBUG: First item slug: {list[0]?.slug || "N/A"}</p>
-        <p>DEBUG: First item title: {list[0]?.frontmatter?.title || list[0]?.slug || "N/A"}</p>
-      </div>
-      <ul class="section-ul">
-        {testItem}
-        {list.map((page, index) => {
-          try {
-            if (!page || !page.slug) {
-              return (
-                <li key={`invalid-${index}`} class="section-li">
-                  <div class="section">
-                    <p>Invalid page at index {index}</p>
-                  </div>
-                </li>
-              )
-            }
-            
-            const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
-            const tags = page.frontmatter?.tags ?? []
-            let pageDate = null
-            try {
-              pageDate = page.dates ? getDate(cfg, page) : null
-            } catch (e) {
-              // Date parsing failed, continue without date
-            }
+    <ul class="section-ul">
+      {list.map((page, index) => {
+        if (!page || !page.slug) {
+          return null
+        }
+        
+        const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
+        const tags = page.frontmatter?.tags ?? []
+        let pageDate = null
+        try {
+          pageDate = page.dates ? getDate(cfg, page) : null
+        } catch (e) {
+          // Date parsing failed, continue without date
+        }
 
-            return (
-              <li key={page.slug || `page-${index}`} class="section-li">
-                <div class="section">
-                  {pageDate && (
-                    <p class="meta">
-                      <Date date={pageDate} locale={cfg.locale} />
-                    </p>
-                  )}
-                  <div class="desc">
-                    <h3>
-                      <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                        {title}
+        return (
+          <li key={page.slug || `page-${index}`} class="section-li">
+            <div class="section">
+              {pageDate && (
+                <p class="meta">
+                  <Date date={pageDate} locale={cfg.locale} />
+                </p>
+              )}
+              <div class="desc">
+                <h3>
+                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                    {title}
+                  </a>
+                </h3>
+              </div>
+              {tags.length > 0 && (
+                <ul class="tags">
+                  {tags.map((tag, tagIndex) => (
+                    <li key={tagIndex}>
+                      <a
+                        class="internal tag-link"
+                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                      >
+                        {tag}
                       </a>
-                    </h3>
-                  </div>
-                  {tags.length > 0 && (
-                    <ul class="tags">
-                      {tags.map((tag, tagIndex) => (
-                        <li key={tagIndex}>
-                          <a
-                            class="internal tag-link"
-                            href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                          >
-                            {tag}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
-                </div>
-              </li>
-            )
-          } catch (error) {
-            return (
-              <li key={`error-${index}`} class="section-li">
-                <div class="section">
-                  <p>Error rendering page at index {index}: {String(error)}</p>
-                </div>
-              </li>
-            )
-          }
-        })}
-      </ul>
-    </>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          </li>
+        )
+      })}
+    </ul>
   )
 }
 
