@@ -34,9 +34,21 @@ export default ((opts?: Partial<TagContentOptions>) => {
       // Normalize tag for matching
       const normalizedTag = tag.toLowerCase().trim()
       return allFiles.filter((file) => {
+        // Ensure file has required properties
+        if (!file.slug || !file.frontmatter) {
+          return false
+        }
+        
         const fileTags = file.frontmatter?.tags ?? []
+        if (!fileTags || (Array.isArray(fileTags) && fileTags.length === 0)) {
+          return false
+        }
+        
         const tagArray = Array.isArray(fileTags) ? fileTags : [fileTags]
-        const allPrefixes = tagArray.flatMap((t: string) => getAllSegmentPrefixes(String(t)))
+        const allPrefixes = tagArray.flatMap((t: string) => {
+          const tagStr = String(t).trim()
+          return tagStr ? getAllSegmentPrefixes(tagStr) : []
+        })
         return allPrefixes.some((t: string) => t.toLowerCase().trim() === normalizedTag)
       })
     }
@@ -114,7 +126,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
         </div>
       )
     } else {
-      const pages = allPagesWithTag(tag)
+      const pages = allPagesWithTag(tag).filter((file) => {
+        // Ensure file has all required properties for PageList
+        return file.slug && file.frontmatter && (file.frontmatter.title || file.slug)
+      })
+      
       const listProps = {
         ...props,
         allFiles: pages,
