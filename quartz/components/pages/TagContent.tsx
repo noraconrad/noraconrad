@@ -87,7 +87,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
       return (
-        <div class="popover-hint">
+        <div class="popover-hint" style="height: auto !important; min-height: auto !important; display: block !important; visibility: visible !important; overflow: visible !important;">
           <article class={classes}>
             <p>{content}</p>
           </article>
@@ -163,9 +163,9 @@ export default ((opts?: Partial<TagContentOptions>) => {
       // Always render PageList so we can see debug messages
       // Use original count for display
       return (
-        <div class="popover-hint">
+        <div class="popover-hint" style="height: auto !important; min-height: auto !important; display: block !important; visibility: visible !important; overflow: visible !important;">
           <article class={classes}>{content}</article>
-          <div class="page-listing">
+          <div class="page-listing" style="height: auto !important; display: block !important; visibility: visible !important;">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: originalCount })}</p>
             <div style="font-size: 0.85em; color: #666; margin: 1em 0; padding: 1em; background: #f5f5f5; border-radius: 4px;">
               <p><strong>DEBUG INFO:</strong></p>
