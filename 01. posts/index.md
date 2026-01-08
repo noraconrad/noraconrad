@@ -2,6 +2,7 @@
 title: Posts
 publish: true
 ---
+An archive of blog posts in alphabetical order:
 
 [[$90000 In Side Hustle Income]]
 [[10 Self Improvement Habits to Start this year]]

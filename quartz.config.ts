@@ -69,6 +69,7 @@ const config: QuartzConfig = {
         enableYouTubeEmbed: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.HardLineBreaks(), // Enable single line breaks to render as line breaks
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
