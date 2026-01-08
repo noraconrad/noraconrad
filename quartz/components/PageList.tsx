@@ -142,79 +142,92 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     )
   }
 
-  // Additional debug: check if list items can be rendered
-  const renderedItems = list.map((page, index) => {
-    try {
-      if (!page || !page.slug) {
-        return (
-          <li key={`invalid-${index}`} class="section-li">
-            <div class="section">
-              <p>Invalid page at index {index}</p>
-            </div>
-          </li>
-        )
-      }
-      
-      const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
-      const tags = page.frontmatter?.tags ?? []
-      let pageDate = null
-      try {
-        pageDate = page.dates ? getDate(cfg, page) : null
-      } catch (e) {
-        // Date parsing failed, continue without date
-      }
-
-      return (
-        <li key={page.slug || `page-${index}`} class="section-li">
-          <div class="section">
-            {pageDate && (
-              <p class="meta">
-                <Date date={pageDate} locale={cfg.locale} />
-              </p>
-            )}
-            <div class="desc">
-              <h3>
-                <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                  {title}
-                </a>
-              </h3>
-            </div>
-            {tags.length > 0 && (
-              <ul class="tags">
-                {tags.map((tag, tagIndex) => (
-                  <li key={tagIndex}>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            )}
-          </div>
-        </li>
-      )
-    } catch (error) {
-      return (
-        <li key={`error-${index}`} class="section-li">
-          <div class="section">
-            <p>Error rendering page at index {index}: {String(error)}</p>
-          </div>
-        </li>
-      )
-    }
-  })
+  // Render a test item first to verify rendering works
+  const testItem = (
+    <li class="section-li" style="border: 2px solid red; padding: 1em; margin: 1em 0;">
+      <div class="section">
+        <div class="desc">
+          <h3>
+            <strong>TEST ITEM - If you see this, rendering works!</strong>
+          </h3>
+        </div>
+      </div>
+    </li>
+  )
 
   return (
     <>
       {debugInfo}
       <div style="font-size: 0.8em; color: #999; margin: 0.5em 0;">
-        <p>DEBUG: About to render {list.length} items. Rendered items count: {renderedItems.length}</p>
+        <p>DEBUG: About to render {list.length} items.</p>
+        <p>DEBUG: First item slug: {list[0]?.slug || "N/A"}</p>
+        <p>DEBUG: First item title: {list[0]?.frontmatter?.title || list[0]?.slug || "N/A"}</p>
       </div>
       <ul class="section-ul">
-        {renderedItems}
+        {testItem}
+        {list.map((page, index) => {
+          try {
+            if (!page || !page.slug) {
+              return (
+                <li key={`invalid-${index}`} class="section-li">
+                  <div class="section">
+                    <p>Invalid page at index {index}</p>
+                  </div>
+                </li>
+              )
+            }
+            
+            const title = page.frontmatter?.title || page.slug?.split("/").pop() || "Untitled"
+            const tags = page.frontmatter?.tags ?? []
+            let pageDate = null
+            try {
+              pageDate = page.dates ? getDate(cfg, page) : null
+            } catch (e) {
+              // Date parsing failed, continue without date
+            }
+
+            return (
+              <li key={page.slug || `page-${index}`} class="section-li">
+                <div class="section">
+                  {pageDate && (
+                    <p class="meta">
+                      <Date date={pageDate} locale={cfg.locale} />
+                    </p>
+                  )}
+                  <div class="desc">
+                    <h3>
+                      <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                        {title}
+                      </a>
+                    </h3>
+                  </div>
+                  {tags.length > 0 && (
+                    <ul class="tags">
+                      {tags.map((tag, tagIndex) => (
+                        <li key={tagIndex}>
+                          <a
+                            class="internal tag-link"
+                            href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                          >
+                            {tag}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </div>
+              </li>
+            )
+          } catch (error) {
+            return (
+              <li key={`error-${index}`} class="section-li">
+                <div class="section">
+                  <p>Error rendering page at index {index}: {String(error)}</p>
+                </div>
+              </li>
+            )
+          }
+        })}
       </ul>
     </>
   )
