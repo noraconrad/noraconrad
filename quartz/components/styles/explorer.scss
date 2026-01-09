@@ -31,6 +31,17 @@
   flex-direction: column;
   overflow-y: hidden;
 
+  // Hide toggle buttons (both desktop and mobile)
+  .explorer-toggle {
+    display: none !important;
+  }
+  
+  // Always show content (no collapsing)
+  .explorer-content {
+    display: block !important;
+    aria-expanded: true;
+  }
+
   min-height: 1.2rem;
   flex: 0 1 auto;
   &.collapsed {
