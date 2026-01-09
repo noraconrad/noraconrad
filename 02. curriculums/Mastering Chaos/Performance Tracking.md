@@ -1,15 +1,19 @@
 ---
-title: "Performance Tracking"
-date: 2026-01-06
-description: Measure what works, repurpose everything, and implement sustainable content systems
+title: Performance Tracking
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Measure what works, repurpose everything, and implement sustainable content
+  systems
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "04"
-lesson: "04"
+stage: '04'
+lesson: '04'
+category: curriculums
+slug: curriculums/mastering-chaos/performance-tracking
 ---
 ### The Goal of Tracking
 

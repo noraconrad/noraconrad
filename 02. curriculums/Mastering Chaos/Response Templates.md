@@ -1,15 +1,19 @@
 ---
 title: Response Templates
-date: 2026-01-06
-description: 8 essential email templates + setup guide for 50+ customizable response templates
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  8 essential email templates + setup guide for 50+ customizable response
+  templates
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "02"
-lesson: "02"
+stage: '02'
+lesson: '02'
+category: curriculums
+slug: curriculums/mastering-chaos/response-templates
 ---
 ## Turn Your Most Common Emails Into One-Click Responses
 

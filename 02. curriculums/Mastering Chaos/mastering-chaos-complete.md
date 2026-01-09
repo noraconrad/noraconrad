@@ -1,6 +1,6 @@
 ---
-title: "Mastering Chaos: Complete"
-date: 2026-01-06
+title: 'Mastering Chaos: Complete'
+date: 2026-01-06T00:00:00.000Z
 description: You did it. The complete transformation. Your next steps.
 publish: true
 categories:
@@ -8,8 +8,10 @@ categories:
 tags:
   - mastering-chaos
   - lesson
-stage: "05"
-lesson: "00"
+stage: '05'
+lesson: '00'
+category: curriculums
+slug: curriculums/mastering-chaos/mastering-chaos-complete
 ---
 ## You Did It
 

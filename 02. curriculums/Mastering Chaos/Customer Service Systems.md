@@ -1,15 +1,19 @@
 ---
 title: Customer Service Systems
-date: 2026-01-06
-description: "Build your FAQ database and automated form systems: reduce customer service time by 70%"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Build your FAQ database and automated form systems: reduce customer service
+  time by 70%
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "03"
-lesson: "04"
+stage: '03'
+lesson: '04'
+category: curriculums
+slug: curriculums/mastering-chaos/customer-service-systems
 ---
 
 # Week 03 Phase 4: Customer Service Systems

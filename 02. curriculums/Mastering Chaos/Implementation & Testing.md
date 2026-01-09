@@ -1,15 +1,19 @@
 ---
 title: Implementation & Testing
-date: 2026-01-06
-description: "Roll out your complete operations manual: test, refine, and establish maintenance routines"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Roll out your complete operations manual: test, refine, and establish
+  maintenance routines
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "03"
-lesson: "06"
+stage: '03'
+lesson: '06'
+category: curriculums
+slug: curriculums/mastering-chaos/implementation-testing
 ---
 ## Bringing Everything Together
 

@@ -1,15 +1,19 @@
 ---
 title: Blog & Long-Form Content Systems
-date: 2026-01-06
-description: "Build your blog and long-form content systems: create SEO-optimized content that drives organic traffic"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Build your blog and long-form content systems: create SEO-optimized content
+  that drives organic traffic
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "04"
-lesson: "03"
+stage: '04'
+lesson: '03'
+category: curriculums
+slug: curriculums/mastering-chaos/blog-long-form-content-systems
 ---
 ## Blog: Your Content Home Base
 

@@ -1,15 +1,19 @@
 ---
 title: Email Template Database
-date: 2026-01-06
-description: "Build your comprehensive email template library: 30+ templates for every client scenario"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Build your comprehensive email template library: 30+ templates for every
+  client scenario
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "03"
-lesson: "02"
+stage: '03'
+lesson: '02'
+category: curriculums
+slug: curriculums/mastering-chaos/email-template-database
 ---
 ## Beyond Week 02: Building Your Complete Template System
 

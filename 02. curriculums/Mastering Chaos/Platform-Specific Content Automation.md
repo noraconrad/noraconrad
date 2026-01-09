@@ -1,15 +1,19 @@
 ---
 title: Platform-Specific Content Automation
-date: 2026-01-06
-description: "Set up automated content distribution across platforms: one piece of content, everywhere at once"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Set up automated content distribution across platforms: one piece of content,
+  everywhere at once
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "04"
-lesson: "02"
+stage: '04'
+lesson: '02'
+category: curriculums
+slug: curriculums/mastering-chaos/platform-specific-content-automation
 ---
 ## From Manual Distribution to Hands-Off Posting
 

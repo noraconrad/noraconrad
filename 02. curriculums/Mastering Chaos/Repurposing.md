@@ -1,15 +1,19 @@
 ---
-title: "Repurposing"
-date: 2026-01-06
-description: Measure what works, repurpose everything, and implement sustainable content systems
+title: Repurposing
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Measure what works, repurpose everything, and implement sustainable content
+  systems
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "04"
-lesson: "05"
+stage: '04'
+lesson: '05'
+category: curriculums
+slug: curriculums/mastering-chaos/repurposing
 ---
 ### The Content Multiplication Formula
 

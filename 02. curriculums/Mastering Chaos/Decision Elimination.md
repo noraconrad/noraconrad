@@ -1,15 +1,19 @@
 ---
 title: Decision Elimination
-date: 2026-01-06
-description: "Build your operations manual: document everything as if you're training someone tomorrow"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Build your operations manual: document everything as if you're training
+  someone tomorrow
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "03"
-lesson: "00"
+stage: '03'
+lesson: '00'
+category: curriculums
+slug: curriculums/mastering-chaos/decision-elimination
 ---
 ## Building Your Business Operations Manual
 

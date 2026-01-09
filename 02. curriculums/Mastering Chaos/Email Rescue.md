@@ -1,15 +1,19 @@
 ---
 title: Email Rescue
-date: 2026-01-06
-description: "From inbox chaos to 30 minutes per day: systematize your email and reclaim 10+ hours weekly"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  From inbox chaos to 30 minutes per day: systematize your email and reclaim 10+
+  hours weekly
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "02"
-lesson: "00"
+stage: '02'
+lesson: '00'
+category: curriculums
+slug: curriculums/mastering-chaos/email-rescue
 ---
 # Inbox Chaos to 30 Minutes/Day
 

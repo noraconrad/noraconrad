@@ -1,15 +1,19 @@
 ---
 title: Content Planning & Batch Creation System
-date: 2026-01-06
-description: "Monthly content planning and batch creation: create 4-6 weeks of content in one session"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Monthly content planning and batch creation: create 4-6 weeks of content in
+  one session
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "04"
-lesson: "01"
+stage: '04'
+lesson: '01'
+category: curriculums
+slug: curriculums/mastering-chaos/content-planning-batch-creation-system
 ---
 ## The Shift From Daily Creation to Batch Production
 

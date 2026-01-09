@@ -1,15 +1,17 @@
 ---
 title: Automation Setup
-date: 2026-01-06
-description: Email scheduling, auto-responders, and follow-up sequences that work 24/7
+date: 2026-01-06T00:00:00.000Z
+description: 'Email scheduling, auto-responders, and follow-up sequences that work 24/7'
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "02"
-lesson: "03"
+stage: '02'
+lesson: '03'
+category: curriculums
+slug: curriculums/mastering-chaos/automation-setup
 ---
 ## Make Email Work for You 24/7
 

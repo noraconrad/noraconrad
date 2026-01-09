@@ -1,15 +1,19 @@
 ---
 title: The Audit
-date: 2026-01-06
-description: "Where your time really goes: the first step to reclaiming your life as an entrepreneur"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Where your time really goes: the first step to reclaiming your life as an
+  entrepreneur
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "01"
-lesson: "00"
+stage: '01'
+lesson: '00'
+category: curriculums
+slug: curriculums/mastering-chaos/the-audit
 ---
 ## Where Your Time Really Goes
 

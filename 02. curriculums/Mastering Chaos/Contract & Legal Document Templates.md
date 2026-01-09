@@ -1,15 +1,19 @@
 ---
 title: Contract & Legal Document Templates
-date: 2026-01-06
-description: "Build your contract and legal template system: modular components for rapid document creation"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Build your contract and legal template system: modular components for rapid
+  document creation
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "03"
-lesson: "03"
+stage: '03'
+lesson: '03'
+category: curriculums
+slug: curriculums/mastering-chaos/contract-legal-document-templates
 ---
 ## Contract Template Database
 

@@ -1,15 +1,19 @@
 ---
 title: Daily Email Routine
-date: 2026-01-06
-description: "The 30-minute daily email routine: maintain professional communication while protecting family time"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  The 30-minute daily email routine: maintain professional communication while
+  protecting family time
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "02"
-lesson: "04"
+stage: '02'
+lesson: '04'
+category: curriculums
+slug: curriculums/mastering-chaos/daily-email-routine
 ---
 ## Making Boundaries Actually Work
 

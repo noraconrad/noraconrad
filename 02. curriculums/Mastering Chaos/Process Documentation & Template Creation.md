@@ -1,6 +1,6 @@
 ---
 title: Process Documentation & Template Creation
-date: 2026-01-06
+date: 2026-01-06T00:00:00.000Z
 description: Map every business process and create reusable documentation templates
 publish: true
 categories:
@@ -8,8 +8,10 @@ categories:
 tags:
   - mastering-chaos
   - lesson
-stage: "03"
-lesson: "01"
+stage: '03'
+lesson: '01'
+category: curriculums
+slug: curriculums/mastering-chaos/process-documentation-template-creation
 ---
 ## The Foundation of Your Operations Manual
 

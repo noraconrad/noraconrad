@@ -1,15 +1,19 @@
 ---
 title: The Great Email Purge
-date: 2026-01-06
-description: "Step-by-step email client setup: unsubscribe, filter, and organize your inbox for client priority"
+date: 2026-01-06T00:00:00.000Z
+description: >-
+  Step-by-step email client setup: unsubscribe, filter, and organize your inbox
+  for client priority
 publish: true
 categories:
   - mastering-chaos
 tags:
   - mastering-chaos
   - lesson
-stage: "02"
-lesson: "01"
+stage: '02'
+lesson: '01'
+category: curriculums
+slug: curriculums/mastering-chaos/the-great-email-purge
 ---
 ## Before You Start: Choosing Your Email Strategy
 
