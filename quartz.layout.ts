@@ -41,8 +41,11 @@ export const defaultContentPageLayout: PageLayout = {
       useSavedState: false,
       mapFn: (node) => {
         // Use title from folder index file if available
-        if (node.isFolder && node.data?.title) {
-          node.displayName = node.data.title
+        if (node.isFolder) {
+          // Check if we have title data from the index file
+          if (node.data?.title && node.data.title !== "index") {
+            node.displayName = node.data.title
+          }
         }
         return node
       },
@@ -113,8 +116,11 @@ export const defaultListPageLayout: PageLayout = {
       useSavedState: false,
       mapFn: (node) => {
         // Use title from folder index file if available
-        if (node.isFolder && node.data?.title) {
-          node.displayName = node.data.title
+        if (node.isFolder) {
+          // Check if we have title data from the index file
+          if (node.data?.title && node.data.title !== "index") {
+            node.displayName = node.data.title
+          }
         }
         return node
       },
