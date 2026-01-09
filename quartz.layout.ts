@@ -42,9 +42,11 @@ export const defaultContentPageLayout: PageLayout = {
       mapFn: (node) => {
         // Use title from folder index file if available
         if (node.isFolder) {
+          // For folders, node.data contains the index file's ContentDetails
           // Check if we have title data from the index file
-          if (node.data?.title && node.data.title !== "index") {
-            node.displayName = node.data.title
+          const folderTitle = node.data?.title
+          if (folderTitle && folderTitle !== "index" && folderTitle !== node.slugSegment) {
+            node.displayName = folderTitle
           }
         }
         return node
@@ -117,9 +119,11 @@ export const defaultListPageLayout: PageLayout = {
       mapFn: (node) => {
         // Use title from folder index file if available
         if (node.isFolder) {
+          // For folders, node.data contains the index file's ContentDetails
           // Check if we have title data from the index file
-          if (node.data?.title && node.data.title !== "index") {
-            node.displayName = node.data.title
+          const folderTitle = node.data?.title
+          if (folderTitle && folderTitle !== "index" && folderTitle !== node.slugSegment) {
+            node.displayName = folderTitle
           }
         }
         return node
