@@ -48,9 +48,16 @@ export const defaultContentPageLayout: PageLayout = {
             "05.-projects": "05. projects",
             "pages": "About"
           }
-          const slugSegment = node.slugSegment?.toLowerCase() || ""
-          if (folderTitleMap[slugSegment]) {
-            node.displayName = folderTitleMap[slugSegment]
+          // Try multiple ways to match the folder
+          const slugSegment = node.slugSegment?.toLowerCase().trim() || ""
+          const slug = node.slug?.toLowerCase() || ""
+          // Extract folder name from slug like "01.-posts/index" -> "01.-posts"
+          const slugFolderMatch = slug.match(/^([^/]+)\/index$/)
+          const folderName = slugFolderMatch ? slugFolderMatch[1] : slugSegment
+          
+          // Check all possible matches
+          if (folderTitleMap[slugSegment] || folderTitleMap[folderName] || folderTitleMap[slug]) {
+            node.displayName = folderTitleMap[slugSegment] || folderTitleMap[folderName] || folderTitleMap[slug] || node.displayName
           } else {
             // For other folders, use title from index file if available
             const folderTitle = node.data?.title
@@ -136,9 +143,16 @@ export const defaultListPageLayout: PageLayout = {
             "05.-projects": "05. projects",
             "pages": "About"
           }
-          const slugSegment = node.slugSegment?.toLowerCase() || ""
-          if (folderTitleMap[slugSegment]) {
-            node.displayName = folderTitleMap[slugSegment]
+          // Try multiple ways to match the folder
+          const slugSegment = node.slugSegment?.toLowerCase().trim() || ""
+          const slug = node.slug?.toLowerCase() || ""
+          // Extract folder name from slug like "01.-posts/index" -> "01.-posts"
+          const slugFolderMatch = slug.match(/^([^/]+)\/index$/)
+          const folderName = slugFolderMatch ? slugFolderMatch[1] : slugSegment
+          
+          // Check all possible matches
+          if (folderTitleMap[slugSegment] || folderTitleMap[folderName] || folderTitleMap[slug]) {
+            node.displayName = folderTitleMap[slugSegment] || folderTitleMap[folderName] || folderTitleMap[slug] || node.displayName
           } else {
             // For other folders, use title from index file if available
             const folderTitle = node.data?.title
