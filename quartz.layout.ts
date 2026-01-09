@@ -47,6 +47,20 @@ export const defaultContentPageLayout: PageLayout = {
           const folderTitle = node.data?.title
           if (folderTitle && folderTitle !== "index" && folderTitle !== node.slugSegment) {
             node.displayName = folderTitle
+          } else {
+            // Fallback: map known folder slugs to their titles
+            const folderTitleMap: Record<string, string> = {
+              "01.-posts": "01. posts",
+              "02.-curriculums": "02. curriculums",
+              "03.-templates": "03. templates",
+              "04.-rambles": "04. rambles",
+              "05.-projects": "05. projects",
+              "pages": "About"
+            }
+            const slugSegment = node.slugSegment?.toLowerCase() || ""
+            if (folderTitleMap[slugSegment]) {
+              node.displayName = folderTitleMap[slugSegment]
+            }
           }
         }
         return node
@@ -124,6 +138,20 @@ export const defaultListPageLayout: PageLayout = {
           const folderTitle = node.data?.title
           if (folderTitle && folderTitle !== "index" && folderTitle !== node.slugSegment) {
             node.displayName = folderTitle
+          } else {
+            // Fallback: map known folder slugs to their titles
+            const folderTitleMap: Record<string, string> = {
+              "01.-posts": "01. posts",
+              "02.-curriculums": "02. curriculums",
+              "03.-templates": "03. templates",
+              "04.-rambles": "04. rambles",
+              "05.-projects": "05. projects",
+              "pages": "About"
+            }
+            const slugSegment = node.slugSegment?.toLowerCase() || ""
+            if (folderTitleMap[slugSegment]) {
+              node.displayName = folderTitleMap[slugSegment]
+            }
           }
         }
         return node
