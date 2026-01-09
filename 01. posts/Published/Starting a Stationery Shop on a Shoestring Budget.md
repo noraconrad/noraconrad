@@ -10,6 +10,7 @@ publish: true
 categories:
   - business
 slug: posts/starting-a-stationery-shop-on-a-shoestring-budget
+category: posts
 ---
  
 

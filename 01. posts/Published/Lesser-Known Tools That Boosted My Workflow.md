@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/lesser-known-tools-that-boosted-my-workflow
+category: posts
 ---
 
 ![](images/Stephanie-Berbec-Unsplash-scaled.jpg)

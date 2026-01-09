@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/simplify-your-finances
+category: posts
 ---
  
 

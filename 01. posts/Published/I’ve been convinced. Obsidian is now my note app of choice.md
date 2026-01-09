@@ -9,6 +9,7 @@ tags:
 description: ''
 publish: true
 slug: posts/ive-been-convinced-obsidian-is-now-my-note-app-of-choice
+category: posts
 ---
 #### Switching to Obsidian and How I’m Using it Now
 

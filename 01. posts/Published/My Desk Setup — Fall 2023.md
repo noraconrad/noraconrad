@@ -9,6 +9,7 @@ tags:
 description: ''
 publish: true
 slug: posts/my-desk-setup-fall-2023
+category: posts
 ---
 I love seeing how others set up their workspaces and what fun gadgets they invest in to make their space a little more comfortable or productive.
 

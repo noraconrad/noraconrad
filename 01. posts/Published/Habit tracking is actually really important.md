@@ -11,6 +11,7 @@ tags:
 description: ''
 publish: true
 slug: posts/habit-tracking-is-actually-really-important
+category: posts
 ---
 Let's talk about the powerful tool that transforms daily life and helps millions achieve their goals: habit tracking. This simple practice can make a world of difference in visualizing your day, staying on track, and prioritizing what truly matters.
 

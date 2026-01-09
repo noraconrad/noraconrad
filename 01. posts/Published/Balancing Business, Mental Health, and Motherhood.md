@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/balancing-business-mental-health-and-motherhood
+category: posts
 ---
 Running a business is challenging. Parenting two young kids is exhausting. Managing bipolar disorder on top of both? Some days, feels _impossible_.
 

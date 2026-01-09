@@ -10,6 +10,7 @@ publish: true
 categories:
   - mental-health
 slug: posts/sustainable-work-habits-for-remote-work
+category: posts
 ---
 #### Productivity without sacrificing your personal life.
 

@@ -11,6 +11,7 @@ categories:
   - business
 slug: >-
   posts/boost-your-click-through-rates-with-headline-analyzer-studio-by-coschedule
+category: posts
 ---
 #### Why is this tool not talked about more?
 

@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/a-unique-project-management-tool
+category: posts
 ---
 ByDesign might be the perfect solution for overcomplicated apps
 

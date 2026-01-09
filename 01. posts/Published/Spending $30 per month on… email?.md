@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/spending-30-per-month-on-email
+category: posts
 ---
 
 ![](images/Productivity-Desk-Photo-3-scaled.jpg)

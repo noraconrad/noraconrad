@@ -12,6 +12,7 @@ description: ''
 publish: true
 slug: >-
   posts/paying-for-a-baby-without-insurance-christian-healthcare-ministries-review
+category: posts
 ---
 I saved over $6,000 a year in healthcare costs through two pregnancies. Here’s how I did it.
 

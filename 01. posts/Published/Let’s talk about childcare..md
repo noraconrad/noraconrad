@@ -10,6 +10,7 @@ publish: true
 categories:
   - business
 slug: posts/lets-talk-about-childcare
+category: posts
 ---
 #### WFH and remote parents, what are you doing??
 

@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/ive-steered-you-wrong-and-im-so-sorry
+category: posts
 ---
 #### _Purposeful Productivity in a world of “get more done”_
 

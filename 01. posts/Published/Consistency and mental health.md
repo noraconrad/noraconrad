@@ -10,6 +10,7 @@ publish: true
 categories:
   - mental-health
 slug: posts/consistency-and-mental-health
+category: posts
 ---
 #### Navigating Productivity with Bipolar Disorder
 

@@ -11,6 +11,7 @@ tags:
 description: ''
 publish: true
 slug: posts/routineco-a-promising-planner-app
+category: posts
 ---
 With the rise of apps like Akiflow, Sunsama, and Motion — we’ve seen a flood of new apps on the market that help you plan your day. Routine.co is one of many apps but one I think is extremely promising. This is going to be a review/overview of the app to help you decide if it may be a good choice for you.
 

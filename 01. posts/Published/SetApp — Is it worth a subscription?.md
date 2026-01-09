@@ -11,6 +11,7 @@ tags:
 description: ''
 publish: true
 slug: posts/setapp-is-it-worth-a-subscription
+category: posts
 ---
 #### Setapp gives you access to hundreds of other apps for one low subscription price, but is it actually worth subscribing to?
 

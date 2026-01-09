@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/my-secret-to-making-any-productivity-app-work-for-you
+category: posts
 ---
 
 ![](images/Business-Work-Image-1-scaled.jpg)

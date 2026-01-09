@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/tools-apps-to-help-you-read-your-bible-more-intentionally
+category: posts
 ---
  
 

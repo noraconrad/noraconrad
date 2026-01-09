@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/strategies-for-managing-daily-tasks
+category: posts
 ---
 ## No, it’s not another task manager
 

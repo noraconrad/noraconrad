@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/streamline-your-creative-workflow
+category: posts
 ---
 #### The Content Creator’s Roadmap to SOPs That Don’t Suck
 

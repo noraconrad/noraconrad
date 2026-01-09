@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/i-audited-my-15-app-subscriptions-and-saved-almost-3000-a-year
+category: posts
 ---
 
 After completely transforming my business tech stack this year, I realized I was paying for way too many subscriptions that weren’t actually serving me.

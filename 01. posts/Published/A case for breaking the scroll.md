@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/a-case-for-breaking-the-scroll
+category: posts
 ---
 #### How a Social Media Detox Revived My Creativity and Income
 

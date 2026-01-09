@@ -9,6 +9,7 @@ tags:
 description: ''
 publish: true
 slug: posts/how-to-wake-up-earlier-why-youll-love-it
+category: posts
 ---
 This is one of my most requested blog posts of all time. Some of you might already know this, but I wake up at 4 am every weekday and for almost a year I was waking up at 3 am. This seems crazy — I know, trust me. I was a night owl for my entire childhood, but after college, I switched things up and I will never go back. Here’s how I wake up early every single day and why I love doing it. Who knows… you just might want to try it too.
 

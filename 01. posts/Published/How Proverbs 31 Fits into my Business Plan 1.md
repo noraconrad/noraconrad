@@ -10,6 +10,7 @@ tags:
 description: ''
 publish: true
 slug: posts/how-proverbs-31-fits-into-my-business-plan
+category: posts
 ---
 
 # How Proverbs 31 Fits into my Business Plan

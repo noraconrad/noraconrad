@@ -10,6 +10,7 @@ publish: true
 categories:
   - business
 slug: posts/notion-isnt-a-website-builder-but
+category: posts
 ---
 
 ![](images/Work-from-Anywhere-Photo-scaled.jpg)

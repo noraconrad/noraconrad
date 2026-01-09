@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/blending-tradition-and-tech-for-effective-yearly-planning
+category: posts
 ---
 
 ![](images/Productivity-Desk-Photo-5-scaled.jpg)

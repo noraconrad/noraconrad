@@ -10,6 +10,7 @@ tags:
 description: ''
 publish: true
 slug: posts/how-to-keep-a-good-schedule-when-you-work-from-home
+category: posts
 ---
 
 # How to keep a good schedule when you work from home

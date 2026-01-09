@@ -10,6 +10,7 @@ publish: true
 categories:
   - goals-growth
 slug: posts/my-goal-planning-method-for-2026
+category: posts
 ---
 
 #### With Notion and Sunsama

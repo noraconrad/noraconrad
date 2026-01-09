@@ -9,6 +9,7 @@ tags:
 description: ''
 publish: true
 slug: posts/my-1-secret-to-a-successful-life
+category: posts
 ---
 I can’t begin to tell you how many times I’ve been asked this question, “How do you keep up with everything”? For those of you who don’t know me, I’m a mom to a three-year-old, a 3-month-old, I work full time from home, I run my side hustle and I’m taking classes on the side.
 

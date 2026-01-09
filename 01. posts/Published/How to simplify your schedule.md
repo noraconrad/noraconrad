@@ -11,6 +11,7 @@ tags:
 description: ''
 publish: true
 slug: posts/how-to-simplify-your-schedule
+category: posts
 ---
 Are you always forgetting to do things on your to-do list? Or do you find yourself trying to remember “Do I have something going on this weekend”? This is usually the result of a crazy schedule or a disorganized one (maybe both). Today we’re going to look at my all-time favorite tool, Google Calendar, and I’m going to show you how a better calendar system paired with simplifying your days will help you feel a little saner. Let’s jump in.
 

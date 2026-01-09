@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/my-goal-planning-method-for-2024
+category: posts
 ---
  
 

@@ -9,6 +9,7 @@ tags:
 description: ''
 publish: true
 slug: posts/create-a-mini-business-plan
+category: posts
 ---
 YouTube channel, Etsy shop, course — it doesn't matter what you sell, you need a plan
 

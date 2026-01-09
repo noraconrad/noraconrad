@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/this-might-be-the-best-mac-app-you-didnt-know-you-needed
+category: posts
 ---
 
 ![](images/Work-from-Anywhere-Photo-1-scaled.jpg)

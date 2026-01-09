@@ -10,6 +10,7 @@ publish: true
 categories:
   - goals-growth
 slug: posts/10-self-improvement-habits-to-start-this-year
+category: posts
 ---
 Most of us start the new year off with all kinds of goals and resolutions in our heads but rarely do we actually implement the habits we need to meet those goals. Today we’re going to look at 10 self-improvement habits that you can start this year to help you hit your goals and make more time for your own growth while you do it.
 

@@ -10,6 +10,7 @@ categories:
   - lifestyle
 coverImage: ''
 slug: posts/how-we-made-a-safe-play-space-for-our-young-kids
+category: posts
 ---
 # How we made a safe playspace for our young k
 

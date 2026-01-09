@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/one-tool-that-calmed-the-chaos
+category: posts
 ---
 #### How Sunsama Transformed My Productivity
 

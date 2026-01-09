@@ -10,6 +10,7 @@ publish: true
 categories:
   - productivity
 slug: posts/do-you-need-a-digital-planner-for-2024
+category: posts
 ---
 #### a round-up of the best planning apps on the market
 

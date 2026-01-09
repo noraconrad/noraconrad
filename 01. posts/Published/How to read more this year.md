@@ -11,6 +11,7 @@ tags:
 description: ''
 publish: true
 slug: posts/how-to-read-more-this-year
+category: posts
 ---
 One of my biggest goals for the 2023 year is to read a lot more. This year I set a new personal record by completing [61 books](https://www.goodreads.com/user/year_in_books/2022/27074297) (actually, a few less because there are a couple DNFs in the mix). I read the biggest chunk at the end of 2022, which has now given me the confidence that I can keep this train moving for an entire year.
 

@@ -10,6 +10,7 @@ publish: true
 categories:
   - business
 slug: posts/mastering-sunsama-zapier-a-complete-guide-to-smarter-task-management
+category: posts
 ---
 
 ![](images/IMG-2861-from-Adobe-Lightroom-scaled.jpg)

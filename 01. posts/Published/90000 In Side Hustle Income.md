@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/90000-in-side-hustle-income
+category: posts
 ---
 #### How I plan to double my income in the next six months
 

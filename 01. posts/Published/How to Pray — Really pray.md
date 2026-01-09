@@ -10,6 +10,7 @@ categories:
 description: null
 publish: true
 slug: posts/how-to-pray-really-pray
+category: posts
 ---
 Maybe you just started going to church (for the first time or for the first time in a long time). Or maybe you’ve been going to years but still don’t really know how to pray. Either way, praying daily can seem impossible at times. These are my tips for anyone who needs help getting started.
 

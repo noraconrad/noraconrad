@@ -9,6 +9,7 @@ tags:
 description: ''
 publish: true
 slug: posts/journaling-toward-a-better-you
+category: posts
 ---
 #### Take advantage of the benefits of journaling with or without writing
 

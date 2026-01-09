@@ -11,6 +11,7 @@ tags:
 description: ''
 publish: true
 slug: posts/simplify-your-routine
+category: posts
 ---
 What time do you wake up in the morning? What do you do as soon as you get home from work? You probably already know these answers…
 

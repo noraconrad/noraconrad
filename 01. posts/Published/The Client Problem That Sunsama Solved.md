@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/the-client-problem-that-sunsama-solved
+category: posts
 ---
  
 

@@ -9,6 +9,7 @@ description: ''
 publish: true
 categories: []
 slug: posts/how-to-validate-your-digital-product-idea-before-you-build-it
+category: posts
 ---
 #### And Avoid Wasting Months on Something Nobody Wants
 
