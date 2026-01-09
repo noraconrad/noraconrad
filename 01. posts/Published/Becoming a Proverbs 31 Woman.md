@@ -2,7 +2,6 @@
 title: Becoming a Proverbs 31 Woman
 date: 2014-08-06T00:00:00.000Z
 coverImage: images/Daiga-Ellaby-Photo-5-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

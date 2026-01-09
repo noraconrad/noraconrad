@@ -2,7 +2,6 @@
 title: Notion for Content Creation
 date: ''
 coverImage: ''
-lastmod: ''
 tags: []
 description: ''
 publish: false

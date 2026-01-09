@@ -2,7 +2,6 @@
 coverImage: images/1*VJQO0rQGMbb-6HwMUr2IOQ.jpeg
 title: Stop Losing Ideas
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

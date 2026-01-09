@@ -2,7 +2,6 @@
 coverImage: images/1*4JVQ_NoUEeHPu5MADpeg-Q.jpeg
 title: 'Balancing Business, Mental Health, and Motherhood'
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

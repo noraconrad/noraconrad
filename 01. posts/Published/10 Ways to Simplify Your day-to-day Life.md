@@ -2,7 +2,6 @@
 coverImage: images/1*mjnaJSgyQeHGkHbyuo8iXw.png
 title: 10 Ways to Simplify Your day-to-day Life
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

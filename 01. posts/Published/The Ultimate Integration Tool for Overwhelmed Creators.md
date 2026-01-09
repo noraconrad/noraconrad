@@ -2,7 +2,6 @@
 coverImage: images/1*HytjThXi0fVGFMKYwC7hBw.jpeg
 title: The Ultimate Integration Tool for Overwhelmed Creators
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

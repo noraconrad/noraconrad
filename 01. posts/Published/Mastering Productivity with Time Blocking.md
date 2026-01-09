@@ -4,7 +4,6 @@ title: >-
   choice.
 date: 2023-09-22T00:00:00.000Z
 coverImage: images/1*s_pIB5Csa0p6SMmv4KYf5A.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: ''

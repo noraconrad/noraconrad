@@ -2,7 +2,6 @@
 coverImage: images/1*Gt6scCzsD9gMg2gjolkltw.png
 title: One tool that calmed the chaos.
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

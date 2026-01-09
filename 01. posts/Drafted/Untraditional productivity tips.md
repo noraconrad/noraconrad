@@ -2,7 +2,6 @@
 title: Untraditional productivity tips
 date: ''
 coverImage: ''
-lastmod: ''
 tags: []
 description: ''
 publish: false

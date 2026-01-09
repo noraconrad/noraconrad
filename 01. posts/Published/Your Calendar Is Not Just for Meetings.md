@@ -2,7 +2,6 @@
 coverImage: images/1*ioDyuGslsKSVs4frpDGR8w.jpeg
 title: Your Calendar Is Not Just for Meetings
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

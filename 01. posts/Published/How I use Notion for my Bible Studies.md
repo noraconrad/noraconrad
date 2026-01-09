@@ -2,7 +2,6 @@
 title: How I use Notion for my Bible Studies
 date: 2021-09-01T00:00:00.000Z
 coverImage: images/0*XSYMguuohrxaZ2zn.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: ''

@@ -2,7 +2,6 @@
 title: A journey to frontend development
 date: '2023-09-20'
 coverImage: images/1*8oTmqy5htDGofo3OYCUScw.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - ''
   - posts

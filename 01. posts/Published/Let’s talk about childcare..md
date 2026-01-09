@@ -2,7 +2,6 @@
 title: Let’s talk about childcare.
 date: 2024-01-23T00:00:00.000Z
 coverImage: images/Daiga-Ellaby-Photo-12-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

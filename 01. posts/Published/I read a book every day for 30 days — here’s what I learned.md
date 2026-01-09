@@ -2,7 +2,6 @@
 title: I read a book every day for 30 days — here’s what I learned
 date: 2020-01-16T00:00:00.000Z
 coverImage: images/1*_CFeEefb3AZ_NVqtZdtNNg.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: ''

@@ -4,9 +4,8 @@ tags:
   - projects
   - active
 status: active
-externalUrl: https://www.youtube.com/@NoraConrad
-date: 2026-01-06
-lastmod: 2026-01-06
+externalUrl: 'https://www.youtube.com/@NoraConrad'
+date: 2026-01-06T00:00:00.000Z
 publish: true
 ---
 **Channel:** [@NoraConrad](https://www.youtube.com/@NoraConrad)

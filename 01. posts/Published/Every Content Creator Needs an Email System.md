@@ -2,7 +2,6 @@
 title: "Every Content Creator Needs an Email\_System"
 date: 2025-04-08T00:00:00.000Z
 coverImage: images/Computer-Image-from-Unsplash-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

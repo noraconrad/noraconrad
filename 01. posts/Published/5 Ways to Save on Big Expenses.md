@@ -2,7 +2,6 @@
 coverImage: images/0*yd3sfxRcHSjvje6G.png
 title: 5 Ways to Save on Big Expenses
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

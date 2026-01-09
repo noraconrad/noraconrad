@@ -2,7 +2,6 @@
 coverImage: images/1*MS8do4gq4emaH6FjI_Y0Vg.jpeg
 title: 'I’ve steered you wrong, and I’m so sorry.'
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

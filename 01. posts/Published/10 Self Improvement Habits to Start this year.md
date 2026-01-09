@@ -2,7 +2,6 @@
 coverImage: images/1*vg2ol6vnSHARoVVt2E9daw.png
 title: "10 Self Improvement Habits to Start this\_year"
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

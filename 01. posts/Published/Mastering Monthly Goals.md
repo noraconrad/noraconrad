@@ -2,7 +2,6 @@
 title: Mastering Monthly Goals
 date: 2024-05-30T00:00:00.000Z
 coverImage: images/1_VQmgwEoPt03jdgbPktPBmA.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

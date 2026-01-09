@@ -2,7 +2,6 @@
 coverImage: images/1*gvbR89IfTw6kA42b5uS3AQ.png
 title: A Rant on College & Mistakes I’ve Made on the Journey of Getting My Degree
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

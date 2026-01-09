@@ -2,7 +2,6 @@
 title: 'Notion isn’t a website builder, but…'
 date: 2024-01-16T00:00:00.000Z
 coverImage: images/Work-from-Anywhere-Photo-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

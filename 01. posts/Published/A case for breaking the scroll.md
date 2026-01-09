@@ -2,7 +2,6 @@
 coverImage: images/1*X6HOQeSPNX5f6JRwsfHPQQ.png
 title: A case for breaking the scroll
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

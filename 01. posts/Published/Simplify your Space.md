@@ -2,7 +2,6 @@
 title: Simplify your Space
 date: 2019-09-01T00:00:00.000Z
 coverImage: images/1*QuvoOd8Uj-UFIMiPEmsJwA.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: ''

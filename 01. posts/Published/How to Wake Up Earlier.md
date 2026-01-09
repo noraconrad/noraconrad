@@ -2,7 +2,6 @@
 title: How to Wake Up Earlier & Why You’ll Love It
 date: 2018-03-30T00:00:00.000Z
 coverImage: images/1*McPV3XR0qcev1Jurc7uobQ.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: ''

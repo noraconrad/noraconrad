@@ -2,7 +2,6 @@
 title: 'Sorry, I was busy quitting my job and starting a plant shop'
 date: '2023-05-04'
 coverImage: images/1*E1WvQOkvuBTojthruMho2Q.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - ''
   - posts

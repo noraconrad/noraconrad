@@ -2,7 +2,6 @@
 title: Lesser-Known Tools That Boosted My Workflow
 date: 2025-05-25T00:00:00.000Z
 coverImage: images/Stephanie-Berbec-Unsplash-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

@@ -2,7 +2,6 @@
 title: Ultimate Content Manager
 date: 2025-08-07T00:00:00.000Z
 coverImage: content+manager.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - templates
 description: null

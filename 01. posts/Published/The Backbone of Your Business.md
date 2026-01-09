@@ -2,7 +2,6 @@
 coverImage: images/1*bNznQDdR5cKLly9XRYEPuA.jpeg
 title: The Backbone of Your Business
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

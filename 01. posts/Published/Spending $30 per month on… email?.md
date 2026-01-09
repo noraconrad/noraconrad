@@ -2,7 +2,6 @@
 title: Spending $30 per month on… email?
 date: 2023-12-14T00:00:00.000Z
 coverImage: images/Productivity-Desk-Photo-3-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

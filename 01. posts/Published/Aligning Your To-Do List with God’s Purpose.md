@@ -2,7 +2,6 @@
 title: Aligning Your To-Do List with God’s Purpose
 date: 2024-12-20T00:00:00.000Z
 coverImage: images/Daiga-Ellaby-Photo-38-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

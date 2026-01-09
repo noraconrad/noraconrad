@@ -3,7 +3,6 @@ title: How we made a safe play space for our young kids
 date: 2022-10-06T00:00:00.000Z
 tags:
   - posts
-lastmod: 2026-01-06T00:00:00.000Z
 description: null
 publish: true
 coverImage: ''

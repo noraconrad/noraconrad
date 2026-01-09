@@ -2,7 +2,6 @@
 title: The Ultimate Goal Planner
 date: 2025-08-14T00:00:00.000Z
 coverImage: Notion+Template+Covers.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - templates
 description: null

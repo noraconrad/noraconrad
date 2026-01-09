@@ -2,7 +2,6 @@
 coverImage: images/1*UGl3zFGdMJdUtcUcIJod_g.png
 title: $90000 In Side Hustle Income
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

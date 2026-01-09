@@ -2,7 +2,6 @@
 coverImage: images/1*FX7zMhUbkxAoQQjUAFXb8g.png
 title: 5 Small Expenses to cut out
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

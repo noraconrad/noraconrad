@@ -2,7 +2,6 @@
 title: College Class OS
 date: 2025-08-14T00:00:00.000Z
 coverImage: college+class.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - templates
 description: null

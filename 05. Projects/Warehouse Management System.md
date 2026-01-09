@@ -4,9 +4,8 @@ tags:
   - projects
   - active
 status: building
-externalUrl: https://www.macpac.space
-date: 2026-01-06
-lastmod: 2026-01-06
+externalUrl: 'https://www.macpac.space'
+date: 2026-01-06T00:00:00.000Z
 publish: true
 ---
 **External Site:** [macpac.space](https://www.macpac.space)

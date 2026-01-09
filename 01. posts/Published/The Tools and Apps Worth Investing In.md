@@ -2,7 +2,6 @@
 title: The Tools and Apps Worth Investing In
 date: 2024-08-27T00:00:00.000Z
 coverImage: images/1*4gG_XlbBCOZP6EqS36Riaw.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

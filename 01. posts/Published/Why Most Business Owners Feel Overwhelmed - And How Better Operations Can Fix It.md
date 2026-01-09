@@ -4,7 +4,6 @@ title: >-
   It
 date: 2025-04-01T00:00:00.000Z
 coverImage: images/Work-Life-Balance-Photo-3-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

@@ -2,7 +2,6 @@
 coverImage: images/1*vev4OndSPdxrduKfKS2N7A.jpeg
 title: Why You Need a Password Manager
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

@@ -2,7 +2,6 @@
 title: 'My #1 Secret to a Successful Life'
 date: 2015-11-16T00:00:00.000Z
 coverImage: images/1*974USwMyjrPfDDbrhMzdXw.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: ''

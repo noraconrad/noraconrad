@@ -2,7 +2,6 @@
 coverImage: images/1*QKy1hmcJjqDk_vNU46_6rw.png
 title: 5 Simple Ways to Streamline Your Business
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

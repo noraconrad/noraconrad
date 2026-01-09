@@ -2,7 +2,6 @@
 title: Micro Habits and Habits to Build Healthy Routines
 date: ''
 coverImage: ''
-lastmod: ''
 tags: []
 description: ''
 publish: false

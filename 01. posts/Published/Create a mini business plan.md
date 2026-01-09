@@ -2,7 +2,6 @@
 title: "Create a mini business\_plan"
 date: 2022-02-01T00:00:00.000Z
 coverImage: images/1*h3LGLg01dqfUBS0j59rBng.jpeg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: ''

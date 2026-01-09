@@ -2,7 +2,6 @@
 coverImage: images/1*RCnROfe4um2mxuttVneQ9g.jpeg
 title: Streamline Your Creative Workflow
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

@@ -4,7 +4,6 @@ date: 2025-12-16T00:00:00.000Z
 tags:
   - posts
 coverImage: ''
-lastmod: 2026-01-06T00:00:00.000Z
 description: null
 publish: true
 slug: posts/my-goal-planning-method-for-2026

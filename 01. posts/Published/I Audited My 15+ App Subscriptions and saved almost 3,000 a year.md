@@ -2,7 +2,6 @@
 title: 'I Audited My 15+ App Subscriptions and saved almost $3,000 a year'
 date: 2025-08-29T00:00:00.000Z
 coverImage: images/App+Subscriptions+Audit+Aug+2025.webp
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

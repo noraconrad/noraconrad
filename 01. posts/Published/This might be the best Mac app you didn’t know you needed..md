@@ -2,7 +2,6 @@
 title: This might be the best Mac app you didn’t know you needed.
 date: 2024-02-12T00:00:00.000Z
 coverImage: images/Work-from-Anywhere-Photo-1-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

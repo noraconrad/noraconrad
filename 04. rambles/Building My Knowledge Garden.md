@@ -1,7 +1,6 @@
 ---
 title: building my knowledge garden
-date: 2026-01-06
-lastmod: 2026-01-06
+date: 2026-01-06T00:00:00.000Z
 tags:
   - updates
 description: building this website in public

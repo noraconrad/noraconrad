@@ -2,7 +2,6 @@
 title: "Sunsama just got\_better."
 date: ''
 coverImage: ''
-lastmod: ''
 tags: []
 description: ''
 publish: false

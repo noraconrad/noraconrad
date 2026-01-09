@@ -2,7 +2,6 @@
 title: Blending Tradition and Tech for Effective Yearly Planning
 date: 2023-12-19T00:00:00.000Z
 coverImage: images/Productivity-Desk-Photo-5-scaled.jpg
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
 description: null

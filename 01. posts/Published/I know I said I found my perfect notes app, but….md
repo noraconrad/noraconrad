@@ -2,7 +2,6 @@
 title: 'I know I said I found my perfect notes app, but…'
 date: '2023-09-09'
 coverImage: images/1*Z3PGdwp2pnEGoAHZZhwzoA.png
-lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - ''
   - posts

@@ -2,7 +2,6 @@
 coverImage: images/1*Q_qTQ_ojRmn0K_htvZlr8g@2x.jpeg
 title: 31 Lessons I’ve Learned in 31 Years
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''

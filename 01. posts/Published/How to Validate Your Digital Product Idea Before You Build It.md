@@ -2,7 +2,6 @@
 coverImage: images/1*iZ1GZRUwo_hzwPgwqeq9nQ.jpeg
 title: How to Validate Your Digital Product Idea Before You Build It
 date: ''
-lastmod: ''
 tags:
   - posts
 description: ''
