@@ -18,7 +18,11 @@ HomeLink.css = `
   list-style: none;
   margin: 0;
   padding: 0;
-  margin-bottom: 0.5rem;
+}
+
+.home-link-list li {
+  margin: 0;
+  padding: 0;
 }
 
 .home-link-list li > a.folder-title {
@@ -31,6 +35,7 @@ HomeLink.css = `
   text-decoration: none;
   opacity: 0.75;
   transition: opacity 0.2s ease;
+  padding: 0;
 }
 
 .home-link-list li > a.folder-title:hover {
