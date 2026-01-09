@@ -11,6 +11,7 @@ categories:
   - notion
 Price: $15.00
 category: templates
+slug: templates/business-money-tracker
 ---
 
 Reports Dashboard for Monthly and Yearly totals

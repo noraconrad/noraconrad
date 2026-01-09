@@ -11,6 +11,7 @@ categories:
   - notion
 Price: free
 category: templates
+slug: templates/college-class-os
 ---
 
 Track your classes, degree progress, grades, notes, advisor meetings, and tasks in one easy-to use dashboard. See your progress as you complete courses. Quickly find and review your notes for exams. Plan your next semester (or entire college career) in one simple database.

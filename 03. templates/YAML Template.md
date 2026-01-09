@@ -7,5 +7,6 @@ tags:
 description: ''
 publish: true
 category: templates
+slug: templates/yaml-template
 ---
 
