@@ -86,6 +86,16 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
                 : (customSlug as FullSlug)
               // Remove trailing slash and ensure it's a valid slug
               const cleanSlug = normalizedSlug.replace(/\/$/, "") as FullSlug
+              
+              // Store the original slug as an alias so old links still work
+              const originalSlug = file.data.slug!
+              if (originalSlug !== cleanSlug) {
+                const aliases = file.data.aliases ?? []
+                aliases.push(originalSlug)
+                file.data.aliases = aliases
+                allSlugs.push(originalSlug)
+              }
+              
               file.data.slug = cleanSlug
               allSlugs.push(cleanSlug)
             }
