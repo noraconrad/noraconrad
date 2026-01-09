@@ -140,13 +140,17 @@ button.desktop-explorer {
     overscroll-behavior: contain;
 
     & li > a {
-      color: var(--dark);
-      opacity: 0.75;
+      color: var(--secondary);
+      opacity: 1;
       pointer-events: all;
+      transition: color 0.2s ease;
 
       &.active {
-        opacity: 1;
-        color: var(--tertiary);
+        color: #483626;
+      }
+      
+      &:hover:not(.active) {
+        color: #9d8f87;
       }
     }
   }
@@ -186,10 +190,15 @@ button.desktop-explorer {
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
+    transition: color 0.2s ease;
   }
 
-  & div > a:hover {
-    color: var(--tertiary);
+  & div > a.active {
+    color: #483626;
+  }
+
+  & div > a:hover:not(.active) {
+    color: #9d8f87;
   }
 
   & div > button {

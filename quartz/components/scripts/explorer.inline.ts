@@ -144,6 +144,12 @@ function createFolderNode(
     a.dataset.for = folderPath
     a.className = "folder-title"
     a.textContent = node.displayName
+    // Check if this folder is the current page
+    const simpleFolderPath = simplifySlug(folderPath)
+    const simpleCurrentSlug = simplifySlug(currentSlug)
+    if (simpleFolderPath === simpleCurrentSlug || simpleCurrentSlug.startsWith(simpleFolderPath + "/")) {
+      a.classList.add("active")
+    }
     button.replaceWith(a)
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
@@ -239,7 +245,9 @@ async function setupExplorer(currentSlug: FullSlug) {
     homeLink.href = resolveRelative(currentSlug, "index" as FullSlug)
     homeLink.className = "folder-title"
     homeLink.textContent = "00. home"
-    if (currentSlug === "index" || currentSlug === "") {
+    // Check if current page is index (handle both "index" and empty slug)
+    const isIndexPage = currentSlug === "index" || currentSlug === "" || !currentSlug || currentSlug === "/"
+    if (isIndexPage) {
       homeLink.classList.add("active")
     }
     homeLi.appendChild(homeLink)
