@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - business
 slug: posts/mastering-sunsama-zapier-a-complete-guide-to-smarter-task-management
 category: posts
 ---

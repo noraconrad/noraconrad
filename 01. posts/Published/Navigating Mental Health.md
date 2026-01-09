@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - mental-health
 slug: posts/navigating-mental-health
 category: posts
 ---

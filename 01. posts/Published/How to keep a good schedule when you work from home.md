@@ -3,7 +3,6 @@ title: How to keep a good schedule when you work from home
 date: 2017-01-16T00:00:00.000Z
 coverImage: images/1*3lfTaLOhZ8gaHJr73mhOTQ.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories: null
 tags:
   - posts
 description: ''

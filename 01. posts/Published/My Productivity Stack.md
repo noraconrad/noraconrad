@@ -3,7 +3,6 @@ title: My Productivity Stack
 date: 2022-11-29T00:00:00.000Z
 coverImage: 'https://cdn-images-1.medium.com/max/800/1*N7t8BvUE_Xi8x8pvRQDVLA.png'
 lastmod: 2026-01-06T00:00:00.000Z
-categories: null
 tags:
   - posts
 description: ''

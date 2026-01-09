@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/balancing-business-mental-health-and-motherhood
 category: posts
 ---

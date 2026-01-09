@@ -5,8 +5,6 @@ description: >-
   Step-by-step email client setup: unsubscribe, filter, and organize your inbox
   for client priority
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

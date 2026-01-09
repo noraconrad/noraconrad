@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/90000-in-side-hustle-income
 category: posts
 ---

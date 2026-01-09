@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - mental-health
 slug: posts/sustainable-work-habits-for-remote-work
 category: posts
 ---

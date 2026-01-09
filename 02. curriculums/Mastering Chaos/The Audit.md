@@ -5,8 +5,6 @@ description: >-
   Where your time really goes: the first step to reclaiming your life as an
   entrepreneur
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

@@ -7,8 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories:
-  - goals-growth
 slug: posts/10-self-improvement-habits-to-start-this-year
 category: posts
 ---

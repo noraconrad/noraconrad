@@ -6,8 +6,6 @@ tags:
 lastmod: 2026-01-06T00:00:00.000Z
 description: null
 publish: true
-categories:
-  - small-business
 coverImage: ''
 slug: posts/build-it-and-they-probably-wont-come
 category: posts

@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/the-tools-and-apps-worth-investing-in
 category: posts
 ---

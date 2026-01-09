@@ -5,8 +5,6 @@ description: >-
   Measure what works, repurpose everything, and implement sustainable content
   systems
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

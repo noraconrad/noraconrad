@@ -5,8 +5,6 @@ description: >-
   Build your contract and legal template system: modular components for rapid
   document creation
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/my-secret-to-making-any-productivity-app-work-for-you
 category: posts
 ---

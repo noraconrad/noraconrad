@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/this-might-be-the-best-mac-app-you-didnt-know-you-needed
 category: posts
 ---

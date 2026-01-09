@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/mastering-monthly-goals
 category: posts
 ---

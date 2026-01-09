@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - business
 slug: >-
   posts/boost-your-click-through-rates-with-headline-analyzer-studio-by-coschedule
 category: posts

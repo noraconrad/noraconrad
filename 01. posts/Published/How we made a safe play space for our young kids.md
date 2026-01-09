@@ -6,8 +6,6 @@ tags:
 lastmod: 2026-01-06T00:00:00.000Z
 description: null
 publish: true
-categories:
-  - lifestyle
 coverImage: ''
 slug: posts/how-we-made-a-safe-play-space-for-our-young-kids
 category: posts

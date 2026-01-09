@@ -1,12 +1,11 @@
 ---
 title: Untraditional productivity tips
-date: ""
-coverImage: ""
-lastmod: ""
+date: ''
+coverImage: ''
+lastmod: ''
 tags: []
-description: ""
+description: ''
 publish: false
-categories: []
 ---
  #### If you’re feeling overwhelmed, try these
 

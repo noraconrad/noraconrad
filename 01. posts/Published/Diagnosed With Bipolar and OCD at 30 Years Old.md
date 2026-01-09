@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - mental-health
 slug: posts/diagnosed-with-bipolar-and-ocd-at-30-years-old
 category: posts
 ---

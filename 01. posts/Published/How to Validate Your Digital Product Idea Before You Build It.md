@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/how-to-validate-your-digital-product-idea-before-you-build-it
 category: posts
 ---

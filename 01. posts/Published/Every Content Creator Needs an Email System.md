@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - business
 slug: posts/every-content-creator-needs-an-email-system
 category: posts
 ---

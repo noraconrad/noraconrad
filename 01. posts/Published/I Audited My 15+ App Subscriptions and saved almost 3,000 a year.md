@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/i-audited-my-15-app-subscriptions-and-saved-almost-3000-a-year
 category: posts
 ---

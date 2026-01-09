@@ -3,8 +3,6 @@ title: How to read more this year
 date: 2022-12-27T00:00:00.000Z
 coverImage: images/1*9Wbcq0RmNBErSTQx1KZEyw.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - ''
 tags:
   - ''
   - posts

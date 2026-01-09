@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/5-simple-ways-to-streamline-your-business
 category: posts
 ---

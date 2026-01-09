@@ -7,8 +7,6 @@ tags:
   - templates
 description: null
 publish: true
-categories:
-  - notion
 Price: $15.00
 category: templates
 slug: templates/business-money-tracker

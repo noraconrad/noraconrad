@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - operations
 slug: posts/how-we-structure-our-week-working-full-time-with-two-young-kids
 category: posts
 ---

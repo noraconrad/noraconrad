@@ -3,7 +3,6 @@ title: My Desk Setup — Fall 2023
 date: 2023-10-02T00:00:00.000Z
 coverImage: images/1*oAkFnE8g9htSafmQIuFFLg.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories: null
 tags:
   - posts
 description: ''

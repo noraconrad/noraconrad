@@ -5,8 +5,6 @@ description: >-
   Build your comprehensive email template library: 30+ templates for every
   client scenario
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

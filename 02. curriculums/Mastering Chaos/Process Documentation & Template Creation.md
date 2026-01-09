@@ -3,8 +3,6 @@ title: Process Documentation & Template Creation
 date: 2026-01-06T00:00:00.000Z
 description: Map every business process and create reusable documentation templates
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

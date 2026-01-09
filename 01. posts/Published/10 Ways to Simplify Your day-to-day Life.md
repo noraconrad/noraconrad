@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/10-ways-to-simplify-your-day-to-day-life
 category: posts
 ---

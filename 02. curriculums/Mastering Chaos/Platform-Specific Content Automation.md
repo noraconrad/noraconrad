@@ -5,8 +5,6 @@ description: >-
   Set up automated content distribution across platforms: one piece of content,
   everywhere at once
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

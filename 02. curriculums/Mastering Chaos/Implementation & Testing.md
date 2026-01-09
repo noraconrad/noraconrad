@@ -5,8 +5,6 @@ description: >-
   Roll out your complete operations manual: test, refine, and establish
   maintenance routines
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - business
 slug: posts/how-my-free-product-earned-the-most-money-in-my-shop
 category: posts
 ---

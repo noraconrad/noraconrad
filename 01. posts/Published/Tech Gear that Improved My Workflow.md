@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/tech-gear-that-improved-my-workflow
 category: posts
 ---

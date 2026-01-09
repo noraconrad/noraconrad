@@ -7,8 +7,6 @@ coverImage: ''
 lastmod: 2026-01-06T00:00:00.000Z
 description: null
 publish: true
-categories:
-  - goals-growth
 slug: posts/my-goal-planning-method-for-2026
 category: posts
 ---

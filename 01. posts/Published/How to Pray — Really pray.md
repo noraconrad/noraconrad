@@ -5,8 +5,6 @@ coverImage: images/Daiga-Ellaby-Photo-2-scaled.jpg
 lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-categories:
-  - faith
 description: null
 publish: true
 slug: posts/how-to-pray-really-pray

@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/strategies-for-managing-daily-tasks
 category: posts
 ---

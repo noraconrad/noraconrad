@@ -3,8 +3,6 @@ title: How to Create an Evening Routine that Makes you More Productive
 date: '2018-06-15'
 coverImage: images/1*POPIywVv7fvbmpRHzUuDhw.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - ''
 tags:
   - ''
   - posts

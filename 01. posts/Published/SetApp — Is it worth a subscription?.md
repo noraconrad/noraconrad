@@ -3,8 +3,6 @@ title: SetApp — Is it worth a subscription?
 date: '2023-11-10'
 coverImage: images/1*pNrkSLHfXzjLiNGTMEllAQ.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - ''
 tags:
   - ''
   - posts

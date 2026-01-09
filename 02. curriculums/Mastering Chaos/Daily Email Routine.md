@@ -5,8 +5,6 @@ description: >-
   The 30-minute daily email routine: maintain professional communication while
   protecting family time
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

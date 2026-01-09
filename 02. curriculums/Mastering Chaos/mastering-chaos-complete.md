@@ -3,8 +3,6 @@ title: 'Mastering Chaos: Complete'
 date: 2026-01-06T00:00:00.000Z
 description: You did it. The complete transformation. Your next steps.
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

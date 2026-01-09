@@ -1,12 +1,11 @@
 ---
 title: Micro Habits and Habits to Build Healthy Routines
-date: ""
-coverImage: ""
-lastmod: ""
+date: ''
+coverImage: ''
+lastmod: ''
 tags: []
-description: ""
+description: ''
 publish: false
-categories: []
 ---
 ### Understanding Micro Habits
 

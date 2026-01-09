@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/the-ultimate-integration-tool-for-overwhelmed-creators
 category: posts
 ---

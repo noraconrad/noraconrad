@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - business
 slug: posts/lets-talk-about-childcare
 category: posts
 ---

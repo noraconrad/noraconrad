@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - faith
 slug: posts/aligning-your-to-do-list-with-gods-purpose
 category: posts
 ---

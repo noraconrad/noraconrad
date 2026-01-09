@@ -3,8 +3,6 @@ title: Habit tracking is actually really important
 date: 2023-05-23T00:00:00.000Z
 coverImage: images/1*OkpvnGtD7vYXastm4X0yNQ.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - ''
 tags:
   - ''
   - posts

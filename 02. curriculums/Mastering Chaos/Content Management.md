@@ -5,8 +5,6 @@ description: >-
   From daily content stress to strategic, automated systems: create weeks of
   content in hours
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - mental-health
 slug: posts/consistency-and-mental-health
 category: posts
 ---

@@ -3,8 +3,6 @@ title: How Proverbs 31 Fits into my Business Plan
 date: 2015-11-23T00:00:00.000Z
 coverImage: ''
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - faith
 tags:
   - posts
 description: ''

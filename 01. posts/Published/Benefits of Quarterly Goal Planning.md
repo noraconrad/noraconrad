@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/benefits-of-quarterly-goal-planning
 category: posts
 ---

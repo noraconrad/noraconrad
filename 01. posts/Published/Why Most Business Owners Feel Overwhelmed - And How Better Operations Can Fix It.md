@@ -9,9 +9,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - business
-  - operations
 slug: >-
   posts/why-most-business-owners-feel-overwhelmed-and-how-better-operations-can-fix-it
 category: posts

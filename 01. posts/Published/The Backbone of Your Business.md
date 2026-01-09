@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/the-backbone-of-your-business
 category: posts
 ---

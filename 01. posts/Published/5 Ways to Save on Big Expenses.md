@@ -7,8 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories:
-  - business
 slug: posts/5-ways-to-save-on-big-expenses
 category: posts
 ---

@@ -3,10 +3,6 @@ title: How to use Notion & Sunsama to keep your home clean
 date: 2021-10-01T00:00:00.000Z
 coverImage: images/0*6UJuLlSMoXNTx0WL.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - productivity
-  - lifestyle
-  - business
 tags:
   - posts
 description: ''

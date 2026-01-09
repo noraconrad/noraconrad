@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/do-you-need-a-digital-planner-for-2024
 category: posts
 ---

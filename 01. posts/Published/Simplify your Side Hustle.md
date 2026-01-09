@@ -3,8 +3,6 @@ title: Simplify your Side Hustle
 date: '2019-07-01'
 coverImage: images/1*3MndhyZBVBF75xK5nciuuw.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - ''
 tags:
   - ''
   - posts

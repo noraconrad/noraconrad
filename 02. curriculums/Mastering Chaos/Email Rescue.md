@@ -5,8 +5,6 @@ description: >-
   From inbox chaos to 30 minutes per day: systematize your email and reclaim 10+
   hours weekly
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

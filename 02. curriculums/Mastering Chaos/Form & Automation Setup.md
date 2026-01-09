@@ -5,8 +5,6 @@ description: >-
   Build your FAQ database and automated form systems: reduce customer service
   time by 70%
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

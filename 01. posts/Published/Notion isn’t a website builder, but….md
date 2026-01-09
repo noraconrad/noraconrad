@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - business
 slug: posts/notion-isnt-a-website-builder-but
 category: posts
 ---

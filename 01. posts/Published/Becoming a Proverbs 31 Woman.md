@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - faith
 slug: posts/becoming-a-proverbs-31-woman
 category: posts
 ---

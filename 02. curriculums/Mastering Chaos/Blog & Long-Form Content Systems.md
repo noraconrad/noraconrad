@@ -5,8 +5,6 @@ description: >-
   Build your blog and long-form content systems: create SEO-optimized content
   that drives organic traffic
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

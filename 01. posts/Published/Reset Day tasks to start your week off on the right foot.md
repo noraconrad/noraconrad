@@ -3,8 +3,6 @@ title: Reset Day” asks to start your week off on the right foot
 date: 2021-03-01T00:00:00.000Z
 coverImage: images/0*F7OYB904cgtRUvc_.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - goals-growth
 tags:
   - posts
 description: ''

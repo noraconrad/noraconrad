@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/10-unspoken-rules-of-adulting-you-can-not-afford-to-ignore
 category: posts
 ---

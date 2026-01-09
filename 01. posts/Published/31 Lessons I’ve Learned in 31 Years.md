@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/31-lessons-ive-learned-in-31-years
 category: posts
 ---

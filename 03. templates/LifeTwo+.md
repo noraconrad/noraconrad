@@ -7,8 +7,6 @@ tags:
   - templates
 description: null
 publish: true
-categories:
-  - notion
 Price: $49.00
 category: templates
 slug: templates/lifetwo

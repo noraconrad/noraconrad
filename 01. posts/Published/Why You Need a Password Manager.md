@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/why-you-need-a-password-manager
 category: posts
 ---

@@ -3,8 +3,6 @@ title: 'Stop trying to be productive, do this instead (Second Brain Setup)'
 date: 2022-09-01T00:00:00.000Z
 coverImage: images/1*4UqoI_xy_GY6eNEQI93DPA.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - productivity
 tags:
   - posts
 description: ''

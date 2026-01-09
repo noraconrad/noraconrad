@@ -5,8 +5,6 @@ description: >-
   Monthly content planning and batch creation: create 4-6 weeks of content in
   one session
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/5-small-expenses-to-cut-out
 category: posts
 ---

@@ -3,8 +3,6 @@ title: Routine.co — a promising planner app
 date: '2022-10-21'
 coverImage: images/1*LNiIlaZjBHtvWDedHX2N3A.gif
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - ''
 tags:
   - ''
   - posts

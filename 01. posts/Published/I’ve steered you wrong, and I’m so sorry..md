@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/ive-steered-you-wrong-and-im-so-sorry
 category: posts
 ---

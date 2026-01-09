@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/a-case-for-breaking-the-scroll
 category: posts
 ---

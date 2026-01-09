@@ -7,8 +7,6 @@ tags:
   - posts
 description: null
 publish: true
-categories:
-  - productivity
 slug: posts/lesser-known-tools-that-boosted-my-workflow
 category: posts
 ---

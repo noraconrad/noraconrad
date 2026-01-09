@@ -5,8 +5,6 @@ description: >-
   8 essential email templates + setup guide for 50+ customizable response
   templates
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

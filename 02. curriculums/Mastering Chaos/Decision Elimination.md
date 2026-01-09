@@ -5,8 +5,6 @@ description: >-
   Build your operations manual: document everything as if you're training
   someone tomorrow
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

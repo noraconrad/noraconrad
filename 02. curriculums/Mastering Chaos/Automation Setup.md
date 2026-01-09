@@ -3,8 +3,6 @@ title: Automation Setup
 date: 2026-01-06T00:00:00.000Z
 description: 'Email scheduling, auto-responders, and follow-up sequences that work 24/7'
 publish: true
-categories:
-  - mastering-chaos
 tags:
   - mastering-chaos
   - lesson

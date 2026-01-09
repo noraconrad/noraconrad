@@ -1,12 +1,11 @@
 ---
 title: Notion for Content Creation
-date: ""
-coverImage: ""
-lastmod: ""
+date: ''
+coverImage: ''
+lastmod: ''
 tags: []
-description: ""
+description: ''
 publish: false
-categories: []
 ---
 #### Building a dashboard that sparks creativity
 

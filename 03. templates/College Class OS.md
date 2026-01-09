@@ -7,8 +7,6 @@ tags:
   - templates
 description: null
 publish: true
-categories:
-  - notion
 Price: free
 category: templates
 slug: templates/college-class-os

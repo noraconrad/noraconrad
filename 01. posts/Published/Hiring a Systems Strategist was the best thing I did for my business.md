@@ -3,8 +3,6 @@ title: Hiring a Systems Strategist was the best thing I did for my business
 date: '2023-06-15'
 coverImage: images/1*ocDuxGZEwb9gzeFdMxz2Iw.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
-  - ''
 tags:
   - ''
   - posts

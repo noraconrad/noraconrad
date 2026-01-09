@@ -7,8 +7,6 @@ tags:
   - templates
 description: null
 publish: true
-categories:
-  - notion
 Price: '24'
 category: templates
 slug: templates/ultimate-content-manager

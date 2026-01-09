@@ -6,8 +6,6 @@ tags:
 lastmod: 2026-01-06T00:00:00.000Z
 description: null
 publish: true
-categories:
-  - operations
 coverImage: ''
 slug: posts/podia-takes-on-yet-another-role
 category: posts

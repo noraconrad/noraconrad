@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/i-tried-to-build-a-sunsama-dupe-in-notion
 category: posts
 ---

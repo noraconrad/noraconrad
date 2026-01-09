@@ -7,7 +7,6 @@ tags:
   - posts
 description: ''
 publish: true
-categories: []
 slug: posts/a-rant-on-college-mistakes-ive-made-on-the-journey-of-getting-my-degree
 category: posts
 ---
