@@ -232,6 +232,20 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
+    
+    // Add home link as first item
+    const homeLi = document.createElement("li")
+    const homeLink = document.createElement("a")
+    homeLink.href = resolveRelative(currentSlug, "index" as FullSlug)
+    homeLink.className = "folder-title"
+    homeLink.textContent = "00. home"
+    if (currentSlug === "index" || currentSlug === "") {
+      homeLink.classList.add("active")
+    }
+    homeLi.appendChild(homeLink)
+    fragment.appendChild(homeLi)
+    
+    // Add folder nodes
     for (const child of trie.children) {
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)

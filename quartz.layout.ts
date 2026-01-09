@@ -1,6 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import HomeLink from "./quartz/components/HomeLink"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -34,7 +33,6 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    HomeLink(),
     Component.Explorer({
       folderDefaultState: "collapsed", // Collapsed by default
       folderClickBehavior: "link", // Link to index page when clicked
@@ -125,7 +123,6 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    HomeLink(),
     Component.Explorer({
       folderDefaultState: "collapsed", // Collapsed by default
       folderClickBehavior: "link", // Link to index page when clicked
