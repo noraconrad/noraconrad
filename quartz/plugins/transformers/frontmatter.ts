@@ -77,6 +77,19 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
 
+            // Override slug if specified in frontmatter
+            if (data.slug != null && data.slug.toString() !== "") {
+              const customSlug = data.slug.toString().trim()
+              // Ensure slug starts with / if it's an absolute path, or normalize it
+              const normalizedSlug = customSlug.startsWith("/") 
+                ? (customSlug.slice(1) as FullSlug)
+                : (customSlug as FullSlug)
+              // Remove trailing slash and ensure it's a valid slug
+              const cleanSlug = normalizedSlug.replace(/\/$/, "") as FullSlug
+              file.data.slug = cleanSlug
+              allSlugs.push(cleanSlug)
+            }
+
             const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))
             if (tags) data.tags = [...new Set(tags.map((tag: string) => slugTag(tag)))]
 
