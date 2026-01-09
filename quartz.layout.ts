@@ -48,16 +48,17 @@ export const defaultContentPageLayout: PageLayout = {
             "05.-projects": "05. projects",
             "pages": "About"
           }
-          // Try multiple ways to match the folder
-          const slugSegment = (node.slugSegment || "").toLowerCase().trim()
-          const slug = (node.slug || "").toLowerCase()
-          // Extract folder name from slug like "01.-posts/index" -> "01.-posts"
-          const slugFolderMatch = slug.match(/^([^/]+)\/index$/)
-          const folderName = slugFolderMatch ? slugFolderMatch[1] : slugSegment
           
-          // Force set displayName for known folders - check all possible matches
-          const mappedTitle = folderTitleMap[slugSegment] || folderTitleMap[folderName] || folderTitleMap[slug]
+          // Extract folder name from slug (e.g., "01.-posts/index" -> "01.-posts")
+          const slug = node.slug || ""
+          const slugParts = slug.split("/").filter(p => p && p !== "index")
+          const folderSlug = slugParts.length > 0 ? slugParts[0].toLowerCase() : ""
+          const slugSegment = (node.slugSegment || "").toLowerCase().trim()
+          
+          // Check all possible matches - prioritize folderSlug from slug
+          const mappedTitle = folderTitleMap[folderSlug] || folderTitleMap[slugSegment] || folderTitleMap[slug.toLowerCase()]
           if (mappedTitle) {
+            // Force override displayName
             node.displayName = mappedTitle
           } else {
             // For other folders, use title from index file if available
@@ -144,16 +145,17 @@ export const defaultListPageLayout: PageLayout = {
             "05.-projects": "05. projects",
             "pages": "About"
           }
-          // Try multiple ways to match the folder
-          const slugSegment = (node.slugSegment || "").toLowerCase().trim()
-          const slug = (node.slug || "").toLowerCase()
-          // Extract folder name from slug like "01.-posts/index" -> "01.-posts"
-          const slugFolderMatch = slug.match(/^([^/]+)\/index$/)
-          const folderName = slugFolderMatch ? slugFolderMatch[1] : slugSegment
           
-          // Force set displayName for known folders - check all possible matches
-          const mappedTitle = folderTitleMap[slugSegment] || folderTitleMap[folderName] || folderTitleMap[slug]
+          // Extract folder name from slug (e.g., "01.-posts/index" -> "01.-posts")
+          const slug = node.slug || ""
+          const slugParts = slug.split("/").filter(p => p && p !== "index")
+          const folderSlug = slugParts.length > 0 ? slugParts[0].toLowerCase() : ""
+          const slugSegment = (node.slugSegment || "").toLowerCase().trim()
+          
+          // Check all possible matches - prioritize folderSlug from slug
+          const mappedTitle = folderTitleMap[folderSlug] || folderTitleMap[slugSegment] || folderTitleMap[slug.toLowerCase()]
           if (mappedTitle) {
+            // Force override displayName
             node.displayName = mappedTitle
           } else {
             // For other folders, use title from index file if available
