@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*iZ1GZRUwo_hzwPgwqeq9nQ.jpeg
 title: How to Validate Your Digital Product Idea Before You Build It
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/how-to-validate-your-digital-product-idea-before-you-build-it
 ---
 #### And Avoid Wasting Months on Something Nobody Wants
 

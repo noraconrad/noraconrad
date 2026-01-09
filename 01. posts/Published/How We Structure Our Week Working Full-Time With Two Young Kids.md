@@ -1,14 +1,15 @@
 ---
-title: "How We Structure Our Week Working Full-Time With Two Young Kids"
-date: 2025-08-21
-coverImage: "images/IMG_4351.JPG"
-lastmod: 2026-01-06
+title: How We Structure Our Week Working Full-Time With Two Young Kids
+date: 2025-08-21T00:00:00.000Z
+coverImage: images/IMG_4351.JPG
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: 
+description: null
 publish: true
 categories:
   - operations
+slug: posts/how-we-structure-our-week-working-full-time-with-two-young-kids
 ---
 
 As a mom with young children, I constantly wondered how other parents made their schedules work. Now that I'm a seasoned working mom I want to share how my husband and I work full-time hours with a 6-year-old and 3-year-old at home. It’s a combination of intentional sacrifices and a lot of teamwork.

@@ -9,6 +9,7 @@ description: null
 publish: true
 categories:
   - faith
+slug: posts/aligning-your-to-do-list-with-gods-purpose
 ---
 There’s an interesting concept used by professionals who study counterfeit money: they don’t spend their time studying every type of counterfeit; instead, they immerse themselves in studying the real thing. By doing this, they become so familiar with the authenticity, that when a counterfeit comes along, no matter how convincing, they can easily recognize it as fake.
 

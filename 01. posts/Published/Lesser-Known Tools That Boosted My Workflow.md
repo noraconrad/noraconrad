@@ -1,14 +1,15 @@
 ---
-title: "Lesser-Known Tools That Boosted My Workflow"
-date: 2025-05-25
-coverImage: "images/Stephanie-Berbec-Unsplash-scaled.jpg"
-lastmod: 2026-01-06
+title: Lesser-Known Tools That Boosted My Workflow
+date: 2025-05-25T00:00:00.000Z
+coverImage: images/Stephanie-Berbec-Unsplash-scaled.jpg
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: 
+description: null
 publish: true
 categories:
-  - "productivity"
+  - productivity
+slug: posts/lesser-known-tools-that-boosted-my-workflow
 ---
 
 ![](images/Stephanie-Berbec-Unsplash-scaled.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Paying for a Baby Without Insurance — Christian Healthcare Ministries Review
-date: 2018-10-02
+date: 2018-10-02T00:00:00.000Z
 coverImage: images/0*_qHYU1LY1Cy54K5K.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
@@ -8,8 +8,10 @@ categories:
   - finance
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: >-
+  posts/paying-for-a-baby-without-insurance-christian-healthcare-ministries-review
 ---
 I saved over $6,000 a year in healthcare costs through two pregnancies. Here’s how I did it.
 

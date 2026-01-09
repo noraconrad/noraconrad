@@ -9,6 +9,8 @@ description: null
 publish: true
 categories:
   - business
+slug: >-
+  posts/boost-your-click-through-rates-with-headline-analyzer-studio-by-coschedule
 ---
 #### Why is this tool not talked about more?
 

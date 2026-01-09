@@ -1,13 +1,14 @@
 ---
 title: I’ve been convinced. Obsidian is now my note app of choice
-date: 2023-10-24
+date: 2023-10-24T00:00:00.000Z
 coverImage: images/1*GWnGJylV5xfLc086hbAKWQ@2x.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
+categories: null
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/ive-been-convinced-obsidian-is-now-my-note-app-of-choice
 ---
 #### Switching to Obsidian and How I’m Using it Now
 

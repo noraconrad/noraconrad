@@ -1,14 +1,15 @@
 ---
-title: Strategies for Managing Daily Tasks
+title: "Strategies for Managing Daily\_Tasks"
 date: 2025-06-10T00:00:00.000Z
 coverImage: images/Task-Picture-from-Unsplash-scaled.jpg
 lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description:
+description: null
 publish: true
 categories:
   - productivity
+slug: posts/strategies-for-managing-daily-tasks
 ---
 ## No, it’s not another task manager
 

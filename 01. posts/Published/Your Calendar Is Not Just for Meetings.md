@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*ioDyuGslsKSVs4frpDGR8w.jpeg
 title: Your Calendar Is Not Just for Meetings
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/your-calendar-is-not-just-for-meetings
 ---
 #### How to Use It Like a CEO
 

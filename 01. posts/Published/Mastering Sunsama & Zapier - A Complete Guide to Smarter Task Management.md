@@ -1,14 +1,15 @@
 ---
 title: Mastering Sunsama & Zapier - A Complete Guide to Smarter Task Management
-date: 2025-03-01
+date: 2025-03-01T00:00:00.000Z
 coverImage: images/IMG-2861-from-Adobe-Lightroom-scaled.jpg
-lastmod: 2026-01-06
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description:
+description: null
 publish: true
 categories:
   - business
+slug: posts/mastering-sunsama-zapier-a-complete-guide-to-smarter-task-management
 ---
 
 ![](images/IMG-2861-from-Adobe-Lightroom-scaled.jpg)

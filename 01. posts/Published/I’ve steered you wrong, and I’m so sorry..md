@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*MS8do4gq4emaH6FjI_Y0Vg.jpeg
-title: I’ve steered you wrong, and I’m so sorry.
-date: ""
-lastmod: ""
+title: 'I’ve steered you wrong, and I’m so sorry.'
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/ive-steered-you-wrong-and-im-so-sorry
 ---
 #### _Purposeful Productivity in a world of “get more done”_
 

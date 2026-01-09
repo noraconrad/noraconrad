@@ -1,14 +1,15 @@
 ---
 coverImage: images/0*yd3sfxRcHSjvje6G.png
 title: 5 Ways to Save on Big Expenses
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories:
   - business
+slug: posts/5-ways-to-save-on-big-expenses
 ---
  If you’ve ever searched “how to save money” on Pinterest, you’ll be bombarded with money-saving challenges, no-spend rules, and tips to lower the cost of your Starbucks order. Not buying coffee is great and all, but here are a few places you can save that will make a real difference in your monthly budget. If you’ve already cut your budget back as far as it can go, here are some major ways to save on those big-ticket items.
 

@@ -1,14 +1,15 @@
 ---
-title: "I Audited My 15+ App Subscriptions and saved almost $3,000 a year"
-date: 2025-08-29
-coverImage: "images/App+Subscriptions+Audit+Aug+2025.webp"
-lastmod: 2026-01-06
+title: 'I Audited My 15+ App Subscriptions and saved almost $3,000 a year'
+date: 2025-08-29T00:00:00.000Z
+coverImage: images/App+Subscriptions+Audit+Aug+2025.webp
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: 
+description: null
 publish: true
 categories:
   - productivity
+slug: posts/i-audited-my-15-app-subscriptions-and-saved-almost-3000-a-year
 ---
 
 After completely transforming my business tech stack this year, I realized I was paying for way too many subscriptions that weren’t actually serving me.

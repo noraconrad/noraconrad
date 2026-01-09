@@ -9,6 +9,7 @@ description: null
 publish: true
 categories:
   - faith
+slug: posts/becoming-a-proverbs-31-woman
 ---
 Becoming a Proverbs 31 Woman does not mean you have to be married or have kids. There are verses that mention how to be a good mother and wife, but it is not the point of Proverbs 31, and in some cases, preparing your heart for those things can help bring you closer to God. Working on becoming a Proverbs 31 woman is something that should be practiced daily, no matter where you are in your walk with God or in life.
 

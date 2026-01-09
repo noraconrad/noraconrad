@@ -1,14 +1,15 @@
 ---
 title: Simplify your Space
-date: 2019-09-01
+date: 2019-09-01T00:00:00.000Z
 coverImage: images/1*QuvoOd8Uj-UFIMiPEmsJwA.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - productivity
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/simplify-your-space
 ---
 Your physical living space should make you feel calm, productive, and happy. If you’re surrounded by clutter and things that you resent…
 

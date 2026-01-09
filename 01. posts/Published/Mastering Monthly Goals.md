@@ -9,6 +9,7 @@ description: null
 publish: true
 categories:
   - productivity
+slug: posts/mastering-monthly-goals
 ---
 #### A Simple Guide to Resetting Your Month in Notion
 

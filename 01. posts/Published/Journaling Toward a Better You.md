@@ -1,13 +1,14 @@
 ---
 title: Journaling Toward a Better You
-date: 2023-10-30
+date: 2023-10-30T00:00:00.000Z
 coverImage: images/1*0OAWhRXtpSz3CCUhwLzbAg.jpeg
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
+categories: null
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/journaling-toward-a-better-you
 ---
 #### Take advantage of the benefits of journaling with or without writing
 

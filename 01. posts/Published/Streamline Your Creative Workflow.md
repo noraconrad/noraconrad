@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*RCnROfe4um2mxuttVneQ9g.jpeg
 title: Streamline Your Creative Workflow
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/streamline-your-creative-workflow
 ---
 #### The Content Creator’s Roadmap to SOPs That Don’t Suck
 

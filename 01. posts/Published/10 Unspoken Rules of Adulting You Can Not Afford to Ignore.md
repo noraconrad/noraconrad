@@ -9,6 +9,7 @@ description: null
 publish: true
 categories:
   - productivity
+slug: posts/10-unspoken-rules-of-adulting-you-can-not-afford-to-ignore
 ---
 For the longest time, I thought becoming an adult meant turning 18; as I’ve gotten older, I realized that becoming an adult is more of a process; it is a maturity that comes with time.
 

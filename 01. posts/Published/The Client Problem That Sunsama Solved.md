@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*1liW3PtIoED6Hef2d9XEvg@2x.png
 title: The Client Problem That Sunsama Solved
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/the-client-problem-that-sunsama-solved
 ---
  
 

@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*X6HOQeSPNX5f6JRwsfHPQQ.png
 title: A case for breaking the scroll
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/a-case-for-breaking-the-scroll
 ---
 #### How a Social Media Detox Revived My Creativity and Income
 

@@ -1,14 +1,15 @@
 ---
 coverImage: images/1*O5nA68YjhSlFwE5upmzYtQ.png
 title: Starting a Stationery Shop on a Shoestring Budget
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories:
   - business
+slug: posts/starting-a-stationery-shop-on-a-shoestring-budget
 ---
  
 

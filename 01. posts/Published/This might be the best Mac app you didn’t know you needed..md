@@ -1,14 +1,15 @@
 ---
-title: "This might be the best Mac app you didn’t know you needed."
-date: 2024-02-12
-coverImage: "images/Work-from-Anywhere-Photo-1-scaled.jpg"
-lastmod: 2026-01-06
+title: This might be the best Mac app you didn’t know you needed.
+date: 2024-02-12T00:00:00.000Z
+coverImage: images/Work-from-Anywhere-Photo-1-scaled.jpg
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: 
+description: null
 publish: true
 categories:
-  - "productivity"
+  - productivity
+slug: posts/this-might-be-the-best-mac-app-you-didnt-know-you-needed
 ---
 
 ![](images/Work-from-Anywhere-Photo-1-scaled.jpg)

@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*VJQO0rQGMbb-6HwMUr2IOQ.jpeg
 title: Stop Losing Ideas
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/stop-losing-ideas
 ---
 #### Why Every Creator Needs a Reliable Note-Taking System
 

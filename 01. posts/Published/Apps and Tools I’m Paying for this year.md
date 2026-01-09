@@ -10,6 +10,7 @@ tags:
   - posts
 description: ''
 publish: true
+slug: posts/apps-and-tools-im-paying-for-in-2024
 ---
 #### A list of the subscriptions that are worth the price.
 

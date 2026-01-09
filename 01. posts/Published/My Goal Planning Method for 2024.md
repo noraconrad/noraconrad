@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*KnCz_PyAsvy8EVMxstf6KA.png
 title: My Goal Planning Method for 2024
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/my-goal-planning-method-for-2024
 ---
  
 

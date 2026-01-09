@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*Q_qTQ_ojRmn0K_htvZlr8g@2x.jpeg
 title: 31 Lessons I’ve Learned in 31 Years
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/31-lessons-ive-learned-in-31-years
 ---
  ### It’s my birthday, let’s be corny for a sec
 

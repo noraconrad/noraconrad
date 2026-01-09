@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*bNznQDdR5cKLly9XRYEPuA.jpeg
 title: The Backbone of Your Business
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/the-backbone-of-your-business
 ---
  
 

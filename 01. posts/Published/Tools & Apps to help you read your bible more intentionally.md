@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*EXFxyOTK46ckenmIANjq0Q.png
 title: Tools & Apps to help you read your bible more intentionally
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/tools-apps-to-help-you-read-your-bible-more-intentionally
 ---
  
 

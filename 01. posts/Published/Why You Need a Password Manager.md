@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*vev4OndSPdxrduKfKS2N7A.jpeg
 title: Why You Need a Password Manager
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/why-you-need-a-password-manager
 ---
 [_Part 5 of 5 in the series: The Five Core Apps Every Content Creator Needs to Run a Business Efficiently_](https://www.noraconrad.com/tag/core-5/)
 

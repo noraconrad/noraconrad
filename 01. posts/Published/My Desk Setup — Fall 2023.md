@@ -1,13 +1,14 @@
 ---
 title: My Desk Setup — Fall 2023
-date: 2023-10-02
+date: 2023-10-02T00:00:00.000Z
 coverImage: images/1*oAkFnE8g9htSafmQIuFFLg.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
+categories: null
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/my-desk-setup-fall-2023
 ---
 I love seeing how others set up their workspaces and what fun gadgets they invest in to make their space a little more comfortable or productive.
 

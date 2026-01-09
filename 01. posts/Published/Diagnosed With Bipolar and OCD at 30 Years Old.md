@@ -1,14 +1,15 @@
 ---
-title: "Diagnosed With Bipolar and OCD at 30 Years Old"
-date: 2024-03-14
-coverImage: "images/Burnout-Portrait-scaled.jpg"
-lastmod: 2026-01-06
+title: Diagnosed With Bipolar and OCD at 30 Years Old
+date: 2024-03-14T00:00:00.000Z
+coverImage: images/Burnout-Portrait-scaled.jpg
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: 
+description: null
 publish: true
 categories:
-  - "mental-health"
+  - mental-health
+slug: posts/diagnosed-with-bipolar-and-ocd-at-30-years-old
 ---
 In 2018, I welcomed my first baby into the world. She was perfect, the delivery went great, and my pregnancy even went by with minimal issues — but after her arrival, I experienced serious postpartum anxiety.
 

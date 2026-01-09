@@ -10,6 +10,7 @@ tags:
   - posts
 description: ''
 publish: true
+slug: posts/before-you-watch-my-bible-study-videos-read-this
 ---
 I’ve been doing Bible studies and talking about being a Christian on my blog and on YouTube for a while now. I’m finally getting around to…
 

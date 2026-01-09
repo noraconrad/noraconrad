@@ -1,6 +1,6 @@
 ---
 title: Simplify your Routine
-date: 2019-08-01
+date: 2019-08-01T00:00:00.000Z
 coverImage: images/1*KieIZu70RveYT13NP3InVw.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
@@ -8,8 +8,9 @@ categories:
   - lifestyle
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/simplify-your-routine
 ---
 What time do you wake up in the morning? What do you do as soon as you get home from work? You probably already know these answers…
 

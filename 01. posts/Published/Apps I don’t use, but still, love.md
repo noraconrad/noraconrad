@@ -1,14 +1,15 @@
 ---
-title: Apps I don’t use, but still, love
-date: 2022-04-27
+title: 'Apps I don’t use, but still, love'
+date: 2022-04-27T00:00:00.000Z
 coverImage: images/1*C_DdpSZEbzbmM6PKzEPomA.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - productivity
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/apps-i-dont-use-but-still-love
 ---
 I get the opportunity to test a lot of apps and tools, but they don’t always fit well into my workflow for one reason or another. Today I…
 

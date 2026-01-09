@@ -7,8 +7,9 @@ categories:
   - productivity
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/going-fully-digital-when-planning
 ---
 How I use Notion, Sunsama & Google
 

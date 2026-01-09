@@ -1,14 +1,15 @@
 ---
-title: "My secret to making ANY productivity app work for you"
-date: 2024-02-14
-coverImage: "images/Business-Work-Image-1-scaled.jpg"
-lastmod: 2026-01-06
+title: My secret to making ANY productivity app work for you
+date: 2024-02-14T00:00:00.000Z
+coverImage: images/Business-Work-Image-1-scaled.jpg
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: 
+description: null
 publish: true
 categories:
-  - "productivity"
+  - productivity
+slug: posts/my-secret-to-making-any-productivity-app-work-for-you
 ---
 
 ![](images/Business-Work-Image-1-scaled.jpg)

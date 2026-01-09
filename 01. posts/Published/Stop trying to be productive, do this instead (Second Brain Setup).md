@@ -1,14 +1,15 @@
 ---
-title: Stop trying to be productive, do this instead (Second Brain Setup)
-date: 2022-09-01
+title: 'Stop trying to be productive, do this instead (Second Brain Setup)'
+date: 2022-09-01T00:00:00.000Z
 coverImage: images/1*4UqoI_xy_GY6eNEQI93DPA.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - productivity
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/stop-trying-to-be-productive-do-this-instead-second-brain-setup
 ---
 The idea of a second brain is that it can be a place to effectively store all that valuable information until you need it.
 

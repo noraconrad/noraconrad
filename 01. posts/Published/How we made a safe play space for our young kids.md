@@ -4,11 +4,12 @@ date: 2022-10-06T00:00:00.000Z
 tags:
   - posts
 lastmod: 2026-01-06T00:00:00.000Z
-description:
+description: null
 publish: true
 categories:
   - lifestyle
-coverImage: ""
+coverImage: ''
+slug: posts/how-we-made-a-safe-play-space-for-our-young-kids
 ---
 # How we made a safe playspace for our young k
 

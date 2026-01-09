@@ -1,13 +1,16 @@
 ---
-title: If you don&#39;t use it regularly, it&#39;s most definitely not the best choice.
-date: 2023-09-22
+title: >-
+  If you don&#39;t use it regularly, it&#39;s most definitely not the best
+  choice.
+date: 2023-09-22T00:00:00.000Z
 coverImage: images/1*s_pIB5Csa0p6SMmv4KYf5A.png
 lastmod: 2026-01-06T00:00:00.000Z
-categories:
+categories: null
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/if-you-don39t-use-it-regularly-it39s-most-definitely-not-the-best-choice
 ---
 Staying focused and productive can be a real challenge at times. The constant influx of tasks, emails, and distractions can make it difficult to accomplish what truly matters. I’ve seen time blocking recommended before, but I want to share the method (and apps) I use to make this effective.
 

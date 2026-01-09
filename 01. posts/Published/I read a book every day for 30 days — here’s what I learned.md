@@ -1,14 +1,15 @@
 ---
 title: I read a book every day for 30 days — here’s what I learned
-date: 2020-01-16
+date: 2020-01-16T00:00:00.000Z
 coverImage: images/1*_CFeEefb3AZ_NVqtZdtNNg.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - lifestyle
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/i-read-a-book-every-day-for-30-days-heres-what-i-learned
 ---
 When I thought up the idea for the #30DaysOfChallenge, reading more was one of my top goals. It wasn’t until I started to plan this post…
 

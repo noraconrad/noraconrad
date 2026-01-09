@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*4JVQ_NoUEeHPu5MADpeg-Q.jpeg
-title: Balancing Business, Mental Health, and Motherhood
-date: ""
-lastmod: ""
+title: 'Balancing Business, Mental Health, and Motherhood'
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/balancing-business-mental-health-and-motherhood
 ---
 Running a business is challenging. Parenting two young kids is exhausting. Managing bipolar disorder on top of both? Some days, feels _impossible_.
 

@@ -1,14 +1,15 @@
 ---
-title: "Spending $30 per month on… email?"
-date: 2023-12-14
-coverImage: "images/Productivity-Desk-Photo-3-scaled.jpg"
-lastmod: 2026-01-06
+title: Spending $30 per month on… email?
+date: 2023-12-14T00:00:00.000Z
+coverImage: images/Productivity-Desk-Photo-3-scaled.jpg
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: 
+description: null
 publish: true
 categories:
-  - "productivity"
+  - productivity
+slug: posts/spending-30-per-month-on-email
 ---
 
 ![](images/Productivity-Desk-Photo-3-scaled.jpg)

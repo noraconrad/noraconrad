@@ -9,6 +9,7 @@ description: null
 publish: true
 categories:
   - mental-health
+slug: posts/navigating-mental-health
 ---
 #### A guide to finding the right therapist and psychiatrist
 

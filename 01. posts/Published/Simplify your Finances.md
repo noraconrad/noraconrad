@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*eaFYQS1Cyt9xx6YPSYYR5w.png
 title: Simplify your Finances
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/simplify-your-finances
 ---
  
 

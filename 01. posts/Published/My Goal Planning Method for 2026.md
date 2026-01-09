@@ -1,14 +1,15 @@
 ---
-title: "My Goal Planning Method for 2026"
-date: 2025-12-16
-tags: 
+title: My Goal Planning Method for 2026
+date: 2025-12-16T00:00:00.000Z
+tags:
   - posts
-coverImage: ""
-lastmod: 2026-01-06
-description: 
+coverImage: ''
+lastmod: 2026-01-06T00:00:00.000Z
+description: null
 publish: true
 categories:
   - goals-growth
+slug: posts/my-goal-planning-method-for-2026
 ---
 
 #### With Notion and Sunsama

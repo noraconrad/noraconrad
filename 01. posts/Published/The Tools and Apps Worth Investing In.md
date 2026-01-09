@@ -9,6 +9,7 @@ description: null
 publish: true
 categories:
   - productivity
+slug: posts/the-tools-and-apps-worth-investing-in
 ---
 #### What I’ll be paying for in 2025
 

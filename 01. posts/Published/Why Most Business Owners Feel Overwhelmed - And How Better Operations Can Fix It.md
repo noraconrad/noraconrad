@@ -1,15 +1,19 @@
 ---
-title: Why Most Business Owners Feel Overwhelmed - And How Better Operations Can Fix It
+title: >-
+  Why Most Business Owners Feel Overwhelmed - And How Better Operations Can Fix
+  It
 date: 2025-04-01T00:00:00.000Z
 coverImage: images/Work-Life-Balance-Photo-3-scaled.jpg
 lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description:
+description: null
 publish: true
 categories:
   - business
   - operations
+slug: >-
+  posts/why-most-business-owners-feel-overwhelmed-and-how-better-operations-can-fix-it
 ---
 Most small business owners don’t have a time problem — they have a systems problem.
 

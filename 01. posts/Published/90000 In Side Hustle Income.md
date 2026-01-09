@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*UGl3zFGdMJdUtcUcIJod_g.png
 title: $90000 In Side Hustle Income
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/90000-in-side-hustle-income
 ---
 #### How I plan to double my income in the next six months
 

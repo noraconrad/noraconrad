@@ -1,14 +1,15 @@
 ---
-title: "Blending Tradition and Tech for Effective Yearly Planning"
-date: 2023-12-19
-coverImage: "images/Productivity-Desk-Photo-5-scaled.jpg"
-lastmod: 2026-01-06
+title: Blending Tradition and Tech for Effective Yearly Planning
+date: 2023-12-19T00:00:00.000Z
+coverImage: images/Productivity-Desk-Photo-5-scaled.jpg
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - posts
-description: 
+description: null
 publish: true
 categories:
-  - "productivity"
+  - productivity
+slug: posts/blending-tradition-and-tech-for-effective-yearly-planning
 ---
 
 ![](images/Productivity-Desk-Photo-5-scaled.jpg)

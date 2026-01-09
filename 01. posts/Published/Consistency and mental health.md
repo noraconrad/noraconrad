@@ -9,6 +9,7 @@ description: null
 publish: true
 categories:
   - mental-health
+slug: posts/consistency-and-mental-health
 ---
 #### Navigating Productivity with Bipolar Disorder
 

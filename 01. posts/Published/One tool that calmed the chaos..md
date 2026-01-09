@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*Gt6scCzsD9gMg2gjolkltw.png
 title: One tool that calmed the chaos.
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/one-tool-that-calmed-the-chaos
 ---
 #### How Sunsama Transformed My Productivity
 

@@ -1,14 +1,15 @@
 ---
 title: Getting better sleep… finally
-date: 2023-01-02
+date: 2023-01-02T00:00:00.000Z
 coverImage: images/1*7-mAQCs_Ad7PuENLgA2csA.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - lifestyle
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/getting-better-sleep-finally
 ---
 For almost a year after my son was born, I slept like 💩. A toddler and newborn didn’t help, but even when both kids began sleeping through…
 

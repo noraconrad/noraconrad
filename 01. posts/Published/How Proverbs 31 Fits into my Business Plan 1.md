@@ -1,14 +1,15 @@
 ---
 title: How Proverbs 31 Fits into my Business Plan
-date: 2015-11-23
-coverImage: ""
-lastmod: 2026-01-06
+date: 2015-11-23T00:00:00.000Z
+coverImage: ''
+lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - faith
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/how-proverbs-31-fits-into-my-business-plan
 ---
 
 # How Proverbs 31 Fits into my Business Plan

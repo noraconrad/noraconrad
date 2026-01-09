@@ -8,6 +8,7 @@ tags:
   - posts
 description: ''
 publish: true
+slug: posts/how-proverbs-31-fits-into-my-business-plan
 ---
 ### WHAT IS PROVERBS 31?
 

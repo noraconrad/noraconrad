@@ -8,6 +8,7 @@ tags:
 description: ''
 publish: true
 categories: []
+slug: posts/i-tried-to-build-a-sunsama-dupe-in-notion
 ---
 #### Here’s What I Learned.
 

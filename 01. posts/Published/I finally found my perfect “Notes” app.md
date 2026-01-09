@@ -1,14 +1,15 @@
 ---
 title: I finally found my perfect “Notes” app
-date: 2023-02-08
+date: 2023-02-08T00:00:00.000Z
 coverImage: images/1*G59fxE5H7RQjcVGONrNE3Q.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
   - productivity
 tags:
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/i-finally-found-my-perfect-notes-app
 ---
 I’ve tried Notion, Obsidian, Evernote, Reflect, Mem, Apple Notes, Tana, Routine, Note Plan 3, OneNote and even TickTick in the quest to…
 

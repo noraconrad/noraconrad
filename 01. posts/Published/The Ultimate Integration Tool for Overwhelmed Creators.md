@@ -1,13 +1,14 @@
 ---
 coverImage: images/1*HytjThXi0fVGFMKYwC7hBw.jpeg
 title: The Ultimate Integration Tool for Overwhelmed Creators
-date: ""
-lastmod: ""
+date: ''
+lastmod: ''
 tags:
   - posts
-description: ""
+description: ''
 publish: true
 categories: []
+slug: posts/the-ultimate-integration-tool-for-overwhelmed-creators
 ---
  
 

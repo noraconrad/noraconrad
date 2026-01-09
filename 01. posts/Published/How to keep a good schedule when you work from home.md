@@ -8,6 +8,7 @@ tags:
   - posts
 description: ''
 publish: true
+slug: posts/how-to-keep-a-good-schedule-when-you-work-from-home
 ---
 Working from home sounds like a dream come true to most people. However, it’s easy to become distracted by laundry, emails, Facebook, lunches, and the thousands of chores to do around the house. Working from home means you are surrounded by temptation and you’re only held accountable by yourself. Today we’re going to stop the distractions and set up a schedule for ourselves.
 

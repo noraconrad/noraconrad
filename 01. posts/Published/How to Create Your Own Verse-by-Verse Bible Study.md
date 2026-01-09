@@ -10,6 +10,7 @@ tags:
   - posts
 description: ''
 publish: true
+slug: posts/how-to-create-your-own-verse-by-verse-bible-study
 ---
 I’m going to give you all the resources and tools you need to be able to create your own verse-by-verse bible study.
 

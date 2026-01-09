@@ -1,15 +1,16 @@
 ---
 title: Habit tracking is actually really important
-date: 2023-05-23
+date: 2023-05-23T00:00:00.000Z
 coverImage: images/1*OkpvnGtD7vYXastm4X0yNQ.png
 lastmod: 2026-01-06T00:00:00.000Z
 categories:
-  - ""
+  - ''
 tags:
-  - ""
+  - ''
   - posts
-description: ""
+description: ''
 publish: true
+slug: posts/habit-tracking-is-actually-really-important
 ---
 Let's talk about the powerful tool that transforms daily life and helps millions achieve their goals: habit tracking. This simple practice can make a world of difference in visualizing your day, staying on track, and prioritizing what truly matters.
 

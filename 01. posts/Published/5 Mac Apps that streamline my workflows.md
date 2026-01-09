@@ -9,6 +9,7 @@ publish: true
 categories:
   - operations
 coverImage: images/1*I8Ittu9i1ThIQwi6sPAR3Q.png
+slug: posts/5-mac-apps-that-streamline-my-workflows
 ---
 For a very long time, I just used my mac as it came. I didn’t bother setting up focus modes, customizing settings, or adding apps beyond what I needed for work, but as I’ve been working on my own personal project more, I found myself wanting keyboard shortcuts and actions to be faster.
 
