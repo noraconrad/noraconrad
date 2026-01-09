@@ -38,26 +38,24 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "link", // Link to index page when clicked
       useSavedState: false,
       mapFn: (node) => {
-        // Use title from folder index file if available
+        // Always use explicit mapping for known folders to ensure correct titles
         if (node.isFolder) {
-          // For folders, node.data contains the index file's ContentDetails
-          // Check if we have title data from the index file
-          const folderTitle = node.data?.title
-          if (folderTitle && folderTitle !== "index" && folderTitle !== node.slugSegment) {
-            node.displayName = folderTitle
+          const folderTitleMap: Record<string, string> = {
+            "01.-posts": "01. posts",
+            "02.-curriculums": "02. curriculums",
+            "03.-templates": "03. templates",
+            "04.-rambles": "04. rambles",
+            "05.-projects": "05. projects",
+            "pages": "About"
+          }
+          const slugSegment = node.slugSegment?.toLowerCase() || ""
+          if (folderTitleMap[slugSegment]) {
+            node.displayName = folderTitleMap[slugSegment]
           } else {
-            // Fallback: map known folder slugs to their titles
-            const folderTitleMap: Record<string, string> = {
-              "01.-posts": "01. posts",
-              "02.-curriculums": "02. curriculums",
-              "03.-templates": "03. templates",
-              "04.-rambles": "04. rambles",
-              "05.-projects": "05. projects",
-              "pages": "About"
-            }
-            const slugSegment = node.slugSegment?.toLowerCase() || ""
-            if (folderTitleMap[slugSegment]) {
-              node.displayName = folderTitleMap[slugSegment]
+            // For other folders, use title from index file if available
+            const folderTitle = node.data?.title
+            if (folderTitle && folderTitle !== "index" && folderTitle !== node.slugSegment) {
+              node.displayName = folderTitle
             }
           }
         }
@@ -128,26 +126,24 @@ export const defaultListPageLayout: PageLayout = {
       folderClickBehavior: "link", // Link to index page when clicked
       useSavedState: false,
       mapFn: (node) => {
-        // Use title from folder index file if available
+        // Always use explicit mapping for known folders to ensure correct titles
         if (node.isFolder) {
-          // For folders, node.data contains the index file's ContentDetails
-          // Check if we have title data from the index file
-          const folderTitle = node.data?.title
-          if (folderTitle && folderTitle !== "index" && folderTitle !== node.slugSegment) {
-            node.displayName = folderTitle
+          const folderTitleMap: Record<string, string> = {
+            "01.-posts": "01. posts",
+            "02.-curriculums": "02. curriculums",
+            "03.-templates": "03. templates",
+            "04.-rambles": "04. rambles",
+            "05.-projects": "05. projects",
+            "pages": "About"
+          }
+          const slugSegment = node.slugSegment?.toLowerCase() || ""
+          if (folderTitleMap[slugSegment]) {
+            node.displayName = folderTitleMap[slugSegment]
           } else {
-            // Fallback: map known folder slugs to their titles
-            const folderTitleMap: Record<string, string> = {
-              "01.-posts": "01. posts",
-              "02.-curriculums": "02. curriculums",
-              "03.-templates": "03. templates",
-              "04.-rambles": "04. rambles",
-              "05.-projects": "05. projects",
-              "pages": "About"
-            }
-            const slugSegment = node.slugSegment?.toLowerCase() || ""
-            if (folderTitleMap[slugSegment]) {
-              node.displayName = folderTitleMap[slugSegment]
+            // For other folders, use title from index file if available
+            const folderTitle = node.data?.title
+            if (folderTitle && folderTitle !== "index" && folderTitle !== node.slugSegment) {
+              node.displayName = folderTitle
             }
           }
         }
