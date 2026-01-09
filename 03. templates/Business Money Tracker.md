@@ -1,15 +1,16 @@
 ---
 title: Business Money Tracker
-date: 2025-08-14
+date: 2025-08-14T00:00:00.000Z
 coverImage: business+money.png
-lastmod: 2026-01-06
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - templates
-description:
+description: null
 publish: true
 categories:
   - notion
 Price: $15.00
+category: templates
 ---
 
 Reports Dashboard for Monthly and Yearly totals

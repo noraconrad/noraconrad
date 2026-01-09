@@ -1,15 +1,16 @@
 ---
 title: College Class OS
-date: 2025-08-14
+date: 2025-08-14T00:00:00.000Z
 coverImage: college+class.png
-lastmod: 2026-01-06
+lastmod: 2026-01-06T00:00:00.000Z
 tags:
   - templates
-description:
+description: null
 publish: true
 categories:
   - notion
 Price: free
+category: templates
 ---
 
 Track your classes, degree progress, grades, notes, advisor meetings, and tasks in one easy-to use dashboard. See your progress as you complete courses. Quickly find and review your notes for exams. Plan your next semester (or entire college career) in one simple database.

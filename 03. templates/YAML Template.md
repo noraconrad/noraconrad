@@ -1,9 +1,11 @@
 ---
-title: ""
-date:
-lastmod:
+title: ''
+date: null
+lastmod: null
 tags:
   - obsidian
-description: ""
+description: ''
 publish: true
+category: templates
 ---
+

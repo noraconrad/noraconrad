@@ -1,6 +1,7 @@
 ---
 title: 03. templates
 publish: true
+category: templates
 ---
 
 [[Bible Study OS]]
