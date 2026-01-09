@@ -3,30 +3,44 @@ import { resolveRelative } from "../util/path"
 
 const HomeLink: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   return (
-    <div class="home-link">
-      <a href={resolveRelative(fileData.slug!, "index" as any)} class="internal">
-        Home
-      </a>
-    </div>
+    <ul class="explorer-ul home-link-list">
+      <li>
+        <a href={resolveRelative(fileData.slug!, "index" as any)} class="folder-title">
+          00. Home
+        </a>
+      </li>
+    </ul>
   )
 }
 
 HomeLink.css = `
-.home-link {
-  margin-bottom: 1rem;
+.home-link-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0.5rem;
 }
 
-.home-link a {
-  font-weight: 600;
-  font-size: 1rem;
-  color: var(--dark);
-  text-decoration: none;
-  display: block;
-  padding: 0.5rem 0;
-}
-
-.home-link a:hover {
+.home-link-list li > a.folder-title {
   color: var(--secondary);
+  font-family: var(--headerFont);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  display: inline-block;
+  text-decoration: none;
+  opacity: 0.75;
+  transition: opacity 0.2s ease;
+}
+
+.home-link-list li > a.folder-title:hover {
+  opacity: 1;
+  color: var(--tertiary);
+}
+
+.home-link-list li > a.folder-title.active {
+  opacity: 1;
+  color: var(--tertiary);
 }
 `
 
