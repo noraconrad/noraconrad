@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import HomeLink from "./quartz/components/HomeLink"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -33,26 +34,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    HomeLink(),
     Component.Explorer({
-      title: "Map",
       folderDefaultState: "collapsed", // Collapsed by default
       folderClickBehavior: "link", // Link to index page when clicked
       useSavedState: false,
       mapFn: (node) => {
-        // Customize display names for folders
-        if (node.isFolder) {
-          const displayNameMap: Record<string, string> = {
-            "01.-posts": "Posts",
-            "02.-curriculums": "Curriculums",
-            "03.-templates": "Templates",
-            "04.-rambles": "Rambles",
-            "05.-projects": "Projects",
-            "pages": "About"
-          }
-          const slugSegment = node.slugSegment?.toLowerCase() || ""
-          if (displayNameMap[slugSegment]) {
-            node.displayName = displayNameMap[slugSegment]
-          }
+        // Use title from folder index file if available
+        if (node.isFolder && node.data?.title) {
+          node.displayName = node.data.title
         }
         return node
       },
@@ -116,26 +106,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    HomeLink(),
     Component.Explorer({
-      title: "Map",
       folderDefaultState: "collapsed", // Collapsed by default
       folderClickBehavior: "link", // Link to index page when clicked
       useSavedState: false,
       mapFn: (node) => {
-        // Customize display names for folders
-        if (node.isFolder) {
-          const displayNameMap: Record<string, string> = {
-            "01.-posts": "Posts",
-            "02.-curriculums": "Curriculums",
-            "03.-templates": "Templates",
-            "04.-rambles": "Rambles",
-            "05.-projects": "Projects",
-            "pages": "About"
-          }
-          const slugSegment = node.slugSegment?.toLowerCase() || ""
-          if (displayNameMap[slugSegment]) {
-            node.displayName = displayNameMap[slugSegment]
-          }
+        // Use title from folder index file if available
+        if (node.isFolder && node.data?.title) {
+          node.displayName = node.data.title
         }
         return node
       },
