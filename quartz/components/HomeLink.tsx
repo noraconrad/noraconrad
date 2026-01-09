@@ -6,7 +6,7 @@ const HomeLink: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     <ul class="explorer-ul home-link-list">
       <li>
         <a href={resolveRelative(fileData.slug!, "index" as any)} class="folder-title">
-          00. Home
+          00. home
         </a>
       </li>
     </ul>
@@ -18,6 +18,7 @@ HomeLink.css = `
   list-style: none;
   margin: 0;
   padding: 0;
+  margin-bottom: 0;
 }
 
 .home-link-list li {
