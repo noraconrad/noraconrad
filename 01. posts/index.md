@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 01. posts
 publish: true
 ---
 An archive of blog posts in alphabetical order:

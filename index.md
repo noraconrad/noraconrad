@@ -2,23 +2,12 @@
 title: I'm Nora 👋🏼
 publish: true
 ---
-Hi, I'm currently [[building my knowledge garden]]
+Hi, I'm Nora, you can read[[about me]] here. I'm currently in the process of revamping my website, you can read about that here: [[building my knowledge garden]].
 
-I've been creating content since high school (middle school if you count Neopet guild layouts). This is my knowledge garden; a collection of writing, templates, and resources.
+While this site used to be my primary income source, I've since "retired" and I am no longer offering 1-on-1 services nor selling courses. All my content is available for free with the exception of some collaborative notion templates that I still sell. If you'd like to support my work in other ways, you can do so here: [[support my work]].
 
-## Browse by Type
+# Read the latest
+[[I Audited My 15+ App Subscriptions and saved almost 3,000 a year]]
 
-[[posts]] — essays and guides on productivity, business, life & wellbeing
-*where I share what I've learned over the years*
-
-[[03. templates/index]] — Notion, Obsidian, and PDF templates I've built
-*tools I've created to help you organize your work*
-
-[[curriculums]] — Mastering Chaos and other course
-*structured learning*
-
-[[rambles]] — book reviews, personal essays, reflections
-*less polished, more personal*
-
-[[projects]] — things I'm building, apps and other sites
-*current work and portfolio*
+# Watch the latest
+https://youtu.be/-kdcuWPgeFs

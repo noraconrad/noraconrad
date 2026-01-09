@@ -1,6 +1,7 @@
 ---
-title: "About Nora"
+title: About Nora
 date: 2025-12-16
+publish: true
 ---
 
 ![](images/IMG_0009.jpeg)
