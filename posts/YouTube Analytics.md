@@ -8,6 +8,7 @@ externalUrl: https://www.youtube.com/@NoraConrad
 date: 2026-01-06T00:00:00.000Z
 publish: true
 category: project
+index: true
 ---
 **Channel:** [@NoraConrad](https://www.youtube.com/@NoraConrad)
 ![[yt-project.png]]

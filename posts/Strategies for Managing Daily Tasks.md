@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/strategies-for-managing-daily-tasks
 category: posts
+index: true
 ---
 ## No, it’s not another task manager
 

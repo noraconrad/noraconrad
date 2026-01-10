@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/i-read-a-book-every-day-for-30-days-heres-what-i-learned
 category: posts
+index: true
 ---
 When I thought up the idea for the #30DaysOfChallenge, reading more was one of my top goals. It wasn’t until I started to plan this post…
 

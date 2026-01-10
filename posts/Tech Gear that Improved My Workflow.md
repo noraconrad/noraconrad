@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/tech-gear-that-improved-my-workflow
 category: posts
+index: true
 ---
 Over the last five years of working from home, I have made small, but consistent upgrades to my office setup. I am really pleased with my current setup and would like to share some of the items that I use most.
 

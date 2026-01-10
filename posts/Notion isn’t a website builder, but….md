@@ -8,8 +8,8 @@ description: null
 publish: true
 slug: posts/notion-isnt-a-website-builder-but
 category: posts
+index: true
 ---
-
 ![](Work-from-Anywhere-Photo-scaled.jpg)
 
 #### How I am using Notion, Gumroad, and Squarespace

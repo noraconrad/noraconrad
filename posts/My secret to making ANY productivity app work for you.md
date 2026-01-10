@@ -8,8 +8,8 @@ description: null
 publish: true
 slug: posts/my-secret-to-making-any-productivity-app-work-for-you
 category: posts
+index: true
 ---
-
 ![](Business-Work-Image-1-scaled.jpg)
 
 

@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/your-calendar-is-not-just-for-meetings
 category: posts
+index: true
 ---
 #### How to Use It Like a CEO
 

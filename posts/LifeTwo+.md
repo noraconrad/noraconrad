@@ -8,9 +8,9 @@ description: null
 publish: true
 Price: $49.00
 category: templates
+index: true
 slug: templates/lifetwo
 ---
-
 Ready to get organized and make this year your most productive yet? [**LifeTwo**](https://www.notion.com/templates/lifetwo) is a powerful Notion template system designed to streamline all aspects of your life, from managing tasks and projects to tracking habits and personal knowledge—all in one clean, easy-to-navigate system.
 
 **What’s Included?**

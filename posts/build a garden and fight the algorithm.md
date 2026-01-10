@@ -1,11 +1,10 @@
 ---
 title: build a garden and fight the algorithm
 publish: true
+index: true
 date: 2026-09-20
 slug: rambles/build-a-garden
 ---
-
-
 I recently watched [this video essay](https://www.youtube.com/watch?v=Bdj14_jdumI) by [Mel Thomas](https://pagemelt.zone), where they analyzed the book *Filterworld: How Algorithms Flattened Culture* by Kyle Chayka. It'd a great essay and worth watching. Below are my thoughts mixed with a summary of their arguments.
 
 The first thing we need to understand is that algorithmic feeds are not neutral, they are optimized for engagement, not meaning. They are created for metrics, not people. They promote connection with strangers you'll never know rather than communities that sustain you.

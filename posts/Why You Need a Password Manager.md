@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/why-you-need-a-password-manager
 category: posts
+index: true
 ---
 [_Part 5 of 5 in the series: The Five Core Apps Every Content Creator Needs to Run a Business Efficiently_](https://www.noraconrad.com/tag/core-5/)
 

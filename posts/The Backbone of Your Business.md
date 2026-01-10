@@ -8,9 +8,8 @@ description: ''
 publish: true
 slug: posts/the-backbone-of-your-business
 category: posts
+index: true
 ---
- 
-
 # The Backbone of Your Business
 
 You need a better task manager.

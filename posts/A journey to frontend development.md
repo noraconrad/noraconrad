@@ -9,6 +9,7 @@ description: ''
 publish: true
 slug: posts/a-journey-to-frontend-development
 category: posts
+index: true
 ---
 I learned HTML and CSS from Neopets. _Seriously_.
 

@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/how-my-free-product-earned-the-most-money-in-my-shop
 category: posts
+index: true
 ---
 #### Lessons in “selling” free products
 

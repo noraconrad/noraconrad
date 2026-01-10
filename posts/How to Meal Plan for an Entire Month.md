@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/how-to-meal-plan-for-an-entire-month-save-money-on-groceries
 category: posts
+index: true
 ---
 When my husband & I started our debt-free journey, the first place we knew we had to cut back was food. It was just the two of us, but we were spending anywhere between $900-$1500 on meals each month. Yikes. Most of that was because of morning coffee, buying lunch, and going out to dinner during the weekend.
 

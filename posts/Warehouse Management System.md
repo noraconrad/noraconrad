@@ -8,6 +8,7 @@ externalUrl: https://www.macpac.space
 date: 2026-01-06T00:00:00.000Z
 publish: true
 category: project
+index: true
 ---
 **External Site:** [macpac.space](https://www.macpac.space)
 ![[mp-project.png]]

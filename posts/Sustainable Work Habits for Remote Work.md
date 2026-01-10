@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/sustainable-work-habits-for-remote-work
 category: posts
+index: true
 ---
 #### Productivity without sacrificing your personal life.
 

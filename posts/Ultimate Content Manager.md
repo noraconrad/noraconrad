@@ -8,9 +8,9 @@ description: null
 publish: true
 Price: '24'
 category: templates
+index: true
 slug: templates/ultimate-content-manager
 ---
-
 <iframe style="height: 600px; border: 0;" src="https://www.tella.tv/video/clqehos6y007u0fl5errz0c1w/embed?b=0&title=0&a=1&loop=0&t=0&muted=0&wt=0" allowfullscreen allowtransparency=""></iframe>
 
 **Notion Content & Social Media Planner Template**  

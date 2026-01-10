@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/the-tools-and-apps-worth-investing-in
 category: posts
+index: true
 ---
 #### What I’ll be paying for in 2025
 

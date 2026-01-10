@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/apps-i-dont-use-but-still-love
 category: posts
+index: true
 ---
 I get the opportunity to test a lot of apps and tools, but they don’t always fit well into my workflow for one reason or another. Today I…
 

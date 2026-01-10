@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/mastering-monthly-goals
 category: posts
+index: true
 ---
 #### A Simple Guide to Resetting Your Month in Notion
 

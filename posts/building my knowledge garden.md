@@ -6,6 +6,7 @@ tags:
 description: building this website in public
 publish: true
 category: rambles
+index: true
 sl: /rambles/knowledge-garden
 ---
 I'm migrating my scattered content ecosystem into a single knowledge garden. This is a public roadmap of the work involved.

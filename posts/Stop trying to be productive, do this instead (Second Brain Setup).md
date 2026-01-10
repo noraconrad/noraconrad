@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/stop-trying-to-be-productive-do-this-instead-second-brain-setup
 category: posts
+index: true
 ---
 The idea of a second brain is that it can be a place to effectively store all that valuable information until you need it.
 

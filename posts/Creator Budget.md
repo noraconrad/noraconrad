@@ -8,6 +8,7 @@ externalUrl: https://www.creatorbudget.com
 date: 2026-01-06T00:00:00.000Z
 publish: true
 category: project
+index: true
 ---
 **External Site:** [creatorbudget.com](https://www.creatorbudget.com)
 ![[cb-project.png]]

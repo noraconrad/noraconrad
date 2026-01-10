@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/a-rant-on-college-mistakes-ive-made-on-the-journey-of-getting-my-degree
 category: posts
+index: true
 ---
 Like most millennials, I graduated from high school with the dream of college — I was set to attend the University of Colorado at Boulder for the fall 2012 semester. I was excited, I had no idea what I wanted to study, and I had absolutely no clue how much it would cost me or how much I would regret this decision.
 

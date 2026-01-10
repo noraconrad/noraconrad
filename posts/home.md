@@ -2,8 +2,8 @@
 slug: 
 title: Home
 publish: true
+index: true
 ---
-
 # I'm Nora 👋
 
 Hi, I'm Nora, you can read [about me](/about) here. I'm currently in the process of revamping my website, you can read about that here: [building my knowledge garden](/building-my-knowledge-garden).

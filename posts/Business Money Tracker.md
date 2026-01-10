@@ -8,9 +8,9 @@ description: null
 publish: true
 Price: $15.00
 category: templates
+index: true
 slug: templates/business-money-tracker
 ---
-
 Reports Dashboard for Monthly and Yearly totals
 
 - Quick entry for transactions and new income sources

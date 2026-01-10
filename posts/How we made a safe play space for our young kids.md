@@ -8,6 +8,7 @@ publish: true
 coverImage: ''
 slug: posts/how-we-made-a-safe-play-space-for-our-young-kids
 category: posts
+index: true
 ---
 # How we made a safe playspace for our young k
 

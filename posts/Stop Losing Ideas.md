@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/stop-losing-ideas
 category: posts
+index: true
 ---
 #### Why Every Creator Needs a Reliable Note-Taking System
 

@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/my-productivity-stack
 category: posts
+index: true
 ---
 I’ve been on the hunt over the last few months for pieces to my productivity puzzle. I have a strange combo of apps and tools I use for work because I’m a content creator and have a regular office job as well. I try to find apps that can work with BOTH positions and make that transition easier to make, but as I’ve begun accepting that not every app will work for both jobs, I’ve become a lot happier with my setup.
 

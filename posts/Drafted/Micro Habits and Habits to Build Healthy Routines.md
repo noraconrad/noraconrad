@@ -5,6 +5,7 @@ coverImage: ''
 tags: []
 description: ''
 publish: false
+index: true
 ---
 ### Understanding Micro Habits
 

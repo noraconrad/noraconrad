@@ -8,8 +8,8 @@ description: null
 publish: true
 slug: posts/how-we-structure-our-week-working-full-time-with-two-young-kids
 category: posts
+index: true
 ---
-
 As a mom with young children, I constantly wondered how other parents made their schedules work. Now that I'm a seasoned working mom I want to share how my husband and I work full-time hours with a 6-year-old and 3-year-old at home. It’s a combination of intentional sacrifices and a lot of teamwork.
 
 Let me show you what this actually looks like in practice.

@@ -2,6 +2,7 @@
 title: support the work
 date: 2026-01-07
 publish: true
+index: true
 description: Everything here is free. These are the ways you can help if you'd like to.
 slug: /support
 cat: rambles

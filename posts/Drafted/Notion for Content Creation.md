@@ -5,6 +5,7 @@ coverImage: ''
 tags: []
 description: ''
 publish: false
+index: true
 ---
 #### Building a dashboard that sparks creativity
 

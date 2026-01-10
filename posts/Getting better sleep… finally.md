@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/getting-better-sleep-finally
 category: posts
+index: true
 ---
 For almost a year after my son was born, I slept like 💩. A toddler and newborn didn’t help, but even when both kids began sleeping through…
 

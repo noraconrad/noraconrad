@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/using-sunsama-to-consolidate-my-tasks
 category: posts
+index: true
 ---
 #### One dashboard to combine 10+ task channels
 

@@ -9,6 +9,7 @@ description: ''
 publish: true
 slug: posts/why-podia-is-my-favorite-host-for-courses
 category: posts
+index: true
 ---
 My business has been mostly on auto-drive during the last few months. I’ve spent a lot of years building up my business and I feel like I…
 

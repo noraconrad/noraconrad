@@ -8,8 +8,8 @@ description: null
 publish: true
 slug: posts/blending-tradition-and-tech-for-effective-yearly-planning
 category: posts
+index: true
 ---
-
 ![](Productivity-Desk-Photo-5-scaled.jpg)
 
 #### Goal-Setting with PowerSheets

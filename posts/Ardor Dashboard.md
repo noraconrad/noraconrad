@@ -8,6 +8,7 @@ externalUrl: https://ardor.deskdata.co
 date: 2026-01-06T00:00:00.000Z
 publish: true
 category: project
+index: true
 ---
 **External Site:** [ardor.deskdata.co](https://ardor.deskdata.co)
 ![[ae-project.png]]

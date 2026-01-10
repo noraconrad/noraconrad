@@ -8,9 +8,8 @@ description: ''
 publish: true
 slug: posts/starting-a-stationery-shop-on-a-shoestring-budget
 category: posts
+index: true
 ---
- 
-
 # Starting a Stationery Shop on a Shoestring Budget
 
 I decided I wanted to open up an e-commerce shop, but this isn’t my first rodeo. Back in 2023, I ran a shop called Sister Sprouts, where I…

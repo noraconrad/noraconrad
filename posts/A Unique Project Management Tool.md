@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/a-unique-project-management-tool
 category: posts
+index: true
 ---
 ByDesign might be the perfect solution for overcomplicated apps
 

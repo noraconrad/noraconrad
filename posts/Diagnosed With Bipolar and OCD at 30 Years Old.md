@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/diagnosed-with-bipolar-and-ocd-at-30-years-old
 category: posts
+index: true
 ---
 In 2018, I welcomed my first baby into the world. She was perfect, the delivery went great, and my pregnancy even went by with minimal issues — but after her arrival, I experienced serious postpartum anxiety.
 

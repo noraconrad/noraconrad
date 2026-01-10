@@ -8,9 +8,8 @@ description: ''
 publish: true
 slug: posts/tools-apps-to-help-you-read-your-bible-more-intentionally
 category: posts
+index: true
 ---
- 
-
 # Tools & Apps to help you read your bible more intentionally
 
 The first goal of 2022 I was working toward is reading my bible every day. I’ve done fairly well with this in the past but I really want…

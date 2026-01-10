@@ -5,6 +5,7 @@ coverImage: ''
 tags: []
 description: ''
 publish: false
+index: true
 ---
 #### This new feature has made me a customer for life.
 

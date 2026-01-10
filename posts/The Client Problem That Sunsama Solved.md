@@ -8,9 +8,8 @@ description: ''
 publish: true
 slug: posts/the-client-problem-that-sunsama-solved
 category: posts
+index: true
 ---
- 
-
 # The Client Problem That Sunsama Solved
 
 How I stopped drowning in other people’s systems

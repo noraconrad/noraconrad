@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/31-lessons-ive-learned-in-31-years
 category: posts
+index: true
 ---
  ### It’s my birthday, let’s be corny for a sec
 

@@ -13,10 +13,30 @@ const path = require('path');
 const postsDir = path.join(__dirname, 'posts');
 const indexPath = path.join(postsDir, 'index.json');
 
-// Get all .md files from posts directory
-const files = fs.readdirSync(postsDir)
-    .filter(file => file.endsWith('.md') && file !== 'index.json')
-    .sort();
+// Recursively get all .md files from posts directory and subdirectories
+function getAllMarkdownFiles(dir, baseDir = dir) {
+    const files = [];
+    const entries = fs.readdirSync(dir, { withFileTypes: true });
+    
+    for (const entry of entries) {
+        const fullPath = path.join(dir, entry.name);
+        const relativePath = path.relative(baseDir, fullPath);
+        
+        if (entry.isDirectory()) {
+            // Skip node_modules, .git, and other hidden directories
+            if (!entry.name.startsWith('.') && entry.name !== 'node_modules') {
+                files.push(...getAllMarkdownFiles(fullPath, baseDir));
+            }
+        } else if (entry.isFile() && entry.name.endsWith('.md') && entry.name !== 'index.json') {
+            // Use forward slashes for paths (web-friendly)
+            files.push(relativePath.replace(/\\/g, '/'));
+        }
+    }
+    
+    return files;
+}
+
+const files = getAllMarkdownFiles(postsDir).sort();
 
 // Write index.json
 fs.writeFileSync(indexPath, JSON.stringify(files, null, 2));

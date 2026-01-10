@@ -11,6 +11,7 @@ publish: true
 slug: >-
   posts/why-most-business-owners-feel-overwhelmed-and-how-better-operations-can-fix-it
 category: posts
+index: true
 ---
 Most small business owners don’t have a time problem — they have a systems problem.
 

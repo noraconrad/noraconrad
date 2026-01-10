@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/every-content-creator-needs-an-email-system
 category: posts
+index: true
 ---
 #### How many emails are in your inbox right now?
 

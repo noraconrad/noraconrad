@@ -8,8 +8,8 @@ description: null
 publish: true
 slug: posts/mastering-sunsama-zapier-a-complete-guide-to-smarter-task-management
 category: posts
+index: true
 ---
-
 ![](IMG-2861-from-Adobe-Lightroom-scaled.jpg)
 
 # **Part 01: Sunsama**

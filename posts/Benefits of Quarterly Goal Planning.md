@@ -8,6 +8,7 @@ description: null
 publish: true
 slug: posts/benefits-of-quarterly-goal-planning
 category: posts
+index: true
 ---
 I love to set goals, but New Year’s resolutions never worked well for me. Like most, I’d lose motivation over the year and what started as a perfectly laid out action plan often fell apart when life changed, the goal shifted or my priorities stopped aligning with the goal. For the last few years, I’ve switched to quarterly goals, and I’ve found many benefits to this process as well as some great products and resources that have made it more intentional.
 

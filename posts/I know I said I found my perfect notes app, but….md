@@ -9,6 +9,7 @@ description: ''
 publish: true
 slug: posts/i-know-i-said-i-found-my-perfect-notes-app-but
 category: posts
+index: true
 ---
 Just 6 months ago, I shared my process of filtering through, identifying needs, and seeking out my perfect notes application. I ended up with RemNote, a fantastic tool that really did meet all my needs. The problem is, I barely ever used it.
 

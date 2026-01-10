@@ -8,8 +8,8 @@ description: null
 publish: true
 slug: posts/my-goal-planning-method-for-2026
 category: posts
+index: true
 ---
-
 #### With Notion and Sunsama
 
 It’s that time of year — the kids will be out of school soon, the holiday season chaos is just beginning, and I’m itching to start in my new planner. I love planning my year based on my goals; while they often change and evolve as the year goes on, having a plan for at least the first quarter always gets me through those slushy-snowy winter days.

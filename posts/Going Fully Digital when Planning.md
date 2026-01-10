@@ -8,6 +8,7 @@ description: ''
 publish: true
 slug: posts/going-fully-digital-when-planning
 category: posts
+index: true
 ---
 How I use Notion, Sunsama & Google
 

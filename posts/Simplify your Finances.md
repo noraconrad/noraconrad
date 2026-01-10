@@ -8,9 +8,8 @@ description: ''
 publish: true
 slug: posts/simplify-your-finances
 category: posts
+index: true
 ---
- 
-
 # Simplify your Finances
 
 I am so excited about this post today because finances have been a huge focus in our home over the last few years. When we started looking…

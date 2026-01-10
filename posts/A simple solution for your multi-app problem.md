@@ -9,6 +9,7 @@ description: ''
 publish: true
 slug: posts/a-simple-solution-for-your-multi-app-problem
 category: posts
+index: true
 ---
 #### How Plexxy connects all your tasks
 
