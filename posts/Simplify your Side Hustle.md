@@ -104,13 +104,6 @@ No answer is the wrong answer here, but it is important to understand what your 
 Personally, I cut out all the one-on-one client services so that I would have more time to focus on building a passive income. My goal is to be able to work a couple of hours per week on my business and have it at least be self-sustainable and at best earn me some take-home profit that I can pay myself every month. Knowing that goal, I can manage what services and products I offer really well, and I know what my goals are going down the road.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [July 1, 2019](https://medium.com/p/fef46f311e66).
 
 [Canonical link](https://medium.com/@noraconrad/simplify-your-side-hustle-fef46f311e66)

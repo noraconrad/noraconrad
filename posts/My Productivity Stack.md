@@ -99,13 +99,6 @@ This is a freemium app that we use to create training modules for our team and f
 **_What’s in your app stack that you couldn’t live without? I’d love some recommendations for an all-in-one planner app (tasks, notes, and calendar), so leave them in the comments if you’ve got anything good)._**
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://medium.com/@noraconrad/membership)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [November 30, 2022](https://medium.com/p/e8ee292d8392).
 
 [Canonical link](https://medium.com/@noraconrad/my-productivity-stack-e8ee292d8392)

@@ -118,13 +118,6 @@ That being said, this plan will not work for everyone. I highly recommend talkin
 I hope if this is a good option for you, that it can bless your family in the way it has ours.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 2, 2018](https://medium.com/p/efdb703175a4).
 
 [Canonical link](https://medium.com/@noraconrad/paying-for-a-baby-without-insurance-christian-healthcare-ministries-review-efdb703175a4)

@@ -45,13 +45,6 @@ If you’re not using a password manager by now, you need to get on this TODAY. 
 What mac app do you swear by?
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 18, 2022](https://medium.com/p/45d0a2f80548).
 
 [Canonical link](https://medium.com/@noraconrad/5-mac-apps-that-streamline-my-workflows-45d0a2f80548)

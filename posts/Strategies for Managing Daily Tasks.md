@@ -144,11 +144,3 @@ Focus less on ““perfect app” and more on consistent patterns. Review your 
 Your brain didn’t evolve for modern information overload and infinite choice. By understanding its quirks and limitations, you can design workflows that work with your brain rather than against it.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-By [Steph Nora Conrad](https://medium.com/@noraconrad) on [June 11, 2025](https://medium.com/p/24540dac242b).
-
-[Canonical link](https://medium.com/@noraconrad/strategies-for-managing-daily-tasks-24540dac242b)
-
-Exported from [Medium](https://medium.com) on January 7, 2026.

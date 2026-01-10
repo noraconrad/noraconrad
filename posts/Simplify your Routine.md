@@ -102,13 +102,6 @@ At the end of the month, I was able to complete the following habits:
 These seven habits might seem small and may be easy to you, but adding these into my routine completely changed my day. I sleep better at night, I have more energy in the afternoons, and even though a move and some family stuff, I was able to keep up habits that I hadn’t been able to stick to before.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [August 1, 2019](https://medium.com/p/41b242085545).
 
 [Canonical link](https://medium.com/@noraconrad/simplify-your-routine-41b242085545)

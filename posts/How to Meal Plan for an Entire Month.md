@@ -143,13 +143,6 @@ With all of these methods combined, we spend an average of $517 on groceries eac
 That might have seemed like a lot of work, but in reality, **all of this can be done in one afternoon**. Build up your system over time. Start with your meal list, then a grocery list, then plan for one week, then two then four. You’ll be surprised how much easier this is once you have the system in place.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [March 2, 2018](https://medium.com/p/636d691dbf9c).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-meal-plan-for-an-entire-month-save-money-on-groceries-636d691dbf9c)

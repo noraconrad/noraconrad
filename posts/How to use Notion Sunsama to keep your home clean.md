@@ -67,13 +67,6 @@ Don’t forget to get your partner, kids, or roommates on board for the plan as 
 Once you have a good system in place, use that system to build regular routines into it as well. Things like laundry and dishes can easily be thrown in to make your day-to-day run a little smoother. Every task that makes your house into a home can work its way into this system so that, even in the busy months, you can trust that your home is going to be a tidy, healthy, and safe place to come back to.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 1, 2021](https://medium.com/p/a79768042a4a).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-use-notion-sunsama-to-keep-your-home-clean-a79768042a4a)

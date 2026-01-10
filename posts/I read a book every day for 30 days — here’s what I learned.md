@@ -79,13 +79,6 @@ I had gotten into a funk of not really reading much in the last year. Part of it
 As I work toward my next 30-day challenge, I really want to make sure the intention of the challenge is the main focus rather than just checking off the days.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [January 16, 2020](https://medium.com/p/f3be6cba16ee).
 
 [Canonical link](https://medium.com/@noraconrad/i-read-a-book-every-day-for-30-days-heres-what-i-learned-f3be6cba16ee)

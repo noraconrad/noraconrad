@@ -88,13 +88,6 @@ Your house will never be fully cleaned and your inbox will always have emails if
 - Unfollow everyone on Facebook so that you’re not distracted by your news feed.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [March 16, 2018](https://medium.com/p/23554bf926ed).
 
 [Canonical link](https://medium.com/@noraconrad/10-ways-to-simplify-your-day-to-day-life-23554bf926ed)

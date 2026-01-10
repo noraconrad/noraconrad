@@ -89,13 +89,6 @@ Do you run a team of twenty and have a partner with four teenagers? You probably
 No matter what your planning style is, there are a million ways to plan and build a system perfect for you. It may evolve over time (mine certainly has!) and it might include tools that aren’t on this post. Don’t worry about how the system looks, worry about how it functions for YOU. Below is a big ol’ list of popular “productivity” and “calendar” type tools that may work into your system. Be sure to do your research beforehand and find what works best for you.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [November 1, 2021](https://medium.com/p/511995d27f50).
 
 [Canonical link](https://medium.com/@noraconrad/going-fully-digital-when-planning-how-i-use-notion-sunsama-google-511995d27f50)

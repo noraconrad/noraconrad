@@ -100,13 +100,6 @@ This app is simple and easy. There are not a ton of bells and whistles, and whil
 Overall, I was really impressed with Routine, and although it isn’t being added to my personal workflow (because I’m so well integrated into my existing apps), I would recommend checking it out. I think as they continue to grow and evolve, Routine is going to become a major competitor in the planning app market.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://medium.com/@noraconrad/membership)_. (If you sign up using_ [_my link_](https://medium.com/@noraconrad/membership)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 21, 2022](https://medium.com/p/96693e70e01a).
 
 [Canonical link](https://medium.com/@noraconrad/routine-co-a-promising-planner-app-96693e70e01a)

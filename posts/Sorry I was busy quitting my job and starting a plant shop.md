@@ -91,13 +91,6 @@ Over the next few months, these are a few of the things I’d love to share abou
 - How long it takes to fully replace my salary with my own business
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using my link, I earn a small commission.) [https://blog.noraconrad.com/subscribe](https://blog.noraconrad.com/subscribe)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [May 4, 2023](https://medium.com/p/b90871787809).
 
 [Canonical link](https://medium.com/@noraconrad/sorry-i-was-busy-quitting-my-job-and-starting-a-plant-shop-b90871787809)

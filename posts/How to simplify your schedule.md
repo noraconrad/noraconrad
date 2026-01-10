@@ -74,13 +74,6 @@ If you’re no good at estimating, add stuff to your calendar as you do it! At t
 [**_How time tracking boosted my productivity_**](https://medium.com/@noraconrad/how-time-tracking-can-boost-your-productivity-99e8b84ba30d)
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [February 21, 2022](https://medium.com/p/6e2f9ccc36c9).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-simplify-your-schedule-6e2f9ccc36c9)

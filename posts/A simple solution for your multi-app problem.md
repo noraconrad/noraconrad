@@ -74,13 +74,6 @@ When signing up for [Pleexy](www.pleexy.com), it’s important to note your choi
 [Pleexy](www.pleexy.com) is a fantastic and super simple solution to an all-to-common problem and will be a great option for a ton of users. If you use even two of the apps listed, it will be well worth the price to have your tasks integrate into one system. I believe every automation step like this can make your day run much smoother and is worth the investment. I will definitely be adding [Pleexy](www.pleexy.com) to my recommended app list and highly recommend you try it out if you’re a user of these apps.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [July 7, 2023](https://medium.com/p/be0e2d484d6f).
 
 [Canonical link](https://medium.com/@noraconrad/a-simple-solution-for-your-multi-app-problem-be0e2d484d6f)

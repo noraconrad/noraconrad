@@ -57,13 +57,6 @@ Your goals need constant attention, they’re very needy. I like to look at my t
 If you really struggle with the action plan or maybe you set too many goals, I recommend downloading my free Goal Setting Cheatsheet. It will help you make a crazy detailed action plan using the same method I use for my business goals.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [January 5, 2018](https://medium.com/p/9bca6a2b9200).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-set-goals-you-will-actually-reach-9bca6a2b9200)

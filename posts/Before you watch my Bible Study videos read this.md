@@ -97,13 +97,6 @@ I hope that this post answered some of the questions you might have about starti
 #### WHAT APPS, BOOKS, TRANSLATIONS OR WEBSITES DO YOU LOVE AND RECOMMEND FOR BIBLE STUDIES AND RESOURCES? SHARE THEM BELOW AND LET ME KNOW IF YOU HAVE ANY QUESTIONS.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [January 2, 2020](https://medium.com/p/d8890f9a949d).
 
 [Canonical link](https://medium.com/@noraconrad/before-you-watch-my-bible-study-videos-read-this-d8890f9a949d)

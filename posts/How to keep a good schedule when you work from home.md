@@ -78,13 +78,6 @@ This can be as simple as doing all your chores in one day rather than breaking t
 Life is meant to be enjoyed. So enjoy it. Don’t let stress overwhelm you. God put you on this earth to love life and serve others — don’t waste your days wishing you were somewhere else.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [January 16, 2017](https://medium.com/p/a0b8d186219e).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-keep-a-good-schedule-when-you-work-from-home-a0b8d186219e)

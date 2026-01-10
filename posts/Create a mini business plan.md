@@ -132,13 +132,6 @@ Personally, I update my business plan every 6 months or after a big change, such
 Set an event or reminder on your phone/calendar/laptop so you remember to review your plan and update it regularly. And NEVER delete old plans. Looking back at what has changed (even if it was a negative change) will help you learn and evaluate what works.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [February 2, 2022](https://medium.com/p/249a1990e1c6).
 
 [Canonical link](https://medium.com/@noraconrad/create-a-mini-business-plan-249a1990e1c6)

@@ -61,11 +61,6 @@ The rest of my office is shared with my husband’s desk and my plant studio. I 
 This office and setup took almost 5 years to built up and even now, there are things I would love to add and upgrade. I hope this gave you some ideas for your own space and if you have any suggestions for my setup, I’d love to hear about some of your favorite purchases.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 2, 2023](https://medium.com/p/6dd726b5bc7f).
 
 [Canonical link](https://medium.com/@noraconrad/my-desk-setup-fall-2023-6dd726b5bc7f)

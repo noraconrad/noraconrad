@@ -96,13 +96,6 @@ Tella is a software tool that combines screen recordings and camera footage to h
 My go-to video editor for long-form content. I use this for all my YouTube videos and for the more complex social media posts (or for breaking up longer-form content into small cuts).
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [September 2, 2023](https://medium.com/p/76116032b50e).
 
 [Canonical link](https://medium.com/@noraconrad/mac-apps-that-drive-my-workflow-76116032b50e)

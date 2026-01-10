@@ -89,13 +89,6 @@ Having your notes in any digital format can be beneficial, but Notion specifical
 Personally, I have loved this addition of digital elements to my life. I feel it’s helped me focus more intentionally on my bible studies and get more from my sermons and prayers than in the past. As someone who is extremely type-A, even the setup of this database has been really relaxing and fulfilling.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [September 1, 2021](https://medium.com/p/78113074c34a).
 
 [Canonical link](https://medium.com/@noraconrad/how-i-use-notion-for-my-bible-studies-78113074c34a)

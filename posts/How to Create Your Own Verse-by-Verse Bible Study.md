@@ -119,13 +119,6 @@ Simply listening to online sermons from churches around the country can also be 
 You can watch my verse-by-verse series here:
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [April 13, 2018](https://medium.com/p/cebe823e91f6).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-create-your-own-verse-by-verse-bible-study-cebe823e91f6)

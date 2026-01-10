@@ -103,13 +103,6 @@ Those days are where God’s grace comes into play. God’s got a plan for you, 
 Since I started tithing 10% of my business profits and sharing God in my business — I’ve seen more growth than over the last year. God rewards us when we are faithful. Let your faith be a part of your business.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [November 23, 2015](https://medium.com/p/3043b7cc6380).
 
 [Canonical link](https://medium.com/@noraconrad/how-proverbs-31-fits-into-my-business-plan-3043b7cc6380)

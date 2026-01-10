@@ -78,11 +78,6 @@ Journaling is meant to be comforting and uniquely yours. So, grab whatever journ
 Keep it simple, keep it real, and keep being the wonderful human you are. Happy journaling.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 30, 2023](https://medium.com/p/243e26f3f449).
 
 [Canonical link](https://medium.com/@noraconrad/journaling-toward-a-better-you-243e26f3f449)

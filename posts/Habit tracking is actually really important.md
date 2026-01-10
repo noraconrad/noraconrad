@@ -40,13 +40,6 @@ So, consider incorporating habit tracking into your daily routine. Take the time
 Remember, the journey towards your goals is built one habit at a time. So, grab that tracker and start making positive changes today. You’ve got this!
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [May 23, 2023](https://medium.com/p/8b005ea2e6e8).
 
 [Canonical link](https://medium.com/@noraconrad/today-i-want-to-talk-about-a-powerful-tool-that-has-transformed-the-way-i-approach-my-daily-life-8b005ea2e6e8)

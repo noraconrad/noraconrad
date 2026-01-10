@@ -71,13 +71,6 @@ This method of content creation does a couple of things for you:
 You’re only human and you can’t do it all. If you’re feeling overwhelmed even after putting these systems in place, you need to back off of some projects. I’ve outsourced, canceled, and stopped many projects, and you know what? I didn’t miss them. Your business is in your control, don’t let it control you.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [September 14, 2017](https://medium.com/p/6e6dd9999778).
 
 [Canonical link](https://medium.com/@noraconrad/5-simple-ways-to-streamline-your-business-6e6dd9999778)

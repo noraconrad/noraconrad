@@ -57,13 +57,6 @@ Although Remnote is marketed for students, I found that it works exactly the way
 Make a list of what you need, ignore the marketing and target audience and look at the features list. There is an ever-growing list of apps being made, your perfect one is out there and it’s ok to keep looking for it.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for [Medium](https://medium.com/@noraconrad/membership). (If you sign up using my [link](https://medium.com/@noraconrad/membership), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [February 8, 2023](https://medium.com/p/7047d69b7fd4).
 
 [Canonical link](https://medium.com/@noraconrad/i-finally-found-my-perfect-notes-app-7047d69b7fd4)

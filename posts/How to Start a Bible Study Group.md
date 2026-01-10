@@ -80,13 +80,6 @@ When our church launched their home group program, they gave all the group leade
 - [The Bible Project](https://thebibleproject.com/) — If your group is studying by book, these videos are great for getting an overall picture of the story.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [February 16, 2018](https://medium.com/p/9dc3f452d573).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-start-a-bible-study-group-9dc3f452d573)

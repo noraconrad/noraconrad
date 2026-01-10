@@ -68,13 +68,6 @@ Along with this, we plan monthly days that help our family get little breaks. Ev
 _This post contains affiliate links — as always any links are products or services I use myself and would recommend only based on my own experience._
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [March 1, 2021](https://medium.com/p/14122b1d3b77).
 
 [Canonical link](https://medium.com/@noraconrad/reset-day-tasks-to-start-your-week-off-on-the-right-foot-14122b1d3b77)

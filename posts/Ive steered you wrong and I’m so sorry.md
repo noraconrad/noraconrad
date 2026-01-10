@@ -50,11 +50,3 @@ These small shifts in how we approach tasks can lead to big changes in our lives
 Productivity isn’t about getting more done — it’s about getting the right things done. So next time you find yourself facing an overflowing to-do list, or you are tempted to try the latest organization hack… ask yourself: What’s the _purpose_ behind this?
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-By [Steph Nora Conrad](https://medium.com/@noraconrad) on [September 3, 2024](https://medium.com/p/c754747b2fe0).
-
-[Canonical link](https://medium.com/@noraconrad/ive-steered-you-wrong-and-i-m-so-sorry-c754747b2fe0)
-
-Exported from [Medium](https://medium.com) on January 7, 2026.

@@ -92,13 +92,6 @@ The best way to decide what kind of business you want to start is to look at you
 If you want to make extra money, start with a simple website and put in the work. Sitting your butt down in front of a computer and spending time on your business is the only way to start earning an income online.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 1, 2019](https://medium.com/p/f47a217bf67).
 
 [Canonical link](https://medium.com/@noraconrad/simplify-your-finances-f47a217bf67)

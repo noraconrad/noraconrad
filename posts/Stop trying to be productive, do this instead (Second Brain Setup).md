@@ -70,13 +70,6 @@ Readwise for book notes: [https://readwise.io/i/stephanie333](https://www.youtub
 Second Brain Playlist: [https://youtube.com/playlist?list=PLn...](https://www.youtube.com/playlist?list=PLnUnQIJrz3co9e-GMOI0gvzWSZv6i-VO6)
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for_ [_Medium_](https://medium.com/@noraconrad/membership)_. (If you sign up using my_ [_link_](https://medium.com/@noraconrad/membership)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [September 1, 2022](https://medium.com/p/3796d6ff894f).
 
 [Canonical link](https://medium.com/@noraconrad/stop-trying-to-be-productive-do-this-instead-second-brain-setup-3796d6ff894f)

@@ -106,13 +106,6 @@ While our family was supportive, they didn’t fully understand WHY we were doin
 Everyone’s financial situation is unique, but these principles can be adapted to fit your circumstances. Getting debt-free is challenging, but with determination, smart planning, and a supportive community, it’s absolutely achievable. Anyone who tells you it’s not is not telling you the truth. It’s hard, but it’s worth it. Keep at it.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for [Medium](https://medium.com/@noraconrad/membership). (If you sign up using my [link](https://medium.com/@noraconrad/membership), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [September 21, 2023](https://medium.com/p/72e261e1cfaf).
 
 [Canonical link](https://medium.com/@noraconrad/5-lessons-learned-by-getting-debt-free-in-2023-72e261e1cfaf)

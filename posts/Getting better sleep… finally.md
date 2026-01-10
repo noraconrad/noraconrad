@@ -75,13 +75,6 @@ Starting my morning early enough that I don’t have to jump straight into work 
 I’m really grateful that my kids are in a stage of sleeping well, that my husband is home in the mornings to get the kids up and moving, and that my job is WFH and flexible enough to work around my schedule. I know these things are not possible for everyone, but I hope some of my routine and tips can help you get better sleep.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [January 2, 2023](https://medium.com/p/df2b05af1b22).
 
 [Canonical link](https://medium.com/@noraconrad/getting-better-sleep-finally-df2b05af1b22)

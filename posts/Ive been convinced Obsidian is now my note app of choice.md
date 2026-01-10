@@ -87,11 +87,6 @@ Photo by [Christin Hume](https://unsplash.com/@christinhumephoto?utm_source=unsp
 Reflect served me well, but Obsidian has become my new go-to tool mostly due to its coding-friendly features, Markdown capabilities, and limitless customization. So, whether you’re a coding newbie or a seasoned developer, consider giving Obsidian a shot. It might just become your secret weapon.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 24, 2023](https://medium.com/p/564cb9ed760c).
 
 [Canonical link](https://medium.com/@noraconrad/ive-been-convinced-obsidian-is-now-my-note-app-of-choice-564cb9ed760c)

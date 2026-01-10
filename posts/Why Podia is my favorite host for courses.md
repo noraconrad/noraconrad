@@ -118,13 +118,6 @@ Between the simplicity, features, and AH-MAZ-ING customer service on Podia, I ha
 [**Sign up for a free trial**](http://podia.sjv.io/nora)
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [June 14, 2020](https://medium.com/p/445398566ac8).
 
 [Canonical link](https://medium.com/@noraconrad/why-podia-is-my-favorite-host-for-courses-445398566ac8)

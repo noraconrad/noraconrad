@@ -91,13 +91,6 @@ When we got married, both my husband and I were on phone plans with our family. 
 Regardless of your situation — you can probably get on a cheaper phone plan, or at least buy your phone outright and stop leasing ([it loses you money to lease](https://www.thesimpledollar.com/save-money/iphone-financing/), it doesn’t matter what it is or how good the offer sounds. Do your research). There are a ton of options for budget phones and budget phone plans — so figure out how much data you actually use and look into changing services. If you’re interested in Google Fi, you can use [my link](https://g.co/fi/r/VPU3PV) and get a $20 credit for your first bill.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider signing up for Medium. (If you sign up [using my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [February 13, 2020](https://medium.com/p/dffcee748f10).
 
 [Canonical link](https://medium.com/@noraconrad/5-small-expenses-to-cut-out-dffcee748f10)

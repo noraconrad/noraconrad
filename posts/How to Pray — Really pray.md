@@ -65,13 +65,6 @@ Of course, I thank God for the small things that happen every day. I thank Him f
 The easiest prayers to pray are the ones where you are thanking God for everything He has given you. Start there and work your way out. Good luck :)
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [September 18, 2014](https://medium.com/p/29cba0931c50).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-pray-really-pray-29cba0931c50)

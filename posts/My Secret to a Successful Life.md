@@ -92,13 +92,6 @@ Not only will you be learning something new daily, but you’ll also be creating
 Do me a favor. Try this strategy for 20 days. Write your goal on a post-it or on your phone or tweet it out. Whatever you need to do. Hit that goal. Learn something new. Then do it again the next day. At the end of those 20 days, if you don’t feel more productive, accomplished, and focused, you let me know.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up_ [_using my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [November 16, 2015](https://medium.com/p/74f20b8764e1).
 
 [Canonical link](https://medium.com/@noraconrad/my-1-secret-to-a-successful-life-74f20b8764e1)

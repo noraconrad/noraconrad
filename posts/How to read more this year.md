@@ -54,13 +54,6 @@ I absolutely love reading and I love that it’s become more popular in our post
 Happy reading.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider signing up for Medium. (_[_If you sign up using my link, I earn a small commission._](https://medium.com/@noraconrad/membership)_)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [December 27, 2022](https://medium.com/p/f60993e13e80).
 
 [Canonical link](https://medium.com/@noraconrad/how-to-read-more-in-2023-f60993e13e80)

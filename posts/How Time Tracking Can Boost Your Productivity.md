@@ -77,13 +77,6 @@ There are a few important things I learned from this month:
 I also have to note that I didn’t track my time as often on the weekends as I should have, so this breakdown is not 100% accurate of how I spend my time each week. However, it shows me that I do have a fairly good balance in my life and since starting, it’s improved a lot.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://blog.noraconrad.com/subscribe)_. (If you sign up using_ [_my link_](https://blog.noraconrad.com/subscribe)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [October 6, 2017](https://medium.com/p/99e8b84ba30d).
 
 [Canonical link](https://medium.com/@noraconrad/how-time-tracking-can-boost-your-productivity-99e8b84ba30d)

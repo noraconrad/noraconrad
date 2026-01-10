@@ -222,13 +222,6 @@ Obviously, that is a lot to take in. We are not perfect, nor does God expect us 
 Proverbs 31 has been one of my favorite studies so far. I took it to heart and I work every day at meeting God’s expectations of all women. I hope this helped you understand what we are called to do and how to achieve it. Even when we fail, God’s grace is there to help us get back on track. Pray over everything and work hard.
 
 ---
-
-_👏🏼 If you found this article valuable hit those clapping hands once or twice._
-
-_💻 If you want to support my work and thousands of others, consider_ [_signing up for Medium_](https://medium.com/@noraconrad/membership)_. (If you sign up using_ [_my link_](https://medium.com/@noraconrad/membership)_, I earn a small commission.)_
-
-_✨ Thank you for reading & for your support!_
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [August 7, 2014](https://medium.com/p/4393115e3897).
 
 [Canonical link](https://medium.com/@noraconrad/becoming-a-proverbs-31-woman-4393115e3897)

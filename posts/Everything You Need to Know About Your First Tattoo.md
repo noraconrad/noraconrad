@@ -97,13 +97,6 @@ If you think I missed any details please let me know!! Good luck with your new i
 - If you’re worried about the pain, take some music with you. Find ways to distract yourself. Talk to your friend or the artist, play a game on your phone or read. Everyone is different.
 
 ---
-
-👏🏼 If you found this article valuable hit those clapping hands once or twice.
-
-💻 If you want to support my work and thousands of others, consider [signing up for Medium](https://blog.noraconrad.com/subscribe). (If you sign up using [my link](https://blog.noraconrad.com/subscribe), I earn a small commission.)
-
-✨ Thank you for reading & for your support!
-
 By [Steph Nora Conrad](https://medium.com/@noraconrad) on [March 3, 2015](https://medium.com/p/eff18fd82250).
 
 [Canonical link](https://medium.com/@noraconrad/everything-you-need-to-know-about-your-first-tattoo-eff18fd82250)
