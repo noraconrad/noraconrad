@@ -16,7 +16,7 @@ I build data systems that work out of the box. Over 13 years in CPG, I've shifte
 
 ## How I Work
 
-I bridge the gap between what data shows and what businesses need to do with it. My toolkit: SQL, JavaScript/React for custom interfaces, Supabase for backend infrastructure, and AI no-code tools for rapid iteration. This combo lets me ship faster than building everything custom and cheaper than traditional SaaS solutions.
+I bridge the gap between what data shows and what businesses need to do with it. My toolkit: SQL, JavaScript/React for custom interfaces, Supabase for backend infrastructure, and AI no-code tools for rapid iteration (Wispr & Cursor). This combo lets me ship faster than building everything custom and cheaper than traditional SaaS solutions.
 
 Currently working with **[Ardor Energy](https://ardorenergy.com/)** on analytics infrastructure and **[MacPac Fulfillment](https://www.macpacfulfillment.com/)** on a custom warehouse management system.
 
