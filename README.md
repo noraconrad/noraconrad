@@ -2,7 +2,8 @@
 
 **Operations & Analytics Engineer**
 
-I build data systems that actually ship. Over 13 years in CPG, I've shifted from traditional data and ops consulting to directly engineering the tools my clients need—combining no-code platforms, AI automation, and frontend development to move from analysis to actionable infrastructure.
+I build data systems that work out of the box. Over 13 years in CPG, I've shifted from traditional data and ops consulting to directly engineering the tools my clients need—combining no-code platforms, AI automation, and frontend development to move from analysis to actionable infrastructure.
+
 
 ## What I Do
 
@@ -12,15 +13,6 @@ I build data systems that actually ship. Over 13 years in CPG, I've shifted from
 
 **Data Infrastructure** — Schema design, ETL pipelines, API integrations. I work across Shopify, retailer portals, ERP systems, and financial data to create single sources of truth.
 
-## For Small Teams Without the Budget
-
-Most inventory management and operational systems cost thousands monthly and require IT support to implement. I build them in Notion and Web Apps instead.
-
-Your team starts using the system tomorrow. No onboarding consultants, no learning curve, no integrations nightmare. A simple web form becomes your order intake. Notion databases become your project hub. Everything connects to what your team already uses.
-
-I design these systems so you can actually modify them—add fields, adjust workflows, optimize processes without waiting for a developer. The tool becomes flexible, not a constraint.
-
-This approach works for fulfillment operations, inventory reconciliation, demand planning, and sales analytics. It costs a fraction of legacy software and gives you the visibility to make better decisions immediately.
 
 ## How I Work
 
